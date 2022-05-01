@@ -1,0 +1,33 @@
+Rank,Player Name,Team,Matchup,Best Rank,Worst Rank,Avg Rank,Std Dev,Status
+1,Jacksonville Jaguars,JAC,HOU,1,4,1.3,0.7
+2,New Orleans Saints,NO,NYJ,1,6,2.5,1.0
+3,Baltimore Ravens,BAL,CLE,1,7,3.0,1.1
+4,Minnesota Vikings,MIN,CIN,1,27,4.6,2.6
+5,Philadelphia Eagles,PHI,NYG,1,9,4.7,1.3
+6,Denver Broncos,DEN,IND,1,13,6.0,1.5
+7,Buffalo Bills,BUF,MIA,3,16,7.6,2.2
+8,Detroit Lions,DET,CHI,5,15,8.8,1.7
+9,Atlanta Falcons,ATL,TB,7,16,10.0,1.7
+10,Los Angeles Chargers,LAC,KC,4,23,11.4,3.7
+11,Washington Redskins,WAS,ARI,3,22,11.3,3.5
+12,Seattle Seahawks,SEA,LAR,7,26,12.0,3.2
+13,Arizona Cardinals,ARI,WAS,7,20,15.0,2.5
+14,Tennessee Titans,TEN,SF,5,22,15.3,3.1
+15,San Francisco 49ers,SF,TEN,11,28,15.6,2.9
+16,Dallas Cowboys,DAL,OAK,9,27,14.7,2.9
+17,Indianapolis Colts,IND,DEN,8,29,15.6,3.6
+18,Los Angeles Rams,LAR,SEA,9,23,17.4,2.8
+19,Green Bay Packers,GB,CAR,11,28,19.6,2.9
+20,New England Patriots,NE,PIT,12,32,20.2,3.9
+21,Chicago Bears,CHI,DET,4,28,18.7,4.2
+22,Carolina Panthers,CAR,GB,7,26,19.1,4.2
+23,Miami Dolphins,MIA,BUF,9,27,19.6,4.6
+24,Houston Texans,HOU,JAC,11,30,22.9,3.9
+25,New York Giants,NYG,PHI,15,30,25.3,2.9
+26,Cleveland Browns,CLE,BAL,18,31,25.3,3.0
+27,Oakland Raiders,OAK,DAL,16,30,26.0,3.2
+28,Kansas City Chiefs,KC,LAC,18,32,26.5,3.6
+29,Cincinnati Bengals,CIN,MIN,9,32,27.3,4.2
+30,Pittsburgh Steelers,PIT,NE,16,32,28.6,3.6
+31,Tampa Bay Buccaneers,TB,ATL,23,31,29.4,1.9
+32,New York Jets,NYJ,NO,25,32,31.7,1.1

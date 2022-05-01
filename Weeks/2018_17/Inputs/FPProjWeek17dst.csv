@@ -1,0 +1,33 @@
+Player Name,Team,def_sack,def_int,def_fr,def_ff,def_td,def_safety,def_pa,def_tyda,fpts
+Seattle Seahawks,SEA,3.1,1.3,0.8,1.0,0.2,0.0,14.6,287.3,9.7
+New England Patriots,NE,2.3,1.6,0.6,0.8,0.2,0.0,17.8,308.7,9.2
+Los Angeles Rams,LAR,2.7,1.1,0.7,1.2,0.2,0.0,19.7,354.5,8.7
+Philadelphia Eagles,PHI,2.4,1.3,0.7,1.0,0.2,0.0,19.7,342.5,8.7
+Pittsburgh Steelers,PIT,2.8,1.1,0.7,0.8,0.2,0.0,19.1,313.8,8.7
+New Orleans Saints,NO,3.1,1.3,0.7,1.0,0.2,0.0,20.7,371.6,8.5
+Buffalo Bills,BUF,3.0,1.0,0.7,1.0,0.2,0.0,18.3,304.5,8.4
+Minnesota Vikings,MIN,2.5,1.1,0.6,0.9,0.2,0.1,17.9,313.4,8.2
+Houston Texans,HOU,2.6,1.0,0.8,1.3,0.2,0.1,16.8,315.0,8.2
+Atlanta Falcons,ATL,2.8,1.3,0.7,0.9,0.2,0.0,25.9,403.6,8.2
+New York Giants,NYG,2.6,1.2,0.6,0.7,0.2,0.0,18.8,339.7,8.1
+Kansas City Chiefs,KC,3.3,0.8,0.9,1.4,0.2,0.0,21.2,349.4,8.1
+Los Angeles Chargers,LAC,2.6,1.1,0.5,0.7,0.2,0.0,19.4,340.6,8.0
+Baltimore Ravens,BAL,2.2,0.9,0.6,0.8,0.2,0.1,15.8,292.8,7.7
+Indianapolis Colts,IND,2.8,0.9,0.7,0.8,0.2,0.0,22.1,327.8,7.4
+Miami Dolphins,MIA,2.2,1.3,0.6,0.8,0.2,0.0,21.4,324.5,7.3
+Jacksonville Jaguars,JAC,3.0,1.0,0.6,0.8,0.2,0.0,23.6,347.4,7.1
+Green Bay Packers,GB,2.9,0.9,0.6,0.8,0.2,0.0,21.4,352.6,7.1
+Carolina Panthers,CAR,2.4,1.0,0.8,1.1,0.2,0.0,30.1,390.0,6.9
+Denver Broncos,DEN,2.6,0.9,0.6,0.9,0.2,0.0,25.9,375.8,6.6
+Tampa Bay Buccaneers,TB,2.6,0.7,0.7,1.0,0.2,0.0,26.8,411.3,6.5
+Tennessee Titans,TEN,1.7,1.0,0.6,0.7,0.2,0.1,24.7,397.8,6.3
+Detroit Lions,DET,3.1,0.6,0.6,0.9,0.1,0.0,28.7,416.8,6.3
+Washington Redskins,WAS,2.3,0.8,0.7,1.2,0.2,0.0,24.0,370.2,6.3
+Arizona Cardinals,ARI,2.8,0.7,0.6,0.8,0.1,0.0,26.5,358.9,6.2
+Dallas Cowboys,DAL,2.6,0.7,0.7,1.0,0.2,0.0,21.9,341.7,6.2
+Cleveland Browns,CLE,1.9,1.0,0.6,1.0,0.2,0.0,22.5,313.7,6.2
+Chicago Bears,CHI,2.3,0.8,0.7,1.1,0.2,0.0,20.1,310.7,6.2
+San Francisco 49ers,SF,2.5,0.8,0.6,0.8,0.1,0.1,31.5,397.7,6.1
+Cincinnati Bengals,CIN,1.6,1.0,0.5,0.7,0.2,0.0,29.6,421.7,5.6
+New York Jets,NYJ,1.7,0.7,0.6,0.8,0.2,0.0,30.7,409.0,5.2
+Oakland Raiders,OAK,1.5,0.8,0.5,0.6,0.1,0.0,35.4,449.7,4.7

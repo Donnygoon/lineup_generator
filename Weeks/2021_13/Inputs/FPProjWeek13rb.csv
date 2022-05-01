@@ -1,0 +1,116 @@
+Player Name,Team,rush_att,rush_yds,rush_tds,rec_att,rec_yds,rec_tds,fumbles,fpts
+Jonathan Taylor,IND,20.8,105.7,1.0,3.2,26.9,0.1,0.1,23.0
+Austin Ekeler,LAC,12.0,55.5,0.5,4.8,43.7,0.3,0.1,19.3
+Joe Mixon,CIN,20.1,88.3,0.8,2.9,21.5,0.2,0.1,19.2
+Leonard Fournette,TB,16.0,64.9,0.6,4.2,30.9,0.1,0.1,18.1
+Alexander Mattison,MIN,20.5,85.6,0.5,2.9,26.0,0.1,0.1,17.9
+Najee Harris,PIT,16.9,63.9,0.5,3.8,28.6,0.1,0.1,16.8
+Javonte Williams,DEN,14.6,70.9,0.5,3.2,24.3,0.1,0.1,16.2
+Antonio Gibson,WAS,17.5,71.6,0.6,2.8,20.4,0.1,0.2,16.1
+James Conner,ARI,16.2,66.7,0.7,2.7,20.1,0.1,0.1,16.0
+Elijah Mitchell,SF,18.8,81.2,0.6,2.0,16.9,0.1,0.1,15.6
+Cordarrelle Patterson,ATL,8.5,42.8,0.3,3.9,38.7,0.3,0.1,15.4
+Saquon Barkley,NYG,14.0,59.5,0.4,3.6,26.9,0.1,0.1,15.1
+Jamaal Williams,DET,14.5,62.3,0.5,3.2,21.5,0.1,0.1,15.0
+Mark Ingram II,NO,15.2,64.6,0.5,2.8,22.4,0.1,0.1,14.8
+David Montgomery,CHI,15.9,68.3,0.5,2.7,20.0,0.1,0.1,14.7
+Myles Gaskin,MIA,13.9,54.8,0.5,3.2,22.1,0.2,0.1,14.4
+Ezekiel Elliott,DAL,14.5,58.3,0.5,2.8,20.6,0.1,0.1,14.2
+James Robinson,JAC,14.6,61.7,0.5,2.6,19.8,0.1,0.1,14.1
+Josh Jacobs,LV,13.8,54.0,0.5,2.9,22.4,0.1,0.1,14.1
+Miles Sanders,PHI,14.0,67.6,0.4,2.1,15.9,0.1,0.1,13.2
+Sony Michel,LAR,15.7,61.9,0.5,1.8,13.9,0.1,0.1,12.5
+Clyde Edwards-Helaire,KC,13.3,57.1,0.4,2.0,16.0,0.1,0.1,12.1
+Devonta Freeman,BAL,11.1,49.1,0.4,2.1,15.8,0.1,0.1,11.5
+Rex Burkhead,HOU,11.4,44.6,0.2,2.2,18.6,0.1,0.1,10.2
+Damien Harris,NE,12.7,56.2,0.4,1.0,7.2,0.0,0.1,9.9
+Tony Pollard,DAL,9.2,41.5,0.2,2.3,18.4,0.1,0.0,9.7
+Devin Singletary,BUF,10.1,46.2,0.1,2.4,15.5,0.0,0.1,9.5
+Rhamondre Stevenson,NE,9.5,42.4,0.2,1.8,14.8,0.0,0.1,8.8
+Darrel Williams,KC,7.1,27.8,0.2,2.5,20.1,0.1,0.1,8.8
+Tevin Coleman,NYJ,10.6,42.6,0.2,1.7,11.5,0.1,0.0,8.5
+Boston Scott,PHI,8.8,38.0,0.3,1.6,11.6,0.0,0.1,8.4
+Ty Johnson,NYJ,6.6,27.5,0.1,2.6,20.9,0.1,0.1,8.4
+Kenyan Drake,LV,6.8,26.3,0.1,2.3,18.2,0.1,0.1,7.9
+Darrell Henderson Jr.,LAR,7.3,35.7,0.2,1.5,11.2,0.1,0.1,7.9
+Matt Breida,BUF,8.1,35.5,0.1,1.6,13.9,0.1,0.1,7.5
+Mike Davis,ATL,6.6,22.3,0.1,2.7,16.9,0.1,0.1,7.5
+Nyheim Hines,IND,4.0,17.6,0.1,2.5,20.3,0.1,0.1,7.2
+Brandon Bolden,NE,2.6,12.3,0.0,3.0,23.4,0.1,0.0,7.0
+Alex Collins,SEA,9.3,39.2,0.2,0.9,5.6,0.0,0.1,6.3
+Latavius Murray,BAL,8.7,33.5,0.2,1.1,6.8,0.0,0.0,6.2
+Austin Walter,NYJ,7.4,25.2,0.2,1.4,10.5,0.1,0.1,6.2
+Jeff Wilson Jr.,SF,7.2,28.5,0.1,1.2,9.5,0.0,0.1,5.9
+DeeJay Dallas,SEA,4.3,16.2,0.1,1.9,14.6,0.0,0.0,5.7
+Kenneth Gainwell,PHI,3.3,13.9,0.1,1.9,16.4,0.1,0.1,5.7
+Kyle Juszczyk,SF,1.0,3.0,0.0,2.2,21.9,0.1,0.0,5.2
+Jermar Jefferson,DET,4.9,19.8,0.1,1.3,9.1,0.0,0.0,5.1
+Eno Benjamin,ARI,6.2,23.0,0.1,1.2,8.2,0.0,0.0,5.1
+Mike Boone,DEN,6.5,27.4,0.1,0.9,5.1,0.0,0.0,5.0
+Ronald Jones II,TB,7.5,30.8,0.2,0.6,4.1,0.0,0.1,5.0
+Devontae Booker,NYG,5.4,22.3,0.1,1.2,8.5,0.0,0.1,4.9
+Samaje Perine,CIN,5.1,19.2,0.1,1.3,9.6,0.0,0.0,4.8
+JaMycal Hasty,SF,3.5,12.7,0.1,1.6,14.2,0.0,0.0,4.8
+Godwin Igwebuike,DET,3.8,17.0,0.1,1.3,9.6,0.0,0.0,4.7
+Kene Nwangwu,MIN,5.3,20.4,0.1,1.0,7.5,0.0,0.1,4.5
+Wendell Smallwood,WAS,2.5,8.8,0.0,1.9,12.3,0.0,0.0,4.3
+Salvon Ahmed,MIA,5.9,20.2,0.1,0.9,6.6,0.0,0.0,4.2
+Ty Montgomery,NO,3.3,12.4,0.0,1.4,10.4,0.0,0.0,3.9
+Duke Johnson Jr.,MIA,2.2,10.8,0.0,1.4,10.8,0.0,0.1,3.9
+Royce Freeman,HOU,5.7,20.1,0.1,0.8,4.6,0.0,0.0,3.8
+Khalil Herbert,CHI,4.6,18.6,0.1,0.9,5.9,0.0,0.0,3.8
+Qadree Ollison,ATL,4.6,15.6,0.1,1.0,5.1,0.0,0.0,3.8
+Carlos Hyde,JAC,5.0,18.1,0.1,1.0,5.3,0.0,0.0,3.7
+Jaret Patterson,WAS,5.4,20.6,0.1,0.7,4.1,0.0,0.0,3.6
+Giovani Bernard,TB,2.2,8.0,0.0,1.4,9.5,0.1,0.0,3.6
+Zack Moss,BUF,5.1,15.5,0.1,1.3,5.1,0.0,0.0,3.6
+Adrian Peterson,SEA,5.6,21.2,0.1,0.5,2.5,0.0,0.0,3.6
+Rashaad Penny,SEA,4.1,15.2,0.1,1.0,2.5,0.0,0.0,3.1
+Mekhi Sargent,LAR,3.4,12.0,0.1,0.6,4.2,0.0,0.0,2.9
+Justin Jackson,LAC,2.9,12.7,0.0,0.7,4.1,0.0,0.0,2.6
+Jaylen Samuels,HOU,1.6,6.0,0.0,1.0,6.9,0.0,0.0,2.6
+Wayne Gallman Jr.,ATL,4.4,15.1,0.0,0.6,2.8,0.0,0.0,2.6
+Travis Homer,SEA,1.9,7.9,0.0,0.9,6.8,0.0,0.0,2.6
+Joshua Kelley,LAC,2.9,10.4,0.0,0.7,4.2,0.0,0.0,2.5
+Derrick Gore,KC,2.3,11.1,0.1,0.4,2.3,0.0,0.0,2.4
+C.J. Ham,MIN,1.0,4.1,0.0,1.0,8.3,0.0,0.0,2.4
+Patrick Ricard,BAL,0.9,2.1,0.0,1.0,7.1,0.1,0.0,2.3
+Kalen Ballage,PIT,2.7,7.1,0.0,0.8,4.2,0.0,0.0,2.2
+Patrick Laird,MIA,1.4,4.7,0.0,0.9,5.8,0.0,0.0,2.1
+Peyton Barber,LV,1.8,10.0,0.1,0.4,1.7,0.0,0.0,2.1
+Ty'Son Williams,BAL,2.2,8.0,0.0,0.6,3.5,0.0,0.0,2.0
+Pooka Williams Jr.,CIN,0.0,0.4,0.0,0.7,7.9,0.1,0.0,1.9
+Trayveon Williams,CIN,1.5,8.6,0.1,0.4,2.0,0.0,0.0,1.8
+Chris Evans,CIN,1.5,4.5,0.0,1.0,4.3,0.0,0.0,1.8
+Keith Smith,ATL,1.0,2.9,0.0,0.9,4.6,0.0,0.0,1.8
+Nate McCrary,BAL,1.8,8.5,0.1,0.3,1.6,0.0,0.0,1.8
+Anthony McFarland Jr.,PIT,1.9,6.9,0.0,0.5,3.5,0.0,0.0,1.7
+Adam Prentice,NO,0.7,2.3,0.0,0.7,6.2,0.0,0.0,1.7
+Larry Rountree III,LAC,2.6,8.2,0.0,0.5,2.2,0.0,0.0,1.7
+Dwayne Washington,NO,2.4,8.1,0.0,0.4,2.8,0.0,0.0,1.7
+La'Mical Perine,NYJ,1.2,4.2,0.0,1.1,1.1,0.0,0.0,1.7
+Benny Snell Jr.,PIT,2.5,7.3,0.0,0.5,2.0,0.0,0.0,1.6
+Dare Ogunbowale,JAC,1.4,3.5,0.0,0.7,4.2,0.0,0.0,1.6
+Darius Bradwell,LAC,1.6,3.4,0.0,0.7,3.5,0.0,0.0,1.4
+Deon Jackson,IND,1.8,5.2,0.0,0.5,2.5,0.0,0.0,1.4
+Elijhaa Penny,NYG,1.9,6.5,0.0,0.3,1.4,0.0,0.0,1.3
+Corey Clement,DAL,1.7,5.2,0.0,0.4,2.3,0.0,0.0,1.3
+J.J. Taylor,NE,2.1,5.0,0.1,0.0,0.1,0.0,0.0,1.1
+Nick Bawden,NYJ,0.4,0.8,0.0,0.5,4.5,0.0,0.0,1.1
+Tavien Feaster,ARI,1.0,4.3,0.0,0.3,1.8,0.0,0.0,1.0
+Damarea Crockett,DEN,0.5,3.0,0.0,0.3,2.0,0.0,0.0,0.9
+Derek Watt,PIT,0.6,1.9,0.0,0.4,1.6,0.0,0.0,0.8
+Taiwan Jones,BUF,0.2,1.4,0.0,0.2,2.8,0.0,0.0,0.8
+Jakob Johnson,NE,0.6,1.4,0.0,0.4,2.1,0.0,0.0,0.8
+Ryan Nall,CHI,0.5,1.7,0.0,0.3,2.1,0.0,0.0,0.8
+Reggie Gilliam,BUF,0.8,2.0,0.0,0.4,1.1,0.0,0.0,0.7
+Jason Cabinda,DET,0.3,0.5,0.0,0.2,2.3,0.0,0.0,0.6
+Gabe Nabers,LAC,0.2,0.6,0.0,0.3,1.8,0.0,0.0,0.5
+Gary Brightwell,NYG,0.6,1.9,0.0,0.2,1.0,0.0,0.0,0.5
+Jake Bargas,MIN,0.0,0.2,0.0,0.3,0.6,0.0,0.0,0.4
+Josh Johnson,NYJ,0.0,0.0,0.0,0.2,2.0,0.0,0.0,0.4
+Michael Burton,KC,0.4,0.8,0.0,0.2,0.9,0.0,0.0,0.4
+Trenton Cannon,SF,0.6,0.7,0.0,0.2,1.4,0.0,0.0,0.4
+Nick Bellore,SEA,0.1,0.1,0.0,0.1,0.8,0.0,0.0,0.2
+Ke'Shawn Vaughn,TB,0.1,0.3,0.0,0.0,0.1,0.0,0.0,0.1
+Cullen Gillaspia,NYG,0.0,0.0,0.0,0.0,0.2,0.0,0.0,0.0

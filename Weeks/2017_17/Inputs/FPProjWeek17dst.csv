@@ -1,0 +1,33 @@
+Player Name,Team,def_sack,def_int,def_fr,def_ff,def_td,def_assist,def_safety,def_pa,def_tyda,fpts
+Pittsburgh Steelers,PIT,3.1,1.3,0.7,1.1,0.2,0.0,0.0,15.2,324.7,9.2
+Seattle Seahawks,SEA,2.7,1.3,0.6,0.9,0.2,0.0,0.1,14.9,268.1,8.9
+New England Patriots,NE,2.6,1.2,0.6,0.8,0.2,0.0,0.0,17.2,338.5,8.4
+Baltimore Ravens,BAL,2.6,1.0,0.7,1.0,0.2,0.0,0.0,15.3,276.7,8.3
+Minnesota Vikings,MIN,2.7,0.9,0.7,1.2,0.2,0.0,0.1,14.1,275.4,8.2
+Washington Redskins,WAS,2.4,1.1,0.6,1.0,0.2,0.0,0.0,17.6,316.8,8.0
+Jacksonville Jaguars,JAC,2.8,1.2,0.7,0.8,0.2,0.0,0.0,20.9,310.5,8.0
+Buffalo Bills,BUF,2.2,1.2,0.6,1.0,0.2,0.0,0.0,18.6,313.7,7.9
+Los Angeles Chargers,LAC,2.2,1.0,0.7,1.2,0.2,0.0,0.0,18.4,351.6,7.8
+Kansas City Chiefs,KC,2.6,1.1,0.7,1.4,0.2,0.0,0.0,20.1,341.2,7.5
+Denver Broncos,DEN,2.5,0.9,0.6,0.9,0.1,0.0,0.0,18.6,314.1,7.3
+New Orleans Saints,NO,2.3,1.1,0.7,1.3,0.2,0.0,0.0,20.6,365.6,7.2
+Detroit Lions,DET,2.4,1.2,0.6,0.9,0.2,0.0,0.0,20.5,354.0,7.2
+Los Angeles Rams,LAR,2.9,0.9,0.7,0.9,0.2,0.0,0.0,21.9,339.8,7.1
+Arizona Cardinals,ARI,2.6,1.0,0.6,0.9,0.2,0.0,0.0,22.8,336.7,6.8
+Indianapolis Colts,IND,2.2,1.1,0.7,1.3,0.2,0.0,0.0,20.4,362.4,6.7
+Green Bay Packers,GB,2.5,0.7,0.7,1.0,0.2,0.0,0.0,25.8,360.4,6.5
+San Francisco 49ers,SF,2.0,0.9,0.7,1.1,0.1,0.0,0.0,24.4,364.2,6.2
+Carolina Panthers,CAR,2.3,0.8,0.6,0.9,0.2,0.0,0.0,25.2,368.6,6.2
+Houston Texans,HOU,2.5,0.7,0.6,0.9,0.2,0.0,0.0,23.1,322.7,6.1
+Cincinnati Bengals,CIN,2.2,0.9,0.6,0.8,0.2,0.0,0.0,23.4,320.2,6.0
+Philadelphia Eagles,PHI,2.1,0.9,0.6,0.9,0.2,0.0,0.0,20.7,344.9,6.0
+Miami Dolphins,MIA,2.5,0.6,0.6,0.8,0.2,0.0,0.0,21.0,319.5,6.0
+Tennessee Titans,TEN,2.2,0.8,0.6,1.1,0.2,0.0,0.0,22.1,349.6,5.9
+Dallas Cowboys,DAL,2.0,0.7,0.7,1.2,0.2,0.0,0.0,22.8,380.5,5.8
+New York Giants,NYG,1.9,0.7,0.7,1.2,0.1,0.0,0.0,22.0,355.4,5.6
+Atlanta Falcons,ATL,2.1,0.7,0.5,0.9,0.1,0.0,0.0,22.6,357.9,5.5
+Chicago Bears,CHI,2.0,0.7,0.6,0.9,0.1,0.0,0.0,25.5,347.3,5.5
+Cleveland Browns,CLE,1.6,0.9,0.6,1.0,0.1,0.0,0.0,25.5,382.6,5.5
+Oakland Raiders,OAK,1.7,0.7,0.7,0.9,0.2,0.0,0.0,26.2,401.3,5.4
+Tampa Bay Buccaneers,TB,1.4,0.7,0.6,0.9,0.1,0.0,0.0,29.3,429.4,4.8
+New York Jets,NYJ,1.6,0.6,0.5,0.7,0.1,0.0,0.0,29.4,389.2,4.5

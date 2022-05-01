@@ -1,0 +1,443 @@
+Entry ID,Contest Name,Contest ID,Entry Fee,QB,RB,RB,WR,WR,WR,TE,FLEX,DST,,Instructions,,,,,,
+967191902,NFL $1.5M Santa’s Eight Reindeer Special [$100K to 1st],51350370,$8 ,Russell Wilson (9975641),Leonard Fournette (9975510),LeSean McCoy (9975154),Danny Amendola (9975203),Cooper Kupp (9975393),Mohamed Sanu (9975232),Julius Thomas (9975142),Josh Gordon (9974999),Browns (9975021),,1. Column A lists all of your contest entries for this draftgroup,,,,,,
+967192223,NFL $1.5M Santa’s Eight Reindeer Special [$100K to 1st],51350370,$8 ,Russell Wilson (9975641),Leonard Fournette (9975510),LeSean McCoy (9975154),Danny Amendola (9975203),Cooper Kupp (9975393),Mohamed Sanu (9975232),Julius Thomas (9975142),Josh Gordon (9974999),Browns (9975021),,2. Your current lineup is listed next to each entry (blank for reservations),,,,,,
+967192224,NFL $1.5M Santa’s Eight Reindeer Special [$100K to 1st],51350370,$8 ,Russell Wilson (9975641),Leonard Fournette (9975510),LeSean McCoy (9975154),Danny Amendola (9975203),Cooper Kupp (9975393),Mohamed Sanu (9975232),Julius Thomas (9975142),Josh Gordon (9974999),Browns (9975021),,3. You can change the lineup for an entry by entering the IDs of the players in the row next to that entry,,,,,,
+967192225,NFL $1.5M Santa’s Eight Reindeer Special [$100K to 1st],51350370,$8 ,Russell Wilson (9975641),Leonard Fournette (9975510),LeSean McCoy (9975154),Danny Amendola (9975203),Cooper Kupp (9975393),Mohamed Sanu (9975232),Julius Thomas (9975142),Josh Gordon (9974999),Browns (9975021),,4. Use data from the Name+ID column or the ID column; you cannot use just the player's name,,,,,,
+967192226,NFL $1.5M Santa’s Eight Reindeer Special [$100K to 1st],51350370,$8 ,Russell Wilson (9975641),Leonard Fournette (9975510),LeSean McCoy (9975154),Danny Amendola (9975203),Cooper Kupp (9975393),Mohamed Sanu (9975232),Julius Thomas (9975142),Josh Gordon (9974999),Browns (9975021),,5. For faster processing only include entries you are changing in the file you upload,,,,,,
+967192227,NFL $1.5M Santa’s Eight Reindeer Special [$100K to 1st],51350370,$8 ,Russell Wilson (9975641),Leonard Fournette (9975510),LeSean McCoy (9975154),Danny Amendola (9975203),Cooper Kupp (9975393),Mohamed Sanu (9975232),Julius Thomas (9975142),Josh Gordon (9974999),Browns (9975021),,,,,,,,
+967192228,NFL $1.5M Santa’s Eight Reindeer Special [$100K to 1st],51350370,$8 ,Russell Wilson (9975641),Leonard Fournette (9975510),LeSean McCoy (9975154),Danny Amendola (9975203),Cooper Kupp (9975393),Mohamed Sanu (9975232),Julius Thomas (9975142),Josh Gordon (9974999),Browns (9975021),,Position,Name + ID,Name,ID,Salary,Game Info,TeamAbbrev
+967192229,NFL $1.5M Santa’s Eight Reindeer Special [$100K to 1st],51350370,$8 ,Russell Wilson (9975641),Leonard Fournette (9975510),LeSean McCoy (9975154),Danny Amendola (9975203),Cooper Kupp (9975393),Mohamed Sanu (9975232),Julius Thomas (9975142),Josh Gordon (9974999),Browns (9975021),,RB,Todd Gurley II (9975385),Todd Gurley II,9975385,9100,LAR@TEN 12/24/2017 01:00PM ET,LAR
+967192230,NFL $1.5M Santa’s Eight Reindeer Special [$100K to 1st],51350370,$8 ,Russell Wilson (9975641),Leonard Fournette (9975510),LeSean McCoy (9975154),Danny Amendola (9975203),Cooper Kupp (9975393),Mohamed Sanu (9975232),Julius Thomas (9975142),Josh Gordon (9974999),Browns (9975021),,RB,Kareem Hunt (9975090),Kareem Hunt,9975090,8400,MIA@KC 12/24/2017 01:00PM ET,KC
+967192231,NFL $1.5M Santa’s Eight Reindeer Special [$100K to 1st],51350370,$8 ,Russell Wilson (9975641),Leonard Fournette (9975510),LeSean McCoy (9975154),Danny Amendola (9975203),Cooper Kupp (9975393),Mohamed Sanu (9975232),Julius Thomas (9975142),Josh Gordon (9974999),Browns (9975021),,RB,Alvin Kamara (9975254),Alvin Kamara,9975254,8300,ATL@NO 12/24/2017 01:00PM ET,NO
+967192232,NFL $1.5M Santa’s Eight Reindeer Special [$100K to 1st],51350370,$8 ,Russell Wilson (9975641),Leonard Fournette (9975510),LeSean McCoy (9975154),Danny Amendola (9975203),Cooper Kupp (9975393),Mohamed Sanu (9975232),Julius Thomas (9975142),Josh Gordon (9974999),Browns (9975021),,RB,Mark Ingram (9975256),Mark Ingram,9975256,8100,ATL@NO 12/24/2017 01:00PM ET,NO
+967192233,NFL $1.5M Santa’s Eight Reindeer Special [$100K to 1st],51350370,$8 ,Russell Wilson (9975641),Leonard Fournette (9975510),LeSean McCoy (9975154),Danny Amendola (9975203),Cooper Kupp (9975393),Mohamed Sanu (9975232),Julius Thomas (9975142),Josh Gordon (9974999),Browns (9975021),,RB,Ezekiel Elliott (9975608),Ezekiel Elliott,9975608,8000,SEA@DAL 12/24/2017 04:25PM ET,DAL
+967192234,NFL $1.5M Santa’s Eight Reindeer Special [$100K to 1st],51350370,$8 ,Russell Wilson (9975641),Leonard Fournette (9975510),LeSean McCoy (9975154),Danny Amendola (9975203),Cooper Kupp (9975393),Mohamed Sanu (9975232),Julius Thomas (9975142),Josh Gordon (9974999),Browns (9975021),,WR,Julio Jones (9975230),Julio Jones,9975230,7900,ATL@NO 12/24/2017 01:00PM ET,ATL
+967192235,NFL $1.5M Santa’s Eight Reindeer Special [$100K to 1st],51350370,$8 ,Russell Wilson (9975641),Leonard Fournette (9975510),LeSean McCoy (9975154),Danny Amendola (9975203),Cooper Kupp (9975393),Mohamed Sanu (9975232),Julius Thomas (9975142),Josh Gordon (9974999),Browns (9975021),,RB,LeSean McCoy (9975154),LeSean McCoy,9975154,7800,BUF@NE 12/24/2017 01:00PM ET,BUF
+967192236,NFL $1.5M Santa’s Eight Reindeer Special [$100K to 1st],51350370,$8 ,Russell Wilson (9975641),Leonard Fournette (9975510),LeSean McCoy (9975154),Danny Amendola (9975203),Cooper Kupp (9975393),Mohamed Sanu (9975232),Julius Thomas (9975142),Josh Gordon (9974999),Browns (9975021),,WR,Keenan Allen (9975329),Keenan Allen,9975329,7700,LAC@NYJ 12/24/2017 01:00PM ET,LAC
+967192237,NFL $1.5M Santa’s Eight Reindeer Special [$100K to 1st],51350370,$8 ,Russell Wilson (9975641),Leonard Fournette (9975510),LeSean McCoy (9975154),Danny Amendola (9975203),Cooper Kupp (9975393),Mohamed Sanu (9975232),Julius Thomas (9975142),Josh Gordon (9974999),Browns (9975021),,WR,Michael Thomas (9975264),Michael Thomas,9975264,7600,ATL@NO 12/24/2017 01:00PM ET,NO
+967192238,NFL $1.5M Santa’s Eight Reindeer Special [$100K to 1st],51350370,$8 ,Russell Wilson (9975641),Leonard Fournette (9975510),LeSean McCoy (9975154),Danny Amendola (9975203),Cooper Kupp (9975393),Mohamed Sanu (9975232),Julius Thomas (9975142),Josh Gordon (9974999),Browns (9975021),,RB,Leonard Fournette (9975510),Leonard Fournette,9975510,7500,JAX@SF 12/24/2017 04:05PM ET,JAX
+967192239,NFL $1.5M Santa’s Eight Reindeer Special [$100K to 1st],51350370,$8 ,Russell Wilson (9975641),Leonard Fournette (9975510),LeSean McCoy (9975154),Danny Amendola (9975203),Cooper Kupp (9975393),Mohamed Sanu (9975232),Julius Thomas (9975142),Josh Gordon (9974999),Browns (9975021),,TE,Rob Gronkowski (9975213),Rob Gronkowski,9975213,7400,BUF@NE 12/24/2017 01:00PM ET,NE
+967192240,NFL $1.5M Santa’s Eight Reindeer Special [$100K to 1st],51350370,$8 ,Russell Wilson (9975641),Leonard Fournette (9975510),LeSean McCoy (9975154),Danny Amendola (9975203),Cooper Kupp (9975393),Mohamed Sanu (9975232),Julius Thomas (9975142),Josh Gordon (9974999),Browns (9975021),,RB,Melvin Gordon (9975321),Melvin Gordon,9975321,7200,LAC@NYJ 12/24/2017 01:00PM ET,LAC
+967192241,NFL $1.5M Santa’s Eight Reindeer Special [$100K to 1st],51350370,$8 ,Russell Wilson (9975641),Leonard Fournette (9975510),LeSean McCoy (9975154),Danny Amendola (9975203),Cooper Kupp (9975393),Mohamed Sanu (9975232),Julius Thomas (9975142),Josh Gordon (9974999),Browns (9975021),,RB,Kenyan Drake (9975120),Kenyan Drake,9975120,7100,MIA@KC 12/24/2017 01:00PM ET,MIA
+967192242,NFL $1.5M Santa’s Eight Reindeer Special [$100K to 1st],51350370,$8 ,Russell Wilson (9975641),Leonard Fournette (9975510),LeSean McCoy (9975154),Danny Amendola (9975203),Cooper Kupp (9975393),Mohamed Sanu (9975232),Julius Thomas (9975142),Josh Gordon (9974999),Browns (9975021),,WR,Brandin Cooks (9975199),Brandin Cooks,9975199,7000,BUF@NE 12/24/2017 01:00PM ET,NE
+967192243,NFL $1.5M Santa’s Eight Reindeer Special [$100K to 1st],51350370,$8 ,Russell Wilson (9975641),Leonard Fournette (9975510),LeSean McCoy (9975154),Danny Amendola (9975203),Cooper Kupp (9975393),Mohamed Sanu (9975232),Julius Thomas (9975142),Josh Gordon (9974999),Browns (9975021),,QB,Russell Wilson (9975641),Russell Wilson,9975641,7000,SEA@DAL 12/24/2017 04:25PM ET,SEA
+967192244,NFL $1.5M Santa’s Eight Reindeer Special [$100K to 1st],51350370,$8 ,Russell Wilson (9975641),Leonard Fournette (9975510),LeSean McCoy (9975154),Danny Amendola (9975203),Cooper Kupp (9975393),Mohamed Sanu (9975232),Julius Thomas (9975142),Josh Gordon (9974999),Browns (9975021),,TE,Travis Kelce (9975108),Travis Kelce,9975108,6900,MIA@KC 12/24/2017 01:00PM ET,KC
+967192245,NFL $1.5M Santa’s Eight Reindeer Special [$100K to 1st],51350370,$8 ,Russell Wilson (9975641),Leonard Fournette (9975510),LeSean McCoy (9975154),Danny Amendola (9975203),Cooper Kupp (9975393),Mohamed Sanu (9975232),Julius Thomas (9975142),Josh Gordon (9974999),Browns (9975021),,QB,Tom Brady (9975185),Tom Brady,9975185,6900,BUF@NE 12/24/2017 01:00PM ET,NE
+967192246,NFL $1.5M Santa’s Eight Reindeer Special [$100K to 1st],51350370,$8 ,Russell Wilson (9975641),Leonard Fournette (9975510),LeSean McCoy (9975154),Danny Amendola (9975203),Cooper Kupp (9975393),Mohamed Sanu (9975232),Julius Thomas (9975142),Josh Gordon (9974999),Browns (9975021),,QB,Cam Newton (9974926),Cam Newton,9974926,6800,TB@CAR 12/24/2017 01:00PM ET,CAR
+967192247,NFL $1.5M Santa’s Eight Reindeer Special [$100K to 1st],51350370,$8 ,Russell Wilson (9975641),Leonard Fournette (9975510),LeSean McCoy (9975154),Danny Amendola (9975203),Cooper Kupp (9975393),Mohamed Sanu (9975232),Julius Thomas (9975142),Josh Gordon (9974999),Browns (9975021),,WR,Larry Fitzgerald (9975585),Larry Fitzgerald,9975585,6800,NYG@ARI 12/24/2017 04:25PM ET,ARI
+967192248,NFL $1.5M Santa’s Eight Reindeer Special [$100K to 1st],51350370,$8 ,Russell Wilson (9975641),Leonard Fournette (9975510),LeSean McCoy (9975154),Danny Amendola (9975203),Cooper Kupp (9975393),Mohamed Sanu (9975232),Julius Thomas (9975142),Josh Gordon (9974999),Browns (9975021),,WR,A.J. Green (9975035),A.J. Green,9975035,6700,DET@CIN 12/24/2017 01:00PM ET,CIN
+967192249,NFL $1.5M Santa’s Eight Reindeer Special [$100K to 1st],51350370,$8 ,Russell Wilson (9975641),Leonard Fournette (9975510),LeSean McCoy (9975154),Danny Amendola (9975203),Cooper Kupp (9975393),Mohamed Sanu (9975232),Julius Thomas (9975142),Josh Gordon (9974999),Browns (9975021),,WR,Devin Funchess (9974939),Devin Funchess,9974939,6600,TB@CAR 12/24/2017 01:00PM ET,CAR
+967192250,NFL $1.5M Santa’s Eight Reindeer Special [$100K to 1st],51350370,$8 ,Russell Wilson (9975641),Leonard Fournette (9975510),LeSean McCoy (9975154),Danny Amendola (9975203),Cooper Kupp (9975393),Mohamed Sanu (9975232),Julius Thomas (9975142),Josh Gordon (9974999),Browns (9975021),,RB,Jordan Howard (9974959),Jordan Howard,9974959,6600,CLE@CHI 12/24/2017 01:00PM ET,CHI
+967192251,NFL $1.5M Santa’s Eight Reindeer Special [$100K to 1st],51350370,$8 ,Russell Wilson (9975641),Leonard Fournette (9975510),LeSean McCoy (9975154),Danny Amendola (9975203),Cooper Kupp (9975393),Mohamed Sanu (9975232),Julius Thomas (9975142),Josh Gordon (9974999),Browns (9975021),,QB,Alex Smith (9975087),Alex Smith,9975087,6600,MIA@KC 12/24/2017 01:00PM ET,KC
+967192252,NFL $1.5M Santa’s Eight Reindeer Special [$100K to 1st],51350370,$8 ,Russell Wilson (9975641),Leonard Fournette (9975510),LeSean McCoy (9975154),Danny Amendola (9975203),Cooper Kupp (9975393),Mohamed Sanu (9975232),Julius Thomas (9975142),Josh Gordon (9974999),Browns (9975021),,WR,Sterling Shepard (9975552),Sterling Shepard,9975552,6600,NYG@ARI 12/24/2017 04:25PM ET,NYG
+967192253,NFL $1.5M Santa’s Eight Reindeer Special [$100K to 1st],51350370,$8 ,Russell Wilson (9975641),Leonard Fournette (9975510),LeSean McCoy (9975154),Danny Amendola (9975203),Cooper Kupp (9975393),Mohamed Sanu (9975232),Julius Thomas (9975142),Josh Gordon (9974999),Browns (9975021),,WR,Tyreek Hill (9975098),Tyreek Hill,9975098,6500,MIA@KC 12/24/2017 01:00PM ET,KC
+967192254,NFL $1.5M Santa’s Eight Reindeer Special [$100K to 1st],51350370,$8 ,Russell Wilson (9975641),Leonard Fournette (9975510),LeSean McCoy (9975154),Danny Amendola (9975203),Cooper Kupp (9975393),Mohamed Sanu (9975232),Julius Thomas (9975142),Josh Gordon (9974999),Browns (9975021),,RB,Devonta Freeman (9975222),Devonta Freeman,9975222,6500,ATL@NO 12/24/2017 01:00PM ET,ATL
+967192255,NFL $1.5M Santa’s Eight Reindeer Special [$100K to 1st],51350370,$8 ,Russell Wilson (9975641),Leonard Fournette (9975510),LeSean McCoy (9975154),Danny Amendola (9975203),Cooper Kupp (9975393),Mohamed Sanu (9975232),Julius Thomas (9975142),Josh Gordon (9974999),Browns (9975021),,QB,Drew Brees (9975251),Drew Brees,9975251,6500,ATL@NO 12/24/2017 01:00PM ET,NO
+967192256,NFL $1.5M Santa’s Eight Reindeer Special [$100K to 1st],51350370,$8 ,Russell Wilson (9975641),Leonard Fournette (9975510),LeSean McCoy (9975154),Danny Amendola (9975203),Cooper Kupp (9975393),Mohamed Sanu (9975232),Julius Thomas (9975142),Josh Gordon (9974999),Browns (9975021),,WR,Robert Woods (9975395),Robert Woods,9975395,6500,LAR@TEN 12/24/2017 01:00PM ET,LAR
+967192257,NFL $1.5M Santa’s Eight Reindeer Special [$100K to 1st],51350370,$8 ,Russell Wilson (9975641),Leonard Fournette (9975510),LeSean McCoy (9975154),Danny Amendola (9975203),Cooper Kupp (9975393),Mohamed Sanu (9975232),Julius Thomas (9975142),Josh Gordon (9974999),Browns (9975021),,QB,Blake Bortles (9975508),Blake Bortles,9975508,6500,JAX@SF 12/24/2017 04:05PM ET,JAX
+967192258,NFL $1.5M Santa’s Eight Reindeer Special [$100K to 1st],51350370,$8 ,Russell Wilson (9975641),Leonard Fournette (9975510),LeSean McCoy (9975154),Danny Amendola (9975203),Cooper Kupp (9975393),Mohamed Sanu (9975232),Julius Thomas (9975142),Josh Gordon (9974999),Browns (9975021),,WR,Mike Evans (9974905),Mike Evans,9974905,6400,TB@CAR 12/24/2017 01:00PM ET,TB
+967192259,NFL $1.5M Santa’s Eight Reindeer Special [$100K to 1st],51350370,$8 ,Russell Wilson (9975641),Leonard Fournette (9975510),LeSean McCoy (9975154),Danny Amendola (9975203),Cooper Kupp (9975393),Mohamed Sanu (9975232),Julius Thomas (9975142),Josh Gordon (9974999),Browns (9975021),,RB,Christian McCaffrey (9974929),Christian McCaffrey,9974929,6400,TB@CAR 12/24/2017 01:00PM ET,CAR
+967192260,NFL $1.5M Santa’s Eight Reindeer Special [$100K to 1st],51350370,$8 ,Russell Wilson (9975641),Leonard Fournette (9975510),LeSean McCoy (9975154),Danny Amendola (9975203),Cooper Kupp (9975393),Mohamed Sanu (9975232),Julius Thomas (9975142),Josh Gordon (9974999),Browns (9975021),,WR,Marvin Jones Jr. (9975072),Marvin Jones Jr.,9975072,6400,DET@CIN 12/24/2017 01:00PM ET,DET
+967192261,NFL $1.5M Santa’s Eight Reindeer Special [$100K to 1st],51350370,$8 ,Russell Wilson (9975641),Leonard Fournette (9975510),LeSean McCoy (9975154),Danny Amendola (9975203),Cooper Kupp (9975393),Mohamed Sanu (9975232),Julius Thomas (9975142),Josh Gordon (9974999),Browns (9975021),,QB,Philip Rivers (9975318),Philip Rivers,9975318,6400,LAC@NYJ 12/24/2017 01:00PM ET,LAC
+967192262,NFL $1.5M Santa’s Eight Reindeer Special [$100K to 1st],51350370,$8 ,Russell Wilson (9975641),Leonard Fournette (9975510),LeSean McCoy (9975154),Danny Amendola (9975203),Cooper Kupp (9975393),Mohamed Sanu (9975232),Julius Thomas (9975142),Josh Gordon (9974999),Browns (9975021),,WR,Josh Gordon (9974999),Josh Gordon,9974999,6300,CLE@CHI 12/24/2017 01:00PM ET,CLE
+967192263,NFL $1.5M Santa’s Eight Reindeer Special [$100K to 1st],51350370,$8 ,Russell Wilson (9975641),Leonard Fournette (9975510),LeSean McCoy (9975154),Danny Amendola (9975203),Cooper Kupp (9975393),Mohamed Sanu (9975232),Julius Thomas (9975142),Josh Gordon (9974999),Browns (9975021),,WR,Jarvis Landry (9975128),Jarvis Landry,9975128,6300,MIA@KC 12/24/2017 01:00PM ET,MIA
+967192264,NFL $1.5M Santa’s Eight Reindeer Special [$100K to 1st],51350370,$8 ,Russell Wilson (9975641),Leonard Fournette (9975510),LeSean McCoy (9975154),Danny Amendola (9975203),Cooper Kupp (9975393),Mohamed Sanu (9975232),Julius Thomas (9975142),Josh Gordon (9974999),Browns (9975021),,QB,Matt Ryan (9975220),Matt Ryan,9975220,6300,ATL@NO 12/24/2017 01:00PM ET,ATL
+967192265,NFL $1.5M Santa’s Eight Reindeer Special [$100K to 1st],51350370,$8 ,Russell Wilson (9975641),Leonard Fournette (9975510),LeSean McCoy (9975154),Danny Amendola (9975203),Cooper Kupp (9975393),Mohamed Sanu (9975232),Julius Thomas (9975142),Josh Gordon (9974999),Browns (9975021),,RB,David Johnson (9975575),David Johnson,9975575,6300,NYG@ARI 12/24/2017 04:25PM ET,ARI
+967192266,NFL $1.5M Santa’s Eight Reindeer Special [$100K to 1st],51350370,$8 ,Russell Wilson (9975641),Leonard Fournette (9975510),LeSean McCoy (9975154),Danny Amendola (9975203),Cooper Kupp (9975393),Mohamed Sanu (9975232),Julius Thomas (9975142),Josh Gordon (9974999),Browns (9975021),,WR,Doug Baldwin (9975655),Doug Baldwin,9975655,6300,SEA@DAL 12/24/2017 04:25PM ET,SEA
+967192267,NFL $1.5M Santa’s Eight Reindeer Special [$100K to 1st],51350370,$8 ,Russell Wilson (9975641),Leonard Fournette (9975510),LeSean McCoy (9975154),Danny Amendola (9975203),Cooper Kupp (9975393),Mohamed Sanu (9975232),Julius Thomas (9975142),Josh Gordon (9974999),Browns (9975021),,QB,Matthew Stafford (9975058),Matthew Stafford,9975058,6200,DET@CIN 12/24/2017 01:00PM ET,DET
+967192268,NFL $1.5M Santa’s Eight Reindeer Special [$100K to 1st],51350370,$8 ,Russell Wilson (9975641),Leonard Fournette (9975510),LeSean McCoy (9975154),Danny Amendola (9975203),Cooper Kupp (9975393),Mohamed Sanu (9975232),Julius Thomas (9975142),Josh Gordon (9974999),Browns (9975021),,WR,Golden Tate (9975070),Golden Tate,9975070,6200,DET@CIN 12/24/2017 01:00PM ET,DET
+967192269,NFL $1.5M Santa’s Eight Reindeer Special [$100K to 1st],51350370,$8 ,Russell Wilson (9975641),Leonard Fournette (9975510),LeSean McCoy (9975154),Danny Amendola (9975203),Cooper Kupp (9975393),Mohamed Sanu (9975232),Julius Thomas (9975142),Josh Gordon (9974999),Browns (9975021),,QB,Jared Goff (9975382),Jared Goff,9975382,6100,LAR@TEN 12/24/2017 01:00PM ET,LAR
+967192270,NFL $1.5M Santa’s Eight Reindeer Special [$100K to 1st],51350370,$8 ,Russell Wilson (9975641),Leonard Fournette (9975510),LeSean McCoy (9975154),Danny Amendola (9975203),Cooper Kupp (9975393),Mohamed Sanu (9975232),Julius Thomas (9975142),Josh Gordon (9974999),Browns (9975021),,WR,Dede Westbrook (9975522),Dede Westbrook,9975522,6100,JAX@SF 12/24/2017 04:05PM ET,JAX
+967192271,NFL $1.5M Santa’s Eight Reindeer Special [$100K to 1st],51350370,$8 ,Russell Wilson (9975641),Leonard Fournette (9975510),LeSean McCoy (9975154),Danny Amendola (9975203),Cooper Kupp (9975393),Mohamed Sanu (9975232),Julius Thomas (9975142),Josh Gordon (9974999),Browns (9975021),,RB,Dion Lewis (9975189),Dion Lewis,9975189,6000,BUF@NE 12/24/2017 01:00PM ET,NE
+967192272,NFL $1.5M Santa’s Eight Reindeer Special [$100K to 1st],51350370,$8 ,Russell Wilson (9975641),Leonard Fournette (9975510),LeSean McCoy (9975154),Danny Amendola (9975203),Cooper Kupp (9975393),Mohamed Sanu (9975232),Julius Thomas (9975142),Josh Gordon (9974999),Browns (9975021),,QB,Dak Prescott (9975606),Dak Prescott,9975606,6000,SEA@DAL 12/24/2017 04:25PM ET,DAL
+967192273,NFL $1.5M Santa’s Eight Reindeer Special [$100K to 1st],51350370,$8 ,Russell Wilson (9975641),Leonard Fournette (9975510),LeSean McCoy (9975154),Danny Amendola (9975203),Cooper Kupp (9975393),Mohamed Sanu (9975232),Julius Thomas (9975142),Josh Gordon (9974999),Browns (9975021),,WR,Dez Bryant (9975618),Dez Bryant,9975618,6000,SEA@DAL 12/24/2017 04:25PM ET,DAL
+967192274,NFL $1.5M Santa’s Eight Reindeer Special [$100K to 1st],51350370,$8 ,Russell Wilson (9975641),Leonard Fournette (9975510),LeSean McCoy (9975154),Danny Amendola (9975203),Cooper Kupp (9975393),Mohamed Sanu (9975232),Julius Thomas (9975142),Josh Gordon (9974999),Browns (9975021),,RB,Rex Burkhead (9975187),Rex Burkhead,9975187,5900,BUF@NE 12/24/2017 01:00PM ET,NE
+967192275,NFL $1.5M Santa’s Eight Reindeer Special [$100K to 1st],51350370,$8 ,Russell Wilson (9975641),Leonard Fournette (9975510),LeSean McCoy (9975154),Danny Amendola (9975203),Cooper Kupp (9975393),Mohamed Sanu (9975232),Julius Thomas (9975142),Josh Gordon (9974999),Browns (9975021),,WR,Marqise Lee (9975520),Marqise Lee,9975520,5800,JAX@SF 12/24/2017 04:05PM ET,JAX
+967192276,NFL $1.5M Santa’s Eight Reindeer Special [$100K to 1st],51350370,$8 ,Russell Wilson (9975641),Leonard Fournette (9975510),LeSean McCoy (9975154),Danny Amendola (9975203),Cooper Kupp (9975393),Mohamed Sanu (9975232),Julius Thomas (9975142),Josh Gordon (9974999),Browns (9975021),,QB,Jameis Winston (9974894),Jameis Winston,9974894,5700,TB@CAR 12/24/2017 01:00PM ET,TB
+967192277,NFL $1.5M Santa’s Eight Reindeer Special [$100K to 1st],51350370,$8 ,Russell Wilson (9975641),Leonard Fournette (9975510),LeSean McCoy (9975154),Danny Amendola (9975203),Cooper Kupp (9975393),Mohamed Sanu (9975232),Julius Thomas (9975142),Josh Gordon (9974999),Browns (9975021),,WR,Mohamed Sanu (9975232),Mohamed Sanu,9975232,5700,ATL@NO 12/24/2017 01:00PM ET,ATL
+967192278,NFL $1.5M Santa’s Eight Reindeer Special [$100K to 1st],51350370,$8 ,Russell Wilson (9975641),Leonard Fournette (9975510),LeSean McCoy (9975154),Danny Amendola (9975203),Cooper Kupp (9975393),Mohamed Sanu (9975232),Julius Thomas (9975142),Josh Gordon (9974999),Browns (9975021),,TE,Evan Engram (9975564),Evan Engram,9975564,5600,NYG@ARI 12/24/2017 04:25PM ET,NYG
+967192279,NFL $1.5M Santa’s Eight Reindeer Special [$100K to 1st],51350370,$8 ,Russell Wilson (9975641),Leonard Fournette (9975510),LeSean McCoy (9975154),Danny Amendola (9975203),Cooper Kupp (9975393),Mohamed Sanu (9975232),Julius Thomas (9975142),Josh Gordon (9974999),Browns (9975021),,QB,Tyrod Taylor (9975151),Tyrod Taylor,9975151,5500,BUF@NE 12/24/2017 01:00PM ET,BUF
+967192280,NFL $1.5M Santa’s Eight Reindeer Special [$100K to 1st],51350370,$8 ,Russell Wilson (9975641),Leonard Fournette (9975510),LeSean McCoy (9975154),Danny Amendola (9975203),Cooper Kupp (9975393),Mohamed Sanu (9975232),Julius Thomas (9975142),Josh Gordon (9974999),Browns (9975021),,RB,C.J. Anderson (9975417),C.J. Anderson,9975417,5500,DEN@WAS 12/24/2017 01:00PM ET,DEN
+967192281,NFL $1.5M Santa’s Eight Reindeer Special [$100K to 1st],51350370,$8 ,Russell Wilson (9975641),Leonard Fournette (9975510),LeSean McCoy (9975154),Danny Amendola (9975203),Cooper Kupp (9975393),Mohamed Sanu (9975232),Julius Thomas (9975142),Josh Gordon (9974999),Browns (9975021),,WR,Demaryius Thomas (9975427),Demaryius Thomas,9975427,5500,DEN@WAS 12/24/2017 01:00PM ET,DEN
+967192282,NFL $1.5M Santa’s Eight Reindeer Special [$100K to 1st],51350370,$8 ,Russell Wilson (9975641),Leonard Fournette (9975510),LeSean McCoy (9975154),Danny Amendola (9975203),Cooper Kupp (9975393),Mohamed Sanu (9975232),Julius Thomas (9975142),Josh Gordon (9974999),Browns (9975021),,WR,Chris Hogan (9975201),Chris Hogan,9975201,5400,BUF@NE 12/24/2017 01:00PM ET,NE
+967192283,NFL $1.5M Santa’s Eight Reindeer Special [$100K to 1st],51350370,$8 ,Russell Wilson (9975641),Leonard Fournette (9975510),LeSean McCoy (9975154),Danny Amendola (9975203),Cooper Kupp (9975393),Mohamed Sanu (9975232),Julius Thomas (9975142),Josh Gordon (9974999),Browns (9975021),,QB,Kirk Cousins (9975450),Kirk Cousins,9975450,5400,DEN@WAS 12/24/2017 01:00PM ET,WAS
+967192284,NFL $1.5M Santa’s Eight Reindeer Special [$100K to 1st],51350370,$8 ,Russell Wilson (9975641),Leonard Fournette (9975510),LeSean McCoy (9975154),Danny Amendola (9975203),Cooper Kupp (9975393),Mohamed Sanu (9975232),Julius Thomas (9975142),Josh Gordon (9974999),Browns (9975021),,QB,Marcus Mariota (9975350),Marcus Mariota,9975350,5300,LAR@TEN 12/24/2017 01:00PM ET,TEN
+967192285,NFL $1.5M Santa’s Eight Reindeer Special [$100K to 1st],51350370,$8 ,Russell Wilson (9975641),Leonard Fournette (9975510),LeSean McCoy (9975154),Danny Amendola (9975203),Cooper Kupp (9975393),Mohamed Sanu (9975232),Julius Thomas (9975142),Josh Gordon (9974999),Browns (9975021),,WR,Cooper Kupp (9975393),Cooper Kupp,9975393,5300,LAR@TEN 12/24/2017 01:00PM ET,LAR
+967192286,NFL $1.5M Santa’s Eight Reindeer Special [$100K to 1st],51350370,$8 ,Russell Wilson (9975641),Leonard Fournette (9975510),LeSean McCoy (9975154),Danny Amendola (9975203),Cooper Kupp (9975393),Mohamed Sanu (9975232),Julius Thomas (9975142),Josh Gordon (9974999),Browns (9975021),,QB,Jimmy Garoppolo (9975477),Jimmy Garoppolo,9975477,5300,JAX@SF 12/24/2017 04:05PM ET,SF
+967192287,NFL $1.5M Santa’s Eight Reindeer Special [$100K to 1st],51350370,$8 ,Russell Wilson (9975641),Leonard Fournette (9975510),LeSean McCoy (9975154),Danny Amendola (9975203),Cooper Kupp (9975393),Mohamed Sanu (9975232),Julius Thomas (9975142),Josh Gordon (9974999),Browns (9975021),,TE,Greg Olsen (9974949),Greg Olsen,9974949,5200,TB@CAR 12/24/2017 01:00PM ET,CAR
+967192288,NFL $1.5M Santa’s Eight Reindeer Special [$100K to 1st],51350370,$8 ,Russell Wilson (9975641),Leonard Fournette (9975510),LeSean McCoy (9975154),Danny Amendola (9975203),Cooper Kupp (9975393),Mohamed Sanu (9975232),Julius Thomas (9975142),Josh Gordon (9974999),Browns (9975021),,WR,Marquise Goodwin (9975487),Marquise Goodwin,9975487,5200,JAX@SF 12/24/2017 04:05PM ET,SF
+967192289,NFL $1.5M Santa’s Eight Reindeer Special [$100K to 1st],51350370,$8 ,Russell Wilson (9975641),Leonard Fournette (9975510),LeSean McCoy (9975154),Danny Amendola (9975203),Cooper Kupp (9975393),Mohamed Sanu (9975232),Julius Thomas (9975142),Josh Gordon (9974999),Browns (9975021),,QB,Eli Manning (9975539),Eli Manning,9975539,5200,NYG@ARI 12/24/2017 04:25PM ET,NYG
+967192290,NFL $1.5M Santa’s Eight Reindeer Special [$100K to 1st],51350370,$8 ,Russell Wilson (9975641),Leonard Fournette (9975510),LeSean McCoy (9975154),Danny Amendola (9975203),Cooper Kupp (9975393),Mohamed Sanu (9975232),Julius Thomas (9975142),Josh Gordon (9974999),Browns (9975021),,RB,Alfred Morris (9975610),Alfred Morris,9975610,5200,SEA@DAL 12/24/2017 04:25PM ET,DAL
+967192291,NFL $1.5M Santa’s Eight Reindeer Special [$100K to 1st],51350370,$8 ,Russell Wilson (9975641),Leonard Fournette (9975510),LeSean McCoy (9975154),Danny Amendola (9975203),Cooper Kupp (9975393),Mohamed Sanu (9975232),Julius Thomas (9975142),Josh Gordon (9974999),Browns (9975021),,QB,Derek Anderson (9974927),Derek Anderson,9974927,5100,TB@CAR 12/24/2017 01:00PM ET,CAR
+967192292,NFL $1.5M Santa’s Eight Reindeer Special [$100K to 1st],51350370,$8 ,Russell Wilson (9975641),Leonard Fournette (9975510),LeSean McCoy (9975154),Danny Amendola (9975203),Cooper Kupp (9975393),Mohamed Sanu (9975232),Julius Thomas (9975142),Josh Gordon (9974999),Browns (9975021),,RB,Joe Mixon (9975027),Joe Mixon,9975027,5100,DET@CIN 12/24/2017 01:00PM ET,CIN
+967192293,NFL $1.5M Santa’s Eight Reindeer Special [$100K to 1st],51350370,$8 ,Russell Wilson (9975641),Leonard Fournette (9975510),LeSean McCoy (9975154),Danny Amendola (9975203),Cooper Kupp (9975393),Mohamed Sanu (9975232),Julius Thomas (9975142),Josh Gordon (9974999),Browns (9975021),,WR,Rishard Matthews (9975359),Rishard Matthews,9975359,5100,LAR@TEN 12/24/2017 01:00PM ET,TEN
+967192294,NFL $1.5M Santa’s Eight Reindeer Special [$100K to 1st],51350370,$8 ,Russell Wilson (9975641),Leonard Fournette (9975510),LeSean McCoy (9975154),Danny Amendola (9975203),Cooper Kupp (9975393),Mohamed Sanu (9975232),Julius Thomas (9975142),Josh Gordon (9974999),Browns (9975021),,QB,Ryan Fitzpatrick (9974895),Ryan Fitzpatrick,9974895,5000,TB@CAR 12/24/2017 01:00PM ET,TB
+967192295,NFL $1.5M Santa’s Eight Reindeer Special [$100K to 1st],51350370,$8 ,Russell Wilson (9975641),Leonard Fournette (9975510),LeSean McCoy (9975154),Danny Amendola (9975203),Cooper Kupp (9975393),Mohamed Sanu (9975232),Julius Thomas (9975142),Josh Gordon (9974999),Browns (9975021),,RB,Giovani Bernard (9975025),Giovani Bernard,9975025,5000,DET@CIN 12/24/2017 01:00PM ET,CIN
+967192296,NFL $1.5M Santa’s Eight Reindeer Special [$100K to 1st],51350370,$8 ,Russell Wilson (9975641),Leonard Fournette (9975510),LeSean McCoy (9975154),Danny Amendola (9975203),Cooper Kupp (9975393),Mohamed Sanu (9975232),Julius Thomas (9975142),Josh Gordon (9974999),Browns (9975021),,WR,Robby Anderson (9975295),Robby Anderson,9975295,5000,LAC@NYJ 12/24/2017 01:00PM ET,NYJ
+967192297,NFL $1.5M Santa’s Eight Reindeer Special [$100K to 1st],51350370,$8 ,Russell Wilson (9975641),Leonard Fournette (9975510),LeSean McCoy (9975154),Danny Amendola (9975203),Cooper Kupp (9975393),Mohamed Sanu (9975232),Julius Thomas (9975142),Josh Gordon (9974999),Browns (9975021),,WR,Jamison Crowder (9975458),Jamison Crowder,9975458,5000,DEN@WAS 12/24/2017 01:00PM ET,WAS
+967192298,NFL $1.5M Santa’s Eight Reindeer Special [$100K to 1st],51350370,$8 ,Russell Wilson (9975641),Leonard Fournette (9975510),LeSean McCoy (9975154),Danny Amendola (9975203),Cooper Kupp (9975393),Mohamed Sanu (9975232),Julius Thomas (9975142),Josh Gordon (9974999),Browns (9975021),,RB,Carlos Hyde (9975479),Carlos Hyde,9975479,5000,JAX@SF 12/24/2017 04:05PM ET,SF
+967192299,NFL $1.5M Santa’s Eight Reindeer Special [$100K to 1st],51350370,$8 ,Russell Wilson (9975641),Leonard Fournette (9975510),LeSean McCoy (9975154),Danny Amendola (9975203),Cooper Kupp (9975393),Mohamed Sanu (9975232),Julius Thomas (9975142),Josh Gordon (9974999),Browns (9975021),,QB,Blaine Gabbert (9975571),Blaine Gabbert,9975571,5000,NYG@ARI 12/24/2017 04:25PM ET,ARI
+967192300,NFL $1.5M Santa’s Eight Reindeer Special [$100K to 1st],51350370,$8 ,Russell Wilson (9975641),Leonard Fournette (9975510),LeSean McCoy (9975154),Danny Amendola (9975203),Cooper Kupp (9975393),Mohamed Sanu (9975232),Julius Thomas (9975142),Josh Gordon (9974999),Browns (9975021),,QB,Brian Hoyer (9975186),Brian Hoyer,9975186,4900,BUF@NE 12/24/2017 01:00PM ET,NE
+967192301,NFL $1.5M Santa’s Eight Reindeer Special [$100K to 1st],51350370,$8 ,Russell Wilson (9975641),Leonard Fournette (9975510),LeSean McCoy (9975154),Danny Amendola (9975203),Cooper Kupp (9975393),Mohamed Sanu (9975232),Julius Thomas (9975142),Josh Gordon (9974999),Browns (9975021),,RB,Tevin Coleman (9975224),Tevin Coleman,9975224,4900,ATL@NO 12/24/2017 01:00PM ET,ATL
+967192302,NFL $1.5M Santa’s Eight Reindeer Special [$100K to 1st],51350370,$8 ,Russell Wilson (9975641),Leonard Fournette (9975510),LeSean McCoy (9975154),Danny Amendola (9975203),Cooper Kupp (9975393),Mohamed Sanu (9975232),Julius Thomas (9975142),Josh Gordon (9974999),Browns (9975021),,TE,Delanie Walker (9975371),Delanie Walker,9975371,4900,LAR@TEN 12/24/2017 01:00PM ET,TEN
+967192303,NFL $1.5M Santa’s Eight Reindeer Special [$100K to 1st],51350370,$8 ,Russell Wilson (9975641),Leonard Fournette (9975510),LeSean McCoy (9975154),Danny Amendola (9975203),Cooper Kupp (9975393),Mohamed Sanu (9975232),Julius Thomas (9975142),Josh Gordon (9974999),Browns (9975021),,WR,Emmanuel Sanders (9975429),Emmanuel Sanders,9975429,4900,DEN@WAS 12/24/2017 01:00PM ET,DEN
+967192304,NFL $1.5M Santa’s Eight Reindeer Special [$100K to 1st],51350370,$8 ,Russell Wilson (9975641),Leonard Fournette (9975510),LeSean McCoy (9975154),Danny Amendola (9975203),Cooper Kupp (9975393),Mohamed Sanu (9975232),Julius Thomas (9975142),Josh Gordon (9974999),Browns (9975021),,QB,DeShone Kizer (9974988),DeShone Kizer,9974988,4800,CLE@CHI 12/24/2017 01:00PM ET,CLE
+967192305,NFL $1.5M Santa’s Eight Reindeer Special [$100K to 1st],51350370,$8 ,Russell Wilson (9975641),Leonard Fournette (9975510),LeSean McCoy (9975154),Danny Amendola (9975203),Cooper Kupp (9975393),Mohamed Sanu (9975232),Julius Thomas (9975142),Josh Gordon (9974999),Browns (9975021),,QB,Andy Dalton (9975023),Andy Dalton,9975023,4800,DET@CIN 12/24/2017 01:00PM ET,CIN
+967192306,NFL $1.5M Santa’s Eight Reindeer Special [$100K to 1st],51350370,$8 ,Russell Wilson (9975641),Leonard Fournette (9975510),LeSean McCoy (9975154),Danny Amendola (9975203),Cooper Kupp (9975393),Mohamed Sanu (9975232),Julius Thomas (9975142),Josh Gordon (9974999),Browns (9975021),,QB,Jay Cutler (9975117),Jay Cutler,9975117,4800,MIA@KC 12/24/2017 01:00PM ET,MIA
+967192307,NFL $1.5M Santa’s Eight Reindeer Special [$100K to 1st],51350370,$8 ,Russell Wilson (9975641),Leonard Fournette (9975510),LeSean McCoy (9975154),Danny Amendola (9975203),Cooper Kupp (9975393),Mohamed Sanu (9975232),Julius Thomas (9975142),Josh Gordon (9974999),Browns (9975021),,WR,Danny Amendola (9975203),Danny Amendola,9975203,4800,BUF@NE 12/24/2017 01:00PM ET,NE
+967192308,NFL $1.5M Santa’s Eight Reindeer Special [$100K to 1st],51350370,$8 ,Russell Wilson (9975641),Leonard Fournette (9975510),LeSean McCoy (9975154),Danny Amendola (9975203),Cooper Kupp (9975393),Mohamed Sanu (9975232),Julius Thomas (9975142),Josh Gordon (9974999),Browns (9975021),,QB,Brock Osweiler (9975414),Brock Osweiler,9975414,4800,DEN@WAS 12/24/2017 01:00PM ET,DEN
+967192309,NFL $1.5M Santa’s Eight Reindeer Special [$100K to 1st],51350370,$8 ,Russell Wilson (9975641),Leonard Fournette (9975510),LeSean McCoy (9975154),Danny Amendola (9975203),Cooper Kupp (9975393),Mohamed Sanu (9975232),Julius Thomas (9975142),Josh Gordon (9974999),Browns (9975021),,QB,C.J. Beathard (9975478),C.J. Beathard,9975478,4800,JAX@SF 12/24/2017 04:05PM ET,SF
+967192310,NFL $1.5M Santa’s Eight Reindeer Special [$100K to 1st],51350370,$8 ,Russell Wilson (9975641),Leonard Fournette (9975510),LeSean McCoy (9975154),Danny Amendola (9975203),Cooper Kupp (9975393),Mohamed Sanu (9975232),Julius Thomas (9975142),Josh Gordon (9974999),Browns (9975021),,QB,Mitchell Trubisky (9974956),Mitchell Trubisky,9974956,4700,CLE@CHI 12/24/2017 01:00PM ET,CHI
+967192311,NFL $1.5M Santa’s Eight Reindeer Special [$100K to 1st],51350370,$8 ,Russell Wilson (9975641),Leonard Fournette (9975510),LeSean McCoy (9975154),Danny Amendola (9975203),Cooper Kupp (9975393),Mohamed Sanu (9975232),Julius Thomas (9975142),Josh Gordon (9974999),Browns (9975021),,QB,AJ McCarron (9975022),AJ McCarron,9975022,4700,DET@CIN 12/24/2017 01:00PM ET,CIN
+967192312,NFL $1.5M Santa’s Eight Reindeer Special [$100K to 1st],51350370,$8 ,Russell Wilson (9975641),Leonard Fournette (9975510),LeSean McCoy (9975154),Danny Amendola (9975203),Cooper Kupp (9975393),Mohamed Sanu (9975232),Julius Thomas (9975142),Josh Gordon (9974999),Browns (9975021),,RB,Theo Riddick (9975060),Theo Riddick,9975060,4700,DET@CIN 12/24/2017 01:00PM ET,DET
+967192313,NFL $1.5M Santa’s Eight Reindeer Special [$100K to 1st],51350370,$8 ,Russell Wilson (9975641),Leonard Fournette (9975510),LeSean McCoy (9975154),Danny Amendola (9975203),Cooper Kupp (9975393),Mohamed Sanu (9975232),Julius Thomas (9975142),Josh Gordon (9974999),Browns (9975021),,QB,Patrick Mahomes II (9975088),Patrick Mahomes II,9975088,4700,MIA@KC 12/24/2017 01:00PM ET,KC
+967192314,NFL $1.5M Santa’s Eight Reindeer Special [$100K to 1st],51350370,$8 ,Russell Wilson (9975641),Leonard Fournette (9975510),LeSean McCoy (9975154),Danny Amendola (9975203),Cooper Kupp (9975393),Mohamed Sanu (9975232),Julius Thomas (9975142),Josh Gordon (9974999),Browns (9975021),,QB,Kellen Clemens (9975319),Kellen Clemens,9975319,4700,LAC@NYJ 12/24/2017 01:00PM ET,LAC
+967192315,NFL $1.5M Santa’s Eight Reindeer Special [$100K to 1st],51350370,$8 ,Russell Wilson (9975641),Leonard Fournette (9975510),LeSean McCoy (9975154),Danny Amendola (9975203),Cooper Kupp (9975393),Mohamed Sanu (9975232),Julius Thomas (9975142),Josh Gordon (9974999),Browns (9975021),,QB,Colt McCoy (9975451),Colt McCoy,9975451,4700,DEN@WAS 12/24/2017 01:00PM ET,WAS
+967192316,NFL $1.5M Santa’s Eight Reindeer Special [$100K to 1st],51350370,$8 ,Russell Wilson (9975641),Leonard Fournette (9975510),LeSean McCoy (9975154),Danny Amendola (9975203),Cooper Kupp (9975393),Mohamed Sanu (9975232),Julius Thomas (9975142),Josh Gordon (9974999),Browns (9975021),,WR,Keelan Cole (9975526),Keelan Cole,9975526,4700,JAX@SF 12/24/2017 04:05PM ET,JAX
+967192317,NFL $1.5M Santa’s Eight Reindeer Special [$100K to 1st],51350370,$8 ,Russell Wilson (9975641),Leonard Fournette (9975510),LeSean McCoy (9975154),Danny Amendola (9975203),Cooper Kupp (9975393),Mohamed Sanu (9975232),Julius Thomas (9975142),Josh Gordon (9974999),Browns (9975021),,TE,Jimmy Graham (9975667),Jimmy Graham,9975667,4700,SEA@DAL 12/24/2017 04:25PM ET,SEA
+967192318,NFL $1.5M Santa’s Eight Reindeer Special [$100K to 1st],51350370,$8 ,Russell Wilson (9975641),Leonard Fournette (9975510),LeSean McCoy (9975154),Danny Amendola (9975203),Cooper Kupp (9975393),Mohamed Sanu (9975232),Julius Thomas (9975142),Josh Gordon (9974999),Browns (9975021),,QB,Matt Moore (9975118),Matt Moore,9975118,4600,MIA@KC 12/24/2017 01:00PM ET,MIA
+967192319,NFL $1.5M Santa’s Eight Reindeer Special [$100K to 1st],51350370,$8 ,Russell Wilson (9975641),Leonard Fournette (9975510),LeSean McCoy (9975154),Danny Amendola (9975203),Cooper Kupp (9975393),Mohamed Sanu (9975232),Julius Thomas (9975142),Josh Gordon (9974999),Browns (9975021),,QB,Chase Daniel (9975252),Chase Daniel,9975252,4600,ATL@NO 12/24/2017 01:00PM ET,NO
+967192320,NFL $1.5M Santa’s Eight Reindeer Special [$100K to 1st],51350370,$8 ,Russell Wilson (9975641),Leonard Fournette (9975510),LeSean McCoy (9975154),Danny Amendola (9975203),Cooper Kupp (9975393),Mohamed Sanu (9975232),Julius Thomas (9975142),Josh Gordon (9974999),Browns (9975021),,WR,Ted Ginn Jr. (9975266),Ted Ginn Jr.,9975266,4600,ATL@NO 12/24/2017 01:00PM ET,NO
+967192321,NFL $1.5M Santa’s Eight Reindeer Special [$100K to 1st],51350370,$8 ,Russell Wilson (9975641),Leonard Fournette (9975510),LeSean McCoy (9975154),Danny Amendola (9975203),Cooper Kupp (9975393),Mohamed Sanu (9975232),Julius Thomas (9975142),Josh Gordon (9974999),Browns (9975021),,RB,DeMarco Murray (9975355),DeMarco Murray,9975355,4600,LAR@TEN 12/24/2017 01:00PM ET,TEN
+967192322,NFL $1.5M Santa’s Eight Reindeer Special [$100K to 1st],51350370,$8 ,Russell Wilson (9975641),Leonard Fournette (9975510),LeSean McCoy (9975154),Danny Amendola (9975203),Cooper Kupp (9975393),Mohamed Sanu (9975232),Julius Thomas (9975142),Josh Gordon (9974999),Browns (9975021),,QB,Paxton Lynch (9975415),Paxton Lynch,9975415,4600,DEN@WAS 12/24/2017 01:00PM ET,DEN
+967192323,NFL $1.5M Santa’s Eight Reindeer Special [$100K to 1st],51350370,$8 ,Russell Wilson (9975641),Leonard Fournette (9975510),LeSean McCoy (9975154),Danny Amendola (9975203),Cooper Kupp (9975393),Mohamed Sanu (9975232),Julius Thomas (9975142),Josh Gordon (9974999),Browns (9975021),,QB,Austin Davis (9975642),Austin Davis,9975642,4600,SEA@DAL 12/24/2017 04:25PM ET,SEA
+967192324,NFL $1.5M Santa’s Eight Reindeer Special [$100K to 1st],51350370,$8 ,Russell Wilson (9975641),Leonard Fournette (9975510),LeSean McCoy (9975154),Danny Amendola (9975203),Cooper Kupp (9975393),Mohamed Sanu (9975232),Julius Thomas (9975142),Josh Gordon (9974999),Browns (9975021),,RB,Duke Johnson Jr. (9974991),Duke Johnson Jr.,9974991,4500,CLE@CHI 12/24/2017 01:00PM ET,CLE
+967192325,NFL $1.5M Santa’s Eight Reindeer Special [$100K to 1st],51350370,$8 ,Russell Wilson (9975641),Leonard Fournette (9975510),LeSean McCoy (9975154),Danny Amendola (9975203),Cooper Kupp (9975393),Mohamed Sanu (9975232),Julius Thomas (9975142),Josh Gordon (9974999),Browns (9975021),,QB,Jake Rudock (9975059),Jake Rudock,9975059,4500,DET@CIN 12/24/2017 01:00PM ET,DET
+967192326,NFL $1.5M Santa’s Eight Reindeer Special [$100K to 1st],51350370,$8 ,Russell Wilson (9975641),Leonard Fournette (9975510),LeSean McCoy (9975154),Danny Amendola (9975203),Cooper Kupp (9975393),Mohamed Sanu (9975232),Julius Thomas (9975142),Josh Gordon (9974999),Browns (9975021),,QB,Nathan Peterman (9975152),Nathan Peterman,9975152,4500,BUF@NE 12/24/2017 01:00PM ET,BUF
+967192327,NFL $1.5M Santa’s Eight Reindeer Special [$100K to 1st],51350370,$8 ,Russell Wilson (9975641),Leonard Fournette (9975510),LeSean McCoy (9975154),Danny Amendola (9975203),Cooper Kupp (9975393),Mohamed Sanu (9975232),Julius Thomas (9975142),Josh Gordon (9974999),Browns (9975021),,QB,Joe Webb (9975153),Joe Webb,9975153,4500,BUF@NE 12/24/2017 01:00PM ET,BUF
+967192328,NFL $1.5M Santa’s Eight Reindeer Special [$100K to 1st],51350370,$8 ,Russell Wilson (9975641),Leonard Fournette (9975510),LeSean McCoy (9975154),Danny Amendola (9975203),Cooper Kupp (9975393),Mohamed Sanu (9975232),Julius Thomas (9975142),Josh Gordon (9974999),Browns (9975021),,QB,Cardale Jones (9975320),Cardale Jones,9975320,4500,LAC@NYJ 12/24/2017 01:00PM ET,LAC
+967192329,NFL $1.5M Santa’s Eight Reindeer Special [$100K to 1st],51350370,$8 ,Russell Wilson (9975641),Leonard Fournette (9975510),LeSean McCoy (9975154),Danny Amendola (9975203),Cooper Kupp (9975393),Mohamed Sanu (9975232),Julius Thomas (9975142),Josh Gordon (9974999),Browns (9975021),,WR,Tyrell Williams (9975331),Tyrell Williams,9975331,4500,LAC@NYJ 12/24/2017 01:00PM ET,LAC
+967192330,NFL $1.5M Santa’s Eight Reindeer Special [$100K to 1st],51350370,$8 ,Russell Wilson (9975641),Leonard Fournette (9975510),LeSean McCoy (9975154),Danny Amendola (9975203),Cooper Kupp (9975393),Mohamed Sanu (9975232),Julius Thomas (9975142),Josh Gordon (9974999),Browns (9975021),,TE,Hunter Henry (9975339),Hunter Henry,9975339,4500,LAC@NYJ 12/24/2017 01:00PM ET,LAC
+967192331,NFL $1.5M Santa’s Eight Reindeer Special [$100K to 1st],51350370,$8 ,Russell Wilson (9975641),Leonard Fournette (9975510),LeSean McCoy (9975154),Danny Amendola (9975203),Cooper Kupp (9975393),Mohamed Sanu (9975232),Julius Thomas (9975142),Josh Gordon (9974999),Browns (9975021),,QB,Matt Cassel (9975351),Matt Cassel,9975351,4500,LAR@TEN 12/24/2017 01:00PM ET,TEN
+967192332,NFL $1.5M Santa’s Eight Reindeer Special [$100K to 1st],51350370,$8 ,Russell Wilson (9975641),Leonard Fournette (9975510),LeSean McCoy (9975154),Danny Amendola (9975203),Cooper Kupp (9975393),Mohamed Sanu (9975232),Julius Thomas (9975142),Josh Gordon (9974999),Browns (9975021),,RB,Derrick Henry (9975353),Derrick Henry,9975353,4500,LAR@TEN 12/24/2017 01:00PM ET,TEN
+967192333,NFL $1.5M Santa’s Eight Reindeer Special [$100K to 1st],51350370,$8 ,Russell Wilson (9975641),Leonard Fournette (9975510),LeSean McCoy (9975154),Danny Amendola (9975203),Cooper Kupp (9975393),Mohamed Sanu (9975232),Julius Thomas (9975142),Josh Gordon (9974999),Browns (9975021),,QB,Sean Mannion (9975383),Sean Mannion,9975383,4500,LAR@TEN 12/24/2017 01:00PM ET,LAR
+967192334,NFL $1.5M Santa’s Eight Reindeer Special [$100K to 1st],51350370,$8 ,Russell Wilson (9975641),Leonard Fournette (9975510),LeSean McCoy (9975154),Danny Amendola (9975203),Cooper Kupp (9975393),Mohamed Sanu (9975232),Julius Thomas (9975142),Josh Gordon (9974999),Browns (9975021),,QB,Geno Smith (9975540),Geno Smith,9975540,4500,NYG@ARI 12/24/2017 04:25PM ET,NYG
+967192335,NFL $1.5M Santa’s Eight Reindeer Special [$100K to 1st],51350370,$8 ,Russell Wilson (9975641),Leonard Fournette (9975510),LeSean McCoy (9975154),Danny Amendola (9975203),Cooper Kupp (9975393),Mohamed Sanu (9975232),Julius Thomas (9975142),Josh Gordon (9974999),Browns (9975021),,QB,Carson Palmer (9975572),Carson Palmer,9975572,4500,NYG@ARI 12/24/2017 04:25PM ET,ARI
+967192336,NFL $1.5M Santa’s Eight Reindeer Special [$100K to 1st],51350370,$8 ,Russell Wilson (9975641),Leonard Fournette (9975510),LeSean McCoy (9975154),Danny Amendola (9975203),Cooper Kupp (9975393),Mohamed Sanu (9975232),Julius Thomas (9975142),Josh Gordon (9974999),Browns (9975021),,QB,Drew Stanton (9975573),Drew Stanton,9975573,4500,NYG@ARI 12/24/2017 04:25PM ET,ARI
+967192337,NFL $1.5M Santa’s Eight Reindeer Special [$100K to 1st],51350370,$8 ,Russell Wilson (9975641),Leonard Fournette (9975510),LeSean McCoy (9975154),Danny Amendola (9975203),Cooper Kupp (9975393),Mohamed Sanu (9975232),Julius Thomas (9975142),Josh Gordon (9974999),Browns (9975021),,QB,Cooper Rush (9975607),Cooper Rush,9975607,4500,SEA@DAL 12/24/2017 04:25PM ET,DAL
+967192338,NFL $1.5M Santa’s Eight Reindeer Special [$100K to 1st],51350370,$8 ,Russell Wilson (9975641),Leonard Fournette (9975510),LeSean McCoy (9975154),Danny Amendola (9975203),Cooper Kupp (9975393),Mohamed Sanu (9975232),Julius Thomas (9975142),Josh Gordon (9974999),Browns (9975021),,RB,Rod Smith (9975612),Rod Smith,9975612,4500,SEA@DAL 12/24/2017 04:25PM ET,DAL
+967192339,NFL $1.5M Santa’s Eight Reindeer Special [$100K to 1st],51350370,$8 ,Russell Wilson (9975641),Leonard Fournette (9975510),LeSean McCoy (9975154),Danny Amendola (9975203),Cooper Kupp (9975393),Mohamed Sanu (9975232),Julius Thomas (9975142),Josh Gordon (9974999),Browns (9975021),,RB,Mike Davis (9975647),Mike Davis,9975647,4500,SEA@DAL 12/24/2017 04:25PM ET,SEA
+967192340,NFL $1.5M Santa’s Eight Reindeer Special [$100K to 1st],51350370,$8 ,Russell Wilson (9975641),Leonard Fournette (9975510),LeSean McCoy (9975154),Danny Amendola (9975203),Cooper Kupp (9975393),Mohamed Sanu (9975232),Julius Thomas (9975142),Josh Gordon (9974999),Browns (9975021),,WR,DeSean Jackson (9974907),DeSean Jackson,9974907,4400,TB@CAR 12/24/2017 01:00PM ET,TB
+967192341,NFL $1.5M Santa’s Eight Reindeer Special [$100K to 1st],51350370,$8 ,Russell Wilson (9975641),Leonard Fournette (9975510),LeSean McCoy (9975154),Danny Amendola (9975203),Cooper Kupp (9975393),Mohamed Sanu (9975232),Julius Thomas (9975142),Josh Gordon (9974999),Browns (9975021),,RB,Charcandrick West (9975092),Charcandrick West,9975092,4400,MIA@KC 12/24/2017 01:00PM ET,KC
+967192342,NFL $1.5M Santa’s Eight Reindeer Special [$100K to 1st],51350370,$8 ,Russell Wilson (9975641),Leonard Fournette (9975510),LeSean McCoy (9975154),Danny Amendola (9975203),Cooper Kupp (9975393),Mohamed Sanu (9975232),Julius Thomas (9975142),Josh Gordon (9974999),Browns (9975021),,QB,Bryce Petty (9975283),Bryce Petty,9975283,4400,LAC@NYJ 12/24/2017 01:00PM ET,NYJ
+967192343,NFL $1.5M Santa’s Eight Reindeer Special [$100K to 1st],51350370,$8 ,Russell Wilson (9975641),Leonard Fournette (9975510),LeSean McCoy (9975154),Danny Amendola (9975203),Cooper Kupp (9975393),Mohamed Sanu (9975232),Julius Thomas (9975142),Josh Gordon (9974999),Browns (9975021),,WR,Sammy Watkins (9975397),Sammy Watkins,9975397,4400,LAR@TEN 12/24/2017 01:00PM ET,LAR
+967192344,NFL $1.5M Santa’s Eight Reindeer Special [$100K to 1st],51350370,$8 ,Russell Wilson (9975641),Leonard Fournette (9975510),LeSean McCoy (9975154),Danny Amendola (9975203),Cooper Kupp (9975393),Mohamed Sanu (9975232),Julius Thomas (9975142),Josh Gordon (9974999),Browns (9975021),,QB,Davis Webb (9975541),Davis Webb,9975541,4400,NYG@ARI 12/24/2017 04:25PM ET,NYG
+967192345,NFL $1.5M Santa’s Eight Reindeer Special [$100K to 1st],51350370,$8 ,Russell Wilson (9975641),Leonard Fournette (9975510),LeSean McCoy (9975154),Danny Amendola (9975203),Cooper Kupp (9975393),Mohamed Sanu (9975232),Julius Thomas (9975142),Josh Gordon (9974999),Browns (9975021),,RB,Peyton Barber (9974897),Peyton Barber,9974897,4300,TB@CAR 12/24/2017 01:00PM ET,TB
+967192346,NFL $1.5M Santa’s Eight Reindeer Special [$100K to 1st],51350370,$8 ,Russell Wilson (9975641),Leonard Fournette (9975510),LeSean McCoy (9975154),Danny Amendola (9975203),Cooper Kupp (9975393),Mohamed Sanu (9975232),Julius Thomas (9975142),Josh Gordon (9974999),Browns (9975021),,QB,Mike Glennon (9974957),Mike Glennon,9974957,4300,CLE@CHI 12/24/2017 01:00PM ET,CHI
+967192347,NFL $1.5M Santa’s Eight Reindeer Special [$100K to 1st],51350370,$8 ,Russell Wilson (9975641),Leonard Fournette (9975510),LeSean McCoy (9975154),Danny Amendola (9975203),Cooper Kupp (9975393),Mohamed Sanu (9975232),Julius Thomas (9975142),Josh Gordon (9974999),Browns (9975021),,QB,Cody Kessler (9974989),Cody Kessler,9974989,4300,CLE@CHI 12/24/2017 01:00PM ET,CLE
+967192348,NFL $1.5M Santa’s Eight Reindeer Special [$100K to 1st],51350370,$8 ,Russell Wilson (9975641),Leonard Fournette (9975510),LeSean McCoy (9975154),Danny Amendola (9975203),Cooper Kupp (9975393),Mohamed Sanu (9975232),Julius Thomas (9975142),Josh Gordon (9974999),Browns (9975021),,QB,Kevin Hogan (9974990),Kevin Hogan,9974990,4300,CLE@CHI 12/24/2017 01:00PM ET,CLE
+967192349,NFL $1.5M Santa’s Eight Reindeer Special [$100K to 1st],51350370,$8 ,Russell Wilson (9975641),Leonard Fournette (9975510),LeSean McCoy (9975154),Danny Amendola (9975203),Cooper Kupp (9975393),Mohamed Sanu (9975232),Julius Thomas (9975142),Josh Gordon (9974999),Browns (9975021),,QB,Matt Schaub (9975221),Matt Schaub,9975221,4300,ATL@NO 12/24/2017 01:00PM ET,ATL
+967192350,NFL $1.5M Santa’s Eight Reindeer Special [$100K to 1st],51350370,$8 ,Russell Wilson (9975641),Leonard Fournette (9975510),LeSean McCoy (9975154),Danny Amendola (9975203),Cooper Kupp (9975393),Mohamed Sanu (9975232),Julius Thomas (9975142),Josh Gordon (9974999),Browns (9975021),,RB,Samaje Perine (9975452),Samaje Perine,9975452,4300,DEN@WAS 12/24/2017 01:00PM ET,WAS
+967192351,NFL $1.5M Santa’s Eight Reindeer Special [$100K to 1st],51350370,$8 ,Russell Wilson (9975641),Leonard Fournette (9975510),LeSean McCoy (9975154),Danny Amendola (9975203),Cooper Kupp (9975393),Mohamed Sanu (9975232),Julius Thomas (9975142),Josh Gordon (9974999),Browns (9975021),,QB,Chad Henne (9975509),Chad Henne,9975509,4300,JAX@SF 12/24/2017 04:05PM ET,JAX
+967192352,NFL $1.5M Santa’s Eight Reindeer Special [$100K to 1st],51350370,$8 ,Russell Wilson (9975641),Leonard Fournette (9975510),LeSean McCoy (9975154),Danny Amendola (9975203),Cooper Kupp (9975393),Mohamed Sanu (9975232),Julius Thomas (9975142),Josh Gordon (9974999),Browns (9975021),,RB,Kerwynn Williams (9975577),Kerwynn Williams,9975577,4300,NYG@ARI 12/24/2017 04:25PM ET,ARI
+967192353,NFL $1.5M Santa’s Eight Reindeer Special [$100K to 1st],51350370,$8 ,Russell Wilson (9975641),Leonard Fournette (9975510),LeSean McCoy (9975154),Danny Amendola (9975203),Cooper Kupp (9975393),Mohamed Sanu (9975232),Julius Thomas (9975142),Josh Gordon (9974999),Browns (9975021),,WR,Paul Richardson (9975657),Paul Richardson,9975657,4300,SEA@DAL 12/24/2017 04:25PM ET,SEA
+967192354,NFL $1.5M Santa’s Eight Reindeer Special [$100K to 1st],51350370,$8 ,Russell Wilson (9975641),Leonard Fournette (9975510),LeSean McCoy (9975154),Danny Amendola (9975203),Cooper Kupp (9975393),Mohamed Sanu (9975232),Julius Thomas (9975142),Josh Gordon (9974999),Browns (9975021),,RB,Isaiah Crowell (9974993),Isaiah Crowell,9974993,4200,CLE@CHI 12/24/2017 01:00PM ET,CLE
+967192355,NFL $1.5M Santa’s Eight Reindeer Special [$100K to 1st],51350370,$8 ,Russell Wilson (9975641),Leonard Fournette (9975510),LeSean McCoy (9975154),Danny Amendola (9975203),Cooper Kupp (9975393),Mohamed Sanu (9975232),Julius Thomas (9975142),Josh Gordon (9974999),Browns (9975021),,WR,DeVante Parker (9975132),DeVante Parker,9975132,4200,MIA@KC 12/24/2017 01:00PM ET,MIA
+967192356,NFL $1.5M Santa’s Eight Reindeer Special [$100K to 1st],51350370,$8 ,Russell Wilson (9975641),Leonard Fournette (9975510),LeSean McCoy (9975154),Danny Amendola (9975203),Cooper Kupp (9975393),Mohamed Sanu (9975232),Julius Thomas (9975142),Josh Gordon (9974999),Browns (9975021),,WR,Kelvin Benjamin (9975162),Kelvin Benjamin,9975162,4200,BUF@NE 12/24/2017 01:00PM ET,BUF
+967192357,NFL $1.5M Santa’s Eight Reindeer Special [$100K to 1st],51350370,$8 ,Russell Wilson (9975641),Leonard Fournette (9975510),LeSean McCoy (9975154),Danny Amendola (9975203),Cooper Kupp (9975393),Mohamed Sanu (9975232),Julius Thomas (9975142),Josh Gordon (9974999),Browns (9975021),,QB,Christian Hackenberg (9975284),Christian Hackenberg,9975284,4200,LAC@NYJ 12/24/2017 01:00PM ET,NYJ
+967192358,NFL $1.5M Santa’s Eight Reindeer Special [$100K to 1st],51350370,$8 ,Russell Wilson (9975641),Leonard Fournette (9975510),LeSean McCoy (9975154),Danny Amendola (9975203),Cooper Kupp (9975393),Mohamed Sanu (9975232),Julius Thomas (9975142),Josh Gordon (9974999),Browns (9975021),,RB,James White (9975191),James White,9975191,4100,BUF@NE 12/24/2017 01:00PM ET,NE
+967192359,NFL $1.5M Santa’s Eight Reindeer Special [$100K to 1st],51350370,$8 ,Russell Wilson (9975641),Leonard Fournette (9975510),LeSean McCoy (9975154),Danny Amendola (9975203),Cooper Kupp (9975393),Mohamed Sanu (9975232),Julius Thomas (9975142),Josh Gordon (9974999),Browns (9975021),,WR,Allen Hurns (9975524),Allen Hurns,9975524,4100,JAX@SF 12/24/2017 04:05PM ET,JAX
+967192360,NFL $1.5M Santa’s Eight Reindeer Special [$100K to 1st],51350370,$8 ,Russell Wilson (9975641),Leonard Fournette (9975510),LeSean McCoy (9975154),Danny Amendola (9975203),Cooper Kupp (9975393),Mohamed Sanu (9975232),Julius Thomas (9975142),Josh Gordon (9974999),Browns (9975021),,QB,Ryan Griffin (9974896),Ryan Griffin,9974896,4000,TB@CAR 12/24/2017 01:00PM ET,TB
+967192361,NFL $1.5M Santa’s Eight Reindeer Special [$100K to 1st],51350370,$8 ,Russell Wilson (9975641),Leonard Fournette (9975510),LeSean McCoy (9975154),Danny Amendola (9975203),Cooper Kupp (9975393),Mohamed Sanu (9975232),Julius Thomas (9975142),Josh Gordon (9974999),Browns (9975021),,RB,Doug Martin (9974899),Doug Martin,9974899,4000,TB@CAR 12/24/2017 01:00PM ET,TB
+967192362,NFL $1.5M Santa’s Eight Reindeer Special [$100K to 1st],51350370,$8 ,Russell Wilson (9975641),Leonard Fournette (9975510),LeSean McCoy (9975154),Danny Amendola (9975203),Cooper Kupp (9975393),Mohamed Sanu (9975232),Julius Thomas (9975142),Josh Gordon (9974999),Browns (9975021),,QB,Garrett Gilbert (9974928),Garrett Gilbert,9974928,4000,TB@CAR 12/24/2017 01:00PM ET,CAR
+967192363,NFL $1.5M Santa’s Eight Reindeer Special [$100K to 1st],51350370,$8 ,Russell Wilson (9975641),Leonard Fournette (9975510),LeSean McCoy (9975154),Danny Amendola (9975203),Cooper Kupp (9975393),Mohamed Sanu (9975232),Julius Thomas (9975142),Josh Gordon (9974999),Browns (9975021),,QB,Mark Sanchez (9974958),Mark Sanchez,9974958,4000,CLE@CHI 12/24/2017 01:00PM ET,CHI
+967192364,NFL $1.5M Santa’s Eight Reindeer Special [$100K to 1st],51350370,$8 ,Russell Wilson (9975641),Leonard Fournette (9975510),LeSean McCoy (9975154),Danny Amendola (9975203),Cooper Kupp (9975393),Mohamed Sanu (9975232),Julius Thomas (9975142),Josh Gordon (9974999),Browns (9975021),,WR,Corey Coleman (9975001),Corey Coleman,9975001,4000,CLE@CHI 12/24/2017 01:00PM ET,CLE
+967192365,NFL $1.5M Santa’s Eight Reindeer Special [$100K to 1st],51350370,$8 ,Russell Wilson (9975641),Leonard Fournette (9975510),LeSean McCoy (9975154),Danny Amendola (9975203),Cooper Kupp (9975393),Mohamed Sanu (9975232),Julius Thomas (9975142),Josh Gordon (9974999),Browns (9975021),,QB,Jeff Driskel (9975024),Jeff Driskel,9975024,4000,DET@CIN 12/24/2017 01:00PM ET,CIN
+967192366,NFL $1.5M Santa’s Eight Reindeer Special [$100K to 1st],51350370,$8 ,Russell Wilson (9975641),Leonard Fournette (9975510),LeSean McCoy (9975154),Danny Amendola (9975203),Cooper Kupp (9975393),Mohamed Sanu (9975232),Julius Thomas (9975142),Josh Gordon (9974999),Browns (9975021),,QB,Tyler Bray (9975089),Tyler Bray,9975089,4000,MIA@KC 12/24/2017 01:00PM ET,KC
+967192367,NFL $1.5M Santa’s Eight Reindeer Special [$100K to 1st],51350370,$8 ,Russell Wilson (9975641),Leonard Fournette (9975510),LeSean McCoy (9975154),Danny Amendola (9975203),Cooper Kupp (9975393),Mohamed Sanu (9975232),Julius Thomas (9975142),Josh Gordon (9974999),Browns (9975021),,QB,David Fales (9975119),David Fales,9975119,4000,MIA@KC 12/24/2017 01:00PM ET,MIA
+967192368,NFL $1.5M Santa’s Eight Reindeer Special [$100K to 1st],51350370,$8 ,Russell Wilson (9975641),Leonard Fournette (9975510),LeSean McCoy (9975154),Danny Amendola (9975203),Cooper Kupp (9975393),Mohamed Sanu (9975232),Julius Thomas (9975142),Josh Gordon (9974999),Browns (9975021),,WR,Kenny Stills (9975130),Kenny Stills,9975130,4000,MIA@KC 12/24/2017 01:00PM ET,MIA
+967192369,NFL $1.5M Santa’s Eight Reindeer Special [$100K to 1st],51350370,$8 ,Russell Wilson (9975641),Leonard Fournette (9975510),LeSean McCoy (9975154),Danny Amendola (9975203),Cooper Kupp (9975393),Mohamed Sanu (9975232),Julius Thomas (9975142),Josh Gordon (9974999),Browns (9975021),,QB,Taysom Hill (9975253),Taysom Hill,9975253,4000,ATL@NO 12/24/2017 01:00PM ET,NO
+967192370,NFL $1.5M Santa’s Eight Reindeer Special [$100K to 1st],51350370,$8 ,Russell Wilson (9975641),Leonard Fournette (9975510),LeSean McCoy (9975154),Danny Amendola (9975203),Cooper Kupp (9975393),Mohamed Sanu (9975232),Julius Thomas (9975142),Josh Gordon (9974999),Browns (9975021),,RB,Bilal Powell (9975287),Bilal Powell,9975287,4000,LAC@NYJ 12/24/2017 01:00PM ET,NYJ
+967192371,NFL $1.5M Santa’s Eight Reindeer Special [$100K to 1st],51350370,$8 ,Russell Wilson (9975641),Leonard Fournette (9975510),LeSean McCoy (9975154),Danny Amendola (9975203),Cooper Kupp (9975393),Mohamed Sanu (9975232),Julius Thomas (9975142),Josh Gordon (9974999),Browns (9975021),,RB,Austin Ekeler (9975323),Austin Ekeler,9975323,4000,LAC@NYJ 12/24/2017 01:00PM ET,LAC
+,,,,,,,,,,,,,,QB,Brandon Weeden (9975352),Brandon Weeden,9975352,4000,LAR@TEN 12/24/2017 01:00PM ET,TEN
+,,,,,,,,,,,,,,QB,Brandon Allen (9975384),Brandon Allen,9975384,4000,LAR@TEN 12/24/2017 01:00PM ET,LAR
+,,,,,,,,,,,,,,QB,Chad Kelly (9975416),Chad Kelly,9975416,4000,DEN@WAS 12/24/2017 01:00PM ET,DEN
+,,,,,,,,,,,,,,RB,Matt Breida (9975481),Matt Breida,9975481,4000,JAX@SF 12/24/2017 04:05PM ET,SF
+,,,,,,,,,,,,,,RB,Chris Ivory (9975512),Chris Ivory,9975512,4000,JAX@SF 12/24/2017 04:05PM ET,JAX
+,,,,,,,,,,,,,,QB,Matt Barkley (9975574),Matt Barkley,9975574,4000,NYG@ARI 12/24/2017 04:25PM ET,ARI
+,,,,,,,,,,,,,,TE,Jason Witten (9975630),Jason Witten,9975630,4000,SEA@DAL 12/24/2017 04:25PM ET,DAL
+,,,,,,,,,,,,,,RB,Chris Carson (9975643),Chris Carson,9975643,4000,SEA@DAL 12/24/2017 04:25PM ET,SEA
+,,,,,,,,,,,,,,RB,Damien Williams (9975122),Damien Williams,9975122,3900,MIA@KC 12/24/2017 01:00PM ET,MIA
+,,,,,,,,,,,,,,RB,Mike Tolbert (9975156),Mike Tolbert,9975156,3900,BUF@NE 12/24/2017 01:00PM ET,BUF
+,,,,,,,,,,,,,,RB,Mike Gillislee (9975193),Mike Gillislee,9975193,3900,BUF@NE 12/24/2017 01:00PM ET,NE
+,,,,,,,,,,,,,,WR,Jermaine Kearse (9975297),Jermaine Kearse,9975297,3900,LAC@NYJ 12/24/2017 01:00PM ET,NYJ
+,,,,,,,,,,,,,,RB,Malcolm Brown (9975387),Malcolm Brown,9975387,3900,LAR@TEN 12/24/2017 01:00PM ET,LAR
+,,,,,,,,,,,,,,RB,T.J. Yeldon (9975514),T.J. Yeldon,9975514,3900,JAX@SF 12/24/2017 04:05PM ET,JAX
+,,,,,,,,,,,,,,DST,Jaguars  (9975538),Jaguars ,9975538,3900,JAX@SF 12/24/2017 04:05PM ET,JAX
+,,,,,,,,,,,,,,RB,Wayne Gallman (9975542),Wayne Gallman,9975542,3900,NYG@ARI 12/24/2017 04:25PM ET,NYG
+,,,,,,,,,,,,,,WR,Tyler Lockett (9975659),Tyler Lockett,9975659,3900,SEA@DAL 12/24/2017 04:25PM ET,SEA
+,,,,,,,,,,,,,,WR,Kendall Wright (9974969),Kendall Wright,9974969,3800,CLE@CHI 12/24/2017 01:00PM ET,CHI
+,,,,,,,,,,,,,,RB,Ameer Abdullah (9975062),Ameer Abdullah,9975062,3800,DET@CIN 12/24/2017 01:00PM ET,DET
+,,,,,,,,,,,,,,TE,Charles Clay (9975176),Charles Clay,9975176,3800,BUF@NE 12/24/2017 01:00PM ET,BUF
+,,,,,,,,,,,,,,RB,Matt Forte (9975285),Matt Forte,9975285,3800,LAC@NYJ 12/24/2017 01:00PM ET,NYJ
+,,,,,,,,,,,,,,WR,Travis Benjamin (9975333),Travis Benjamin,9975333,3800,LAC@NYJ 12/24/2017 01:00PM ET,LAC
+,,,,,,,,,,,,,,WR,Corey Davis (9975361),Corey Davis,9975361,3800,LAR@TEN 12/24/2017 01:00PM ET,TEN
+,,,,,,,,,,,,,,RB,Devontae Booker (9975419),Devontae Booker,9975419,3800,DEN@WAS 12/24/2017 01:00PM ET,DEN
+,,,,,,,,,,,,,,RB,J.D. McKissic (9975645),J.D. McKissic,9975645,3800,SEA@DAL 12/24/2017 04:25PM ET,SEA
+,,,,,,,,,,,,,,RB,Jacquizz Rodgers (9974901),Jacquizz Rodgers,9974901,3700,TB@CAR 12/24/2017 01:00PM ET,TB
+,,,,,,,,,,,,,,RB,Jonathan Stewart (9974931),Jonathan Stewart,9974931,3700,TB@CAR 12/24/2017 01:00PM ET,CAR
+,,,,,,,,,,,,,,RB,Tarik Cohen (9974961),Tarik Cohen,9974961,3700,CLE@CHI 12/24/2017 01:00PM ET,CHI
+,,,,,,,,,,,,,,TE,Eric Ebron (9975080),Eric Ebron,9975080,3700,DET@CIN 12/24/2017 01:00PM ET,DET
+,,,,,,,,,,,,,,DST,Chargers  (9975349),Chargers ,9975349,3700,LAC@NYJ 12/24/2017 01:00PM ET,LAC
+,,,,,,,,,,,,,,WR,Jaydon Mickens (9975528),Jaydon Mickens,9975528,3700,JAX@SF 12/24/2017 04:05PM ET,JAX
+,,,,,,,,,,,,,,TE,Adam Shaheen (9974977),Adam Shaheen,9974977,3600,CLE@CHI 12/24/2017 01:00PM ET,CHI
+,,,,,,,,,,,,,,WR,Malcolm Mitchell (9975205),Malcolm Mitchell,9975205,3600,BUF@NE 12/24/2017 01:00PM ET,NE
+,,,,,,,,,,,,,,RB,Elijah McGuire (9975289),Elijah McGuire,9975289,3600,LAC@NYJ 12/24/2017 01:00PM ET,NYJ
+,,,,,,,,,,,,,,DST,Rams  (9975413),Rams ,9975413,3600,LAR@TEN 12/24/2017 01:00PM ET,LAR
+,,,,,,,,,,,,,,RB,LeShun Daniels Jr. (9975454),LeShun Daniels Jr.,9975454,3600,DEN@WAS 12/24/2017 01:00PM ET,WAS
+,,,,,,,,,,,,,,WR,Tavarres King (9975560),Tavarres King,9975560,3600,NYG@ARI 12/24/2017 04:25PM ET,NYG
+,,,,,,,,,,,,,,WR,Terrance Williams (9975620),Terrance Williams,9975620,3600,SEA@DAL 12/24/2017 04:25PM ET,DAL
+,,,,,,,,,,,,,,RB,Charles Sims (9974903),Charles Sims,9974903,3500,TB@CAR 12/24/2017 01:00PM ET,TB
+,,,,,,,,,,,,,,WR,Damiere Byrd (9974943),Damiere Byrd,9974943,3500,TB@CAR 12/24/2017 01:00PM ET,CAR
+,,,,,,,,,,,,,,DST,Bears  (9974987),Bears ,9974987,3500,CLE@CHI 12/24/2017 01:00PM ET,CHI
+,,,,,,,,,,,,,,RB,Tion Green (9975064),Tion Green,9975064,3500,DET@CIN 12/24/2017 01:00PM ET,DET
+,,,,,,,,,,,,,,RB,Terron Ward (9975226),Terron Ward,9975226,3500,ATL@NO 12/24/2017 01:00PM ET,ATL
+,,,,,,,,,,,,,,RB,Branden Oliver (9975325),Branden Oliver,9975325,3500,LAC@NYJ 12/24/2017 01:00PM ET,LAC
+,,,,,,,,,,,,,,WR,Mike Williams (9975337),Mike Williams,9975337,3500,LAC@NYJ 12/24/2017 01:00PM ET,LAC
+,,,,,,,,,,,,,,RB,Kapri Bibbs (9975456),Kapri Bibbs,9975456,3500,DEN@WAS 12/24/2017 01:00PM ET,WAS
+,,,,,,,,,,,,,,WR,Josh Doctson (9975460),Josh Doctson,9975460,3500,DEN@WAS 12/24/2017 01:00PM ET,WAS
+,,,,,,,,,,,,,,RB,Orleans Darkwa (9975544),Orleans Darkwa,9975544,3500,NYG@ARI 12/24/2017 04:25PM ET,NYG
+,,,,,,,,,,,,,,TE,Ricky Seals-Jones (9975597),Ricky Seals-Jones,9975597,3500,NYG@ARI 12/24/2017 04:25PM ET,ARI
+,,,,,,,,,,,,,,RB,Eddie Lacy (9975649),Eddie Lacy,9975649,3500,SEA@DAL 12/24/2017 04:25PM ET,SEA
+,,,,,,,,,,,,,,WR,Brandon LaFell (9975037),Brandon LaFell,9975037,3400,DET@CIN 12/24/2017 01:00PM ET,CIN
+,,,,,,,,,,,,,,RB,Senorise Perry (9975124),Senorise Perry,9975124,3400,MIA@KC 12/24/2017 01:00PM ET,MIA
+,,,,,,,,,,,,,,WR,Zay Jones (9975164),Zay Jones,9975164,3400,BUF@NE 12/24/2017 01:00PM ET,BUF
+,,,,,,,,,,,,,,WR,Phillip Dorsett (9975207),Phillip Dorsett,9975207,3400,BUF@NE 12/24/2017 01:00PM ET,NE
+,,,,,,,,,,,,,,RB,Jamaal Charles (9975421),Jamaal Charles,9975421,3400,DEN@WAS 12/24/2017 01:00PM ET,DEN
+,,,,,,,,,,,,,,RB,De'Angelo Henderson (9975423),De'Angelo Henderson,9975423,3400,DEN@WAS 12/24/2017 01:00PM ET,DEN
+,,,,,,,,,,,,,,WR,Bennie Fowler (9975431),Bennie Fowler,9975431,3400,DEN@WAS 12/24/2017 01:00PM ET,DEN
+,,,,,,,,,,,,,,TE,Vernon Davis (9975470),Vernon Davis,9975470,3400,DEN@WAS 12/24/2017 01:00PM ET,WAS
+,,,,,,,,,,,,,,DST,Redskins  (9975476),Redskins ,9975476,3400,DEN@WAS 12/24/2017 01:00PM ET,WAS
+,,,,,,,,,,,,,,WR,Roger Lewis (9975556),Roger Lewis,9975556,3400,NYG@ARI 12/24/2017 04:25PM ET,NYG
+,,,,,,,,,,,,,,RB,D.J. Foster (9975579),D.J. Foster,9975579,3400,NYG@ARI 12/24/2017 04:25PM ET,ARI
+,,,,,,,,,,,,,,WR,John Brown (9975587),John Brown,9975587,3400,NYG@ARI 12/24/2017 04:25PM ET,ARI
+,,,,,,,,,,,,,,WR,Cole Beasley (9975622),Cole Beasley,9975622,3400,SEA@DAL 12/24/2017 04:25PM ET,DAL
+,,,,,,,,,,,,,,RB,Thomas Rawls (9975651),Thomas Rawls,9975651,3400,SEA@DAL 12/24/2017 04:25PM ET,SEA
+,,,,,,,,,,,,,,TE,Cameron Brate (9974917),Cameron Brate,9974917,3300,TB@CAR 12/24/2017 01:00PM ET,TB
+,,,,,,,,,,,,,,WR,Kenny Golladay (9975074),Kenny Golladay,9975074,3300,DET@CIN 12/24/2017 01:00PM ET,DET
+,,,,,,,,,,,,,,DST,Chiefs  (9975116),Chiefs ,9975116,3300,MIA@KC 12/24/2017 01:00PM ET,KC
+,,,,,,,,,,,,,,WR,Jeremy Kerley (9975299),Jeremy Kerley,9975299,3300,LAC@NYJ 12/24/2017 01:00PM ET,NYJ
+,,,,,,,,,,,,,,RB,Dwayne Washington (9975066),Dwayne Washington,9975066,3200,DET@CIN 12/24/2017 01:00PM ET,DET
+,,,,,,,,,,,,,,RB,Zach Zenner (9975068),Zach Zenner,9975068,3200,DET@CIN 12/24/2017 01:00PM ET,DET
+,,,,,,,,,,,,,,WR,Albert Wilson (9975100),Albert Wilson,9975100,3200,MIA@KC 12/24/2017 01:00PM ET,KC
+,,,,,,,,,,,,,,WR,Eric Decker (9975363),Eric Decker,9975363,3200,LAR@TEN 12/24/2017 01:00PM ET,TEN
+,,,,,,,,,,,,,,WR,Cody Latimer (9975437),Cody Latimer,9975437,3200,DEN@WAS 12/24/2017 01:00PM ET,DEN
+,,,,,,,,,,,,,,DST,Broncos  (9975449),Broncos ,9975449,3200,DEN@WAS 12/24/2017 01:00PM ET,DEN
+,,,,,,,,,,,,,,WR,Ryan Grant (9975462),Ryan Grant,9975462,3200,DEN@WAS 12/24/2017 01:00PM ET,WAS
+,,,,,,,,,,,,,,WR,Jaron Brown (9975589),Jaron Brown,9975589,3200,NYG@ARI 12/24/2017 04:25PM ET,ARI
+,,,,,,,,,,,,,,RB,C.J. Prosise (9975653),C.J. Prosise,9975653,3200,SEA@DAL 12/24/2017 04:25PM ET,SEA
+,,,,,,,,,,,,,,DST,Panthers  (9974955),Panthers ,9974955,3100,TB@CAR 12/24/2017 01:00PM ET,CAR
+,,,,,,,,,,,,,,RB,Benny Cunningham (9974965),Benny Cunningham,9974965,3100,CLE@CHI 12/24/2017 01:00PM ET,CHI
+,,,,,,,,,,,,,,WR,Josh Bellamy (9974973),Josh Bellamy,9974973,3100,CLE@CHI 12/24/2017 01:00PM ET,CHI
+,,,,,,,,,,,,,,WR,Taylor Gabriel (9975234),Taylor Gabriel,9975234,3100,ATL@NO 12/24/2017 01:00PM ET,ATL
+,,,,,,,,,,,,,,TE,Austin Hooper (9975244),Austin Hooper,9975244,3100,ATL@NO 12/24/2017 01:00PM ET,ATL
+,,,,,,,,,,,,,,WR,Trent Taylor (9975489),Trent Taylor,9975489,3100,JAX@SF 12/24/2017 04:05PM ET,SF
+,,,,,,,,,,,,,,WR,J.J. Nelson (9975591),J.J. Nelson,9975591,3100,NYG@ARI 12/24/2017 04:25PM ET,ARI
+,,,,,,,,,,,,,,WR,Adam Humphries (9974909),Adam Humphries,9974909,3000,TB@CAR 12/24/2017 01:00PM ET,TB
+,,,,,,,,,,,,,,WR,Bobo Wilson (9974911),Bobo Wilson,9974911,3000,TB@CAR 12/24/2017 01:00PM ET,TB
+,,,,,,,,,,,,,,WR,Freddie Martino (9974913),Freddie Martino,9974913,3000,TB@CAR 12/24/2017 01:00PM ET,TB
+,,,,,,,,,,,,,,WR,Chris Godwin (9974915),Chris Godwin,9974915,3000,TB@CAR 12/24/2017 01:00PM ET,TB
+,,,,,,,,,,,,,,TE,O.J. Howard (9974919),O.J. Howard,9974919,3000,TB@CAR 12/24/2017 01:00PM ET,TB
+,,,,,,,,,,,,,,RB,Fozzy Whittaker (9974933),Fozzy Whittaker,9974933,3000,TB@CAR 12/24/2017 01:00PM ET,CAR
+,,,,,,,,,,,,,,RB,Cameron Artis-Payne (9974935),Cameron Artis-Payne,9974935,3000,TB@CAR 12/24/2017 01:00PM ET,CAR
+,,,,,,,,,,,,,,RB,Alex Armah (9974937),Alex Armah,9974937,3000,TB@CAR 12/24/2017 01:00PM ET,CAR
+,,,,,,,,,,,,,,WR,Kaelin Clay (9974941),Kaelin Clay,9974941,3000,TB@CAR 12/24/2017 01:00PM ET,CAR
+,,,,,,,,,,,,,,WR,Brenton Bersin (9974945),Brenton Bersin,9974945,3000,TB@CAR 12/24/2017 01:00PM ET,CAR
+,,,,,,,,,,,,,,WR,Russell Shepard (9974947),Russell Shepard,9974947,3000,TB@CAR 12/24/2017 01:00PM ET,CAR
+,,,,,,,,,,,,,,TE,Ed Dickson (9974951),Ed Dickson,9974951,3000,TB@CAR 12/24/2017 01:00PM ET,CAR
+,,,,,,,,,,,,,,RB,Taquan Mizzell (9974963),Taquan Mizzell,9974963,3000,CLE@CHI 12/24/2017 01:00PM ET,CHI
+,,,,,,,,,,,,,,RB,Michael Burton (9974967),Michael Burton,9974967,3000,CLE@CHI 12/24/2017 01:00PM ET,CHI
+,,,,,,,,,,,,,,WR,Dontrelle Inman (9974971),Dontrelle Inman,9974971,3000,CLE@CHI 12/24/2017 01:00PM ET,CHI
+,,,,,,,,,,,,,,WR,Markus Wheaton (9974975),Markus Wheaton,9974975,3000,CLE@CHI 12/24/2017 01:00PM ET,CHI
+,,,,,,,,,,,,,,RB,Danny Vitale (9974995),Danny Vitale,9974995,3000,CLE@CHI 12/24/2017 01:00PM ET,CLE
+,,,,,,,,,,,,,,RB,Matthew Dayes (9974997),Matthew Dayes,9974997,3000,CLE@CHI 12/24/2017 01:00PM ET,CLE
+,,,,,,,,,,,,,,WR,Rashard Higgins (9975003),Rashard Higgins,9975003,3000,CLE@CHI 12/24/2017 01:00PM ET,CLE
+,,,,,,,,,,,,,,WR,Ricardo Louis (9975005),Ricardo Louis,9975005,3000,CLE@CHI 12/24/2017 01:00PM ET,CLE
+,,,,,,,,,,,,,,WR,James Wright (9975007),James Wright,9975007,3000,CLE@CHI 12/24/2017 01:00PM ET,CLE
+,,,,,,,,,,,,,,WR,Sammie Coates (9975009),Sammie Coates,9975009,3000,CLE@CHI 12/24/2017 01:00PM ET,CLE
+,,,,,,,,,,,,,,WR,Matt Hazel (9975011),Matt Hazel,9975011,3000,CLE@CHI 12/24/2017 01:00PM ET,CLE
+,,,,,,,,,,,,,,RB,Brian Hill (9975029),Brian Hill,9975029,3000,DET@CIN 12/24/2017 01:00PM ET,CIN
+,,,,,,,,,,,,,,RB,Tra Carson (9975031),Tra Carson,9975031,3000,DET@CIN 12/24/2017 01:00PM ET,CIN
+,,,,,,,,,,,,,,RB,Jarveon Williams (9975033),Jarveon Williams,9975033,3000,DET@CIN 12/24/2017 01:00PM ET,CIN
+,,,,,,,,,,,,,,WR,Josh Malone (9975039),Josh Malone,9975039,3000,DET@CIN 12/24/2017 01:00PM ET,CIN
+,,,,,,,,,,,,,,WR,Tyler Boyd (9975041),Tyler Boyd,9975041,3000,DET@CIN 12/24/2017 01:00PM ET,CIN
+,,,,,,,,,,,,,,WR,Alex Erickson (9975043),Alex Erickson,9975043,3000,DET@CIN 12/24/2017 01:00PM ET,CIN
+,,,,,,,,,,,,,,WR,Cody Core (9975045),Cody Core,9975045,3000,DET@CIN 12/24/2017 01:00PM ET,CIN
+,,,,,,,,,,,,,,WR,Bradley Marquez (9975076),Bradley Marquez,9975076,3000,DET@CIN 12/24/2017 01:00PM ET,DET
+,,,,,,,,,,,,,,WR,TJ Jones (9975078),TJ Jones,9975078,3000,DET@CIN 12/24/2017 01:00PM ET,DET
+,,,,,,,,,,,,,,RB,Akeem Hunt (9975094),Akeem Hunt,9975094,3000,MIA@KC 12/24/2017 01:00PM ET,KC
+,,,,,,,,,,,,,,RB,Anthony Sherman (9975096),Anthony Sherman,9975096,3000,MIA@KC 12/24/2017 01:00PM ET,KC
+,,,,,,,,,,,,,,WR,De'Anthony Thomas (9975102),De'Anthony Thomas,9975102,3000,MIA@KC 12/24/2017 01:00PM ET,KC
+,,,,,,,,,,,,,,WR,Jehu Chesson (9975104),Jehu Chesson,9975104,3000,MIA@KC 12/24/2017 01:00PM ET,KC
+,,,,,,,,,,,,,,WR,Demarcus Robinson (9975106),Demarcus Robinson,9975106,3000,MIA@KC 12/24/2017 01:00PM ET,KC
+,,,,,,,,,,,,,,RB,De'Veon Smith (9975126),De'Veon Smith,9975126,3000,MIA@KC 12/24/2017 01:00PM ET,MIA
+,,,,,,,,,,,,,,WR,Jakeem Grant (9975134),Jakeem Grant,9975134,3000,MIA@KC 12/24/2017 01:00PM ET,MIA
+,,,,,,,,,,,,,,WR,Leonte Carroo (9975136),Leonte Carroo,9975136,3000,MIA@KC 12/24/2017 01:00PM ET,MIA
+,,,,,,,,,,,,,,WR,Rashawn Scott (9975138),Rashawn Scott,9975138,3000,MIA@KC 12/24/2017 01:00PM ET,MIA
+,,,,,,,,,,,,,,WR,Isaiah Ford (9975140),Isaiah Ford,9975140,3000,MIA@KC 12/24/2017 01:00PM ET,MIA
+,,,,,,,,,,,,,,TE,Julius Thomas (9975142),Julius Thomas,9975142,3000,MIA@KC 12/24/2017 01:00PM ET,MIA
+,,,,,,,,,,,,,,RB,Travaris Cadet (9975158),Travaris Cadet,9975158,3000,BUF@NE 12/24/2017 01:00PM ET,BUF
+,,,,,,,,,,,,,,RB,Patrick DiMarco (9975160),Patrick DiMarco,9975160,3000,BUF@NE 12/24/2017 01:00PM ET,BUF
+,,,,,,,,,,,,,,WR,Deonte Thompson (9975166),Deonte Thompson,9975166,3000,BUF@NE 12/24/2017 01:00PM ET,BUF
+,,,,,,,,,,,,,,WR,Brandon Tate (9975168),Brandon Tate,9975168,3000,BUF@NE 12/24/2017 01:00PM ET,BUF
+,,,,,,,,,,,,,,WR,Andre Holmes (9975170),Andre Holmes,9975170,3000,BUF@NE 12/24/2017 01:00PM ET,BUF
+,,,,,,,,,,,,,,WR,Brandon Reilly (9975172),Brandon Reilly,9975172,3000,BUF@NE 12/24/2017 01:00PM ET,BUF
+,,,,,,,,,,,,,,WR,Walter Powell (9975174),Walter Powell,9975174,3000,BUF@NE 12/24/2017 01:00PM ET,BUF
+,,,,,,,,,,,,,,RB,Brandon Bolden (9975195),Brandon Bolden,9975195,3000,BUF@NE 12/24/2017 01:00PM ET,NE
+,,,,,,,,,,,,,,RB,James Develin (9975197),James Develin,9975197,3000,BUF@NE 12/24/2017 01:00PM ET,NE
+,,,,,,,,,,,,,,WR,Matthew Slater (9975209),Matthew Slater,9975209,3000,BUF@NE 12/24/2017 01:00PM ET,NE
+,,,,,,,,,,,,,,WR,Kenny Britt (9975211),Kenny Britt,9975211,3000,BUF@NE 12/24/2017 01:00PM ET,NE
+,,,,,,,,,,,,,,DST,Patriots  (9975219),Patriots ,9975219,3000,BUF@NE 12/24/2017 01:00PM ET,NE
+,,,,,,,,,,,,,,RB,Derrick Coleman (9975228),Derrick Coleman,9975228,3000,ATL@NO 12/24/2017 01:00PM ET,ATL
+,,,,,,,,,,,,,,WR,Marvin Hall (9975236),Marvin Hall,9975236,3000,ATL@NO 12/24/2017 01:00PM ET,ATL
+,,,,,,,,,,,,,,WR,Nick Williams (9975238),Nick Williams,9975238,3000,ATL@NO 12/24/2017 01:00PM ET,ATL
+,,,,,,,,,,,,,,WR,Justin Hardy (9975240),Justin Hardy,9975240,3000,ATL@NO 12/24/2017 01:00PM ET,ATL
+,,,,,,,,,,,,,,WR,Andre Roberts (9975242),Andre Roberts,9975242,3000,ATL@NO 12/24/2017 01:00PM ET,ATL
+,,,,,,,,,,,,,,RB,Trey Edmunds (9975258),Trey Edmunds,9975258,3000,ATL@NO 12/24/2017 01:00PM ET,NO
+,,,,,,,,,,,,,,RB,Zach Line (9975260),Zach Line,9975260,3000,ATL@NO 12/24/2017 01:00PM ET,NO
+,,,,,,,,,,,,,,RB,Jonathan Williams (9975262),Jonathan Williams,9975262,3000,ATL@NO 12/24/2017 01:00PM ET,NO
+,,,,,,,,,,,,,,WR,Austin Carr (9975268),Austin Carr,9975268,3000,ATL@NO 12/24/2017 01:00PM ET,NO
+,,,,,,,,,,,,,,WR,Brandon Coleman (9975270),Brandon Coleman,9975270,3000,ATL@NO 12/24/2017 01:00PM ET,NO
+,,,,,,,,,,,,,,WR,Willie Snead (9975272),Willie Snead,9975272,3000,ATL@NO 12/24/2017 01:00PM ET,NO
+,,,,,,,,,,,,,,WR,Tommylee Lewis (9975274),Tommylee Lewis,9975274,3000,ATL@NO 12/24/2017 01:00PM ET,NO
+,,,,,,,,,,,,,,RB,Lawrence Thomas (9975291),Lawrence Thomas,9975291,3000,LAC@NYJ 12/24/2017 01:00PM ET,NYJ
+,,,,,,,,,,,,,,RB,Akeem Judd (9975293),Akeem Judd,9975293,3000,LAC@NYJ 12/24/2017 01:00PM ET,NYJ
+,,,,,,,,,,,,,,WR,JoJo Natson Jr. (9975301),JoJo Natson Jr.,9975301,3000,LAC@NYJ 12/24/2017 01:00PM ET,NYJ
+,,,,,,,,,,,,,,WR,Jalin Marshall (9975303),Jalin Marshall,9975303,3000,LAC@NYJ 12/24/2017 01:00PM ET,NYJ
+,,,,,,,,,,,,,,WR,Lucky Whitehead (9975305),Lucky Whitehead,9975305,3000,LAC@NYJ 12/24/2017 01:00PM ET,NYJ
+,,,,,,,,,,,,,,WR,ArDarius Stewart (9975307),ArDarius Stewart,9975307,3000,LAC@NYJ 12/24/2017 01:00PM ET,NYJ
+,,,,,,,,,,,,,,WR,Chad Hansen (9975309),Chad Hansen,9975309,3000,LAC@NYJ 12/24/2017 01:00PM ET,NYJ
+,,,,,,,,,,,,,,RB,Derek Watt (9975327),Derek Watt,9975327,3000,LAC@NYJ 12/24/2017 01:00PM ET,LAC
+,,,,,,,,,,,,,,WR,Geremy Davis (9975335),Geremy Davis,9975335,3000,LAC@NYJ 12/24/2017 01:00PM ET,LAC
+,,,,,,,,,,,,,,RB,David Fluellen (9975357),David Fluellen,9975357,3000,LAR@TEN 12/24/2017 01:00PM ET,TEN
+,,,,,,,,,,,,,,WR,Harry Douglas (9975365),Harry Douglas,9975365,3000,LAR@TEN 12/24/2017 01:00PM ET,TEN
+,,,,,,,,,,,,,,WR,Eric Weems (9975367),Eric Weems,9975367,3000,LAR@TEN 12/24/2017 01:00PM ET,TEN
+,,,,,,,,,,,,,,WR,Taywan Taylor (9975369),Taywan Taylor,9975369,3000,LAR@TEN 12/24/2017 01:00PM ET,TEN
+,,,,,,,,,,,,,,RB,Justin Davis (9975389),Justin Davis,9975389,3000,LAR@TEN 12/24/2017 01:00PM ET,LAR
+,,,,,,,,,,,,,,RB,Lance Dunbar (9975391),Lance Dunbar,9975391,3000,LAR@TEN 12/24/2017 01:00PM ET,LAR
+,,,,,,,,,,,,,,WR,Josh Reynolds (9975399),Josh Reynolds,9975399,3000,LAR@TEN 12/24/2017 01:00PM ET,LAR
+,,,,,,,,,,,,,,WR,Michael Thomas (9975401),Michael Thomas,9975401,3000,LAR@TEN 12/24/2017 01:00PM ET,LAR
+,,,,,,,,,,,,,,WR,Tavon Austin (9975403),Tavon Austin,9975403,3000,LAR@TEN 12/24/2017 01:00PM ET,LAR
+,,,,,,,,,,,,,,WR,Pharoh Cooper (9975405),Pharoh Cooper,9975405,3000,LAR@TEN 12/24/2017 01:00PM ET,LAR
+,,,,,,,,,,,,,,RB,Andy Janovich (9975425),Andy Janovich,9975425,3000,DEN@WAS 12/24/2017 01:00PM ET,DEN
+,,,,,,,,,,,,,,WR,Jordan Taylor (9975433),Jordan Taylor,9975433,3000,DEN@WAS 12/24/2017 01:00PM ET,DEN
+,,,,,,,,,,,,,,WR,Isaiah McKenzie (9975435),Isaiah McKenzie,9975435,3000,DEN@WAS 12/24/2017 01:00PM ET,DEN
+,,,,,,,,,,,,,,WR,Brian Quick (9975464),Brian Quick,9975464,3000,DEN@WAS 12/24/2017 01:00PM ET,WAS
+,,,,,,,,,,,,,,WR,Maurice Harris (9975466),Maurice Harris,9975466,3000,DEN@WAS 12/24/2017 01:00PM ET,WAS
+,,,,,,,,,,,,,,WR,Robert Davis (9975468),Robert Davis,9975468,3000,DEN@WAS 12/24/2017 01:00PM ET,WAS
+,,,,,,,,,,,,,,RB,Jeremy McNichols (9975483),Jeremy McNichols,9975483,3000,JAX@SF 12/24/2017 04:05PM ET,SF
+,,,,,,,,,,,,,,RB,Kyle Juszczyk (9975485),Kyle Juszczyk,9975485,3000,JAX@SF 12/24/2017 04:05PM ET,SF
+,,,,,,,,,,,,,,WR,Aldrick Robinson (9975491),Aldrick Robinson,9975491,3000,JAX@SF 12/24/2017 04:05PM ET,SF
+,,,,,,,,,,,,,,WR,Kendrick Bourne (9975493),Kendrick Bourne,9975493,3000,JAX@SF 12/24/2017 04:05PM ET,SF
+,,,,,,,,,,,,,,WR,Louis Murphy (9975495),Louis Murphy,9975495,3000,JAX@SF 12/24/2017 04:05PM ET,SF
+,,,,,,,,,,,,,,WR,Max McCaffrey (9975497),Max McCaffrey,9975497,3000,JAX@SF 12/24/2017 04:05PM ET,SF
+,,,,,,,,,,,,,,RB,Corey Grant (9975516),Corey Grant,9975516,3000,JAX@SF 12/24/2017 04:05PM ET,JAX
+,,,,,,,,,,,,,,RB,Tommy Bohanon (9975518),Tommy Bohanon,9975518,3000,JAX@SF 12/24/2017 04:05PM ET,JAX
+,,,,,,,,,,,,,,WR,Larry Pinkard (9975530),Larry Pinkard,9975530,3000,JAX@SF 12/24/2017 04:05PM ET,JAX
+,,,,,,,,,,,,,,RB,Paul Perkins (9975546),Paul Perkins,9975546,3000,NYG@ARI 12/24/2017 04:25PM ET,NYG
+,,,,,,,,,,,,,,RB,Shane Smith (9975548),Shane Smith,9975548,3000,NYG@ARI 12/24/2017 04:25PM ET,NYG
+,,,,,,,,,,,,,,RB,Shane Vereen (9975550),Shane Vereen,9975550,3000,NYG@ARI 12/24/2017 04:25PM ET,NYG
+,,,,,,,,,,,,,,WR,Kalif Raymond (9975554),Kalif Raymond,9975554,3000,NYG@ARI 12/24/2017 04:25PM ET,NYG
+,,,,,,,,,,,,,,WR,Travis Rudolph (9975558),Travis Rudolph,9975558,3000,NYG@ARI 12/24/2017 04:25PM ET,NYG
+,,,,,,,,,,,,,,WR,Hunter Sharp (9975562),Hunter Sharp,9975562,3000,NYG@ARI 12/24/2017 04:25PM ET,NYG
+,,,,,,,,,,,,,,RB,T.J. Logan (9975581),T.J. Logan,9975581,3000,NYG@ARI 12/24/2017 04:25PM ET,ARI
+,,,,,,,,,,,,,,RB,Elijhaa Penny (9975583),Elijhaa Penny,9975583,3000,NYG@ARI 12/24/2017 04:25PM ET,ARI
+,,,,,,,,,,,,,,WR,Brittan Golden (9975593),Brittan Golden,9975593,3000,NYG@ARI 12/24/2017 04:25PM ET,ARI
+,,,,,,,,,,,,,,WR,Chad Williams (9975595),Chad Williams,9975595,3000,NYG@ARI 12/24/2017 04:25PM ET,ARI
+,,,,,,,,,,,,,,DST,Cardinals  (9975605),Cardinals ,9975605,3000,NYG@ARI 12/24/2017 04:25PM ET,ARI
+,,,,,,,,,,,,,,RB,Keith Smith (9975614),Keith Smith,9975614,3000,SEA@DAL 12/24/2017 04:25PM ET,DAL
+,,,,,,,,,,,,,,RB,Trey Williams (9975616),Trey Williams,9975616,3000,SEA@DAL 12/24/2017 04:25PM ET,DAL
+,,,,,,,,,,,,,,WR,Ryan Switzer (9975624),Ryan Switzer,9975624,3000,SEA@DAL 12/24/2017 04:25PM ET,DAL
+,,,,,,,,,,,,,,WR,Brice Butler (9975626),Brice Butler,9975626,3000,SEA@DAL 12/24/2017 04:25PM ET,DAL
+,,,,,,,,,,,,,,WR,Noah Brown (9975628),Noah Brown,9975628,3000,SEA@DAL 12/24/2017 04:25PM ET,DAL
+,,,,,,,,,,,,,,WR,Tanner McEvoy (9975661),Tanner McEvoy,9975661,3000,SEA@DAL 12/24/2017 04:25PM ET,SEA
+,,,,,,,,,,,,,,WR,Amara Darboh (9975663),Amara Darboh,9975663,3000,SEA@DAL 12/24/2017 04:25PM ET,SEA
+,,,,,,,,,,,,,,WR,David Moore (9975665),David Moore,9975665,3000,SEA@DAL 12/24/2017 04:25PM ET,SEA
+,,,,,,,,,,,,,,DST,Lions  (9975086),Lions ,9975086,2900,DET@CIN 12/24/2017 01:00PM ET,DET
+,,,,,,,,,,,,,,TE,Jonnu Smith (9975373),Jonnu Smith,9975373,2900,LAR@TEN 12/24/2017 01:00PM ET,TEN
+,,,,,,,,,,,,,,DST,Saints  (9975282),Saints ,9975282,2800,ATL@NO 12/24/2017 01:00PM ET,NO
+,,,,,,,,,,,,,,TE,Garrett Celek (9975499),Garrett Celek,9975499,2800,JAX@SF 12/24/2017 04:05PM ET,SF
+,,,,,,,,,,,,,,TE,Dion Sims (9974981),Dion Sims,9974981,2700,CLE@CHI 12/24/2017 01:00PM ET,CHI
+,,,,,,,,,,,,,,TE,Dwayne Allen (9975215),Dwayne Allen,9975215,2700,BUF@NE 12/24/2017 01:00PM ET,NE
+,,,,,,,,,,,,,,TE,Austin Seferian-Jenkins (9975311),Austin Seferian-Jenkins,9975311,2700,LAC@NYJ 12/24/2017 01:00PM ET,NYJ
+,,,,,,,,,,,,,,DST,Seahawks  (9975675),Seahawks ,9975675,2700,SEA@DAL 12/24/2017 04:25PM ET,SEA
+,,,,,,,,,,,,,,TE,David Njoku (9975013),David Njoku,9975013,2600,CLE@CHI 12/24/2017 01:00PM ET,CLE
+,,,,,,,,,,,,,,DST,Browns  (9975021),Browns ,9975021,2600,CLE@CHI 12/24/2017 01:00PM ET,CLE
+,,,,,,,,,,,,,,TE,Tyler Kroft (9975047),Tyler Kroft,9975047,2600,DET@CIN 12/24/2017 01:00PM ET,CIN
+,,,,,,,,,,,,,,TE,Marcedes Lewis (9975532),Marcedes Lewis,9975532,2600,JAX@SF 12/24/2017 04:05PM ET,JAX
+,,,,,,,,,,,,,,DST,Giants  (9975570),Giants ,9975570,2600,NYG@ARI 12/24/2017 04:25PM ET,NYG
+,,,,,,,,,,,,,,TE,Antony Auclair (9974921),Antony Auclair,9974921,2500,TB@CAR 12/24/2017 01:00PM ET,TB
+,,,,,,,,,,,,,,TE,Alan Cross (9974923),Alan Cross,9974923,2500,TB@CAR 12/24/2017 01:00PM ET,TB
+,,,,,,,,,,,,,,TE,Chris Manhertz (9974953),Chris Manhertz,9974953,2500,TB@CAR 12/24/2017 01:00PM ET,CAR
+,,,,,,,,,,,,,,TE,Andrew DePaola (9974979),Andrew DePaola,9974979,2500,CLE@CHI 12/24/2017 01:00PM ET,CHI
+,,,,,,,,,,,,,,TE,Daniel Brown (9974983),Daniel Brown,9974983,2500,CLE@CHI 12/24/2017 01:00PM ET,CHI
+,,,,,,,,,,,,,,TE,Ben Braunecker (9974985),Ben Braunecker,9974985,2500,CLE@CHI 12/24/2017 01:00PM ET,CHI
+,,,,,,,,,,,,,,TE,Randall Telfer (9975015),Randall Telfer,9975015,2500,CLE@CHI 12/24/2017 01:00PM ET,CLE
+,,,,,,,,,,,,,,TE,Seth DeValve (9975017),Seth DeValve,9975017,2500,CLE@CHI 12/24/2017 01:00PM ET,CLE
+,,,,,,,,,,,,,,TE,Matt Lengel (9975019),Matt Lengel,9975019,2500,CLE@CHI 12/24/2017 01:00PM ET,CLE
+,,,,,,,,,,,,,,TE,Cethan Carter (9975049),Cethan Carter,9975049,2500,DET@CIN 12/24/2017 01:00PM ET,CIN
+,,,,,,,,,,,,,,TE,C.J. Uzomah (9975051),C.J. Uzomah,9975051,2500,DET@CIN 12/24/2017 01:00PM ET,CIN
+,,,,,,,,,,,,,,TE,Ryan Hewitt (9975053),Ryan Hewitt,9975053,2500,DET@CIN 12/24/2017 01:00PM ET,CIN
+,,,,,,,,,,,,,,TE,Clark Harris (9975055),Clark Harris,9975055,2500,DET@CIN 12/24/2017 01:00PM ET,CIN
+,,,,,,,,,,,,,,TE,Darren Fells (9975082),Darren Fells,9975082,2500,DET@CIN 12/24/2017 01:00PM ET,DET
+,,,,,,,,,,,,,,TE,Michael Roberts (9975084),Michael Roberts,9975084,2500,DET@CIN 12/24/2017 01:00PM ET,DET
+,,,,,,,,,,,,,,TE,James Winchester (9975110),James Winchester,9975110,2500,MIA@KC 12/24/2017 01:00PM ET,KC
+,,,,,,,,,,,,,,TE,Orson Charles (9975112),Orson Charles,9975112,2500,MIA@KC 12/24/2017 01:00PM ET,KC
+,,,,,,,,,,,,,,TE,Demetrius Harris (9975114),Demetrius Harris,9975114,2500,MIA@KC 12/24/2017 01:00PM ET,KC
+,,,,,,,,,,,,,,TE,A.J. Derby (9975144),A.J. Derby,9975144,2500,MIA@KC 12/24/2017 01:00PM ET,MIA
+,,,,,,,,,,,,,,TE,Anthony Fasano (9975146),Anthony Fasano,9975146,2500,MIA@KC 12/24/2017 01:00PM ET,MIA
+,,,,,,,,,,,,,,TE,MarQueis Gray (9975148),MarQueis Gray,9975148,2500,MIA@KC 12/24/2017 01:00PM ET,MIA
+,,,,,,,,,,,,,,TE,Logan Thomas (9975178),Logan Thomas,9975178,2500,BUF@NE 12/24/2017 01:00PM ET,BUF
+,,,,,,,,,,,,,,TE,Nick O'Leary (9975180),Nick O'Leary,9975180,2500,BUF@NE 12/24/2017 01:00PM ET,BUF
+,,,,,,,,,,,,,,TE,Khari Lee (9975182),Khari Lee,9975182,2500,BUF@NE 12/24/2017 01:00PM ET,BUF
+,,,,,,,,,,,,,,TE,Jacob Hollister (9975217),Jacob Hollister,9975217,2500,BUF@NE 12/24/2017 01:00PM ET,NE
+,,,,,,,,,,,,,,TE,Levine Toilolo (9975246),Levine Toilolo,9975246,2500,ATL@NO 12/24/2017 01:00PM ET,ATL
+,,,,,,,,,,,,,,TE,Eric Saubert (9975248),Eric Saubert,9975248,2500,ATL@NO 12/24/2017 01:00PM ET,ATL
+,,,,,,,,,,,,,,TE,Garrett Griffin (9975276),Garrett Griffin,9975276,2500,ATL@NO 12/24/2017 01:00PM ET,NO
+,,,,,,,,,,,,,,TE,Josh Hill (9975278),Josh Hill,9975278,2500,ATL@NO 12/24/2017 01:00PM ET,NO
+,,,,,,,,,,,,,,TE,Michael Hoomanawanui (9975280),Michael Hoomanawanui,9975280,2500,ATL@NO 12/24/2017 01:00PM ET,NO
+,,,,,,,,,,,,,,TE,Eric Tomlinson (9975313),Eric Tomlinson,9975313,2500,LAC@NYJ 12/24/2017 01:00PM ET,NYJ
+,,,,,,,,,,,,,,TE,Neal Sterling (9975315),Neal Sterling,9975315,2500,LAC@NYJ 12/24/2017 01:00PM ET,NYJ
+,,,,,,,,,,,,,,TE,Sean Culkin (9975341),Sean Culkin,9975341,2500,LAC@NYJ 12/24/2017 01:00PM ET,LAC
+,,,,,,,,,,,,,,TE,Jeff Cumberland (9975343),Jeff Cumberland,9975343,2500,LAC@NYJ 12/24/2017 01:00PM ET,LAC
+,,,,,,,,,,,,,,TE,Sean McGrath (9975345),Sean McGrath,9975345,2500,LAC@NYJ 12/24/2017 01:00PM ET,LAC
+,,,,,,,,,,,,,,TE,Antonio Gates (9975347),Antonio Gates,9975347,2500,LAC@NYJ 12/24/2017 01:00PM ET,LAC
+,,,,,,,,,,,,,,TE,Phillip Supernaw (9975375),Phillip Supernaw,9975375,2500,LAR@TEN 12/24/2017 01:00PM ET,TEN
+,,,,,,,,,,,,,,TE,Luke Stocker (9975377),Luke Stocker,9975377,2500,LAR@TEN 12/24/2017 01:00PM ET,TEN
+,,,,,,,,,,,,,,TE,Beau Brinkley (9975379),Beau Brinkley,9975379,2500,LAR@TEN 12/24/2017 01:00PM ET,TEN
+,,,,,,,,,,,,,,TE,Derek Carrier (9975407),Derek Carrier,9975407,2500,LAR@TEN 12/24/2017 01:00PM ET,LAR
+,,,,,,,,,,,,,,TE,Gerald Everett (9975409),Gerald Everett,9975409,2500,LAR@TEN 12/24/2017 01:00PM ET,LAR
+,,,,,,,,,,,,,,TE,Tyler Higbee (9975411),Tyler Higbee,9975411,2500,LAR@TEN 12/24/2017 01:00PM ET,LAR
+,,,,,,,,,,,,,,TE,Jeff Heuerman (9975439),Jeff Heuerman,9975439,2500,DEN@WAS 12/24/2017 01:00PM ET,DEN
+,,,,,,,,,,,,,,TE,Jake Butt (9975441),Jake Butt,9975441,2500,DEN@WAS 12/24/2017 01:00PM ET,DEN
+,,,,,,,,,,,,,,TE,Austin Traylor (9975443),Austin Traylor,9975443,2500,DEN@WAS 12/24/2017 01:00PM ET,DEN
+,,,,,,,,,,,,,,TE,Virgil Green (9975445),Virgil Green,9975445,2500,DEN@WAS 12/24/2017 01:00PM ET,DEN
+,,,,,,,,,,,,,,TE,Matt LaCosse (9975447),Matt LaCosse,9975447,2500,DEN@WAS 12/24/2017 01:00PM ET,DEN
+,,,,,,,,,,,,,,TE,Jeremy Sprinkle (9975472),Jeremy Sprinkle,9975472,2500,DEN@WAS 12/24/2017 01:00PM ET,WAS
+,,,,,,,,,,,,,,TE,Niles Paul (9975474),Niles Paul,9975474,2500,DEN@WAS 12/24/2017 01:00PM ET,WAS
+,,,,,,,,,,,,,,TE,George Kittle (9975501),George Kittle,9975501,2500,JAX@SF 12/24/2017 04:05PM ET,SF
+,,,,,,,,,,,,,,TE,Logan Paulsen (9975503),Logan Paulsen,9975503,2500,JAX@SF 12/24/2017 04:05PM ET,SF
+,,,,,,,,,,,,,,TE,Kyle Nelson (9975505),Kyle Nelson,9975505,2500,JAX@SF 12/24/2017 04:05PM ET,SF
+,,,,,,,,,,,,,,TE,James O'Shaughnessy (9975534),James O'Shaughnessy,9975534,2500,JAX@SF 12/24/2017 04:05PM ET,JAX
+,,,,,,,,,,,,,,TE,Ben Koyack (9975536),Ben Koyack,9975536,2500,JAX@SF 12/24/2017 04:05PM ET,JAX
+,,,,,,,,,,,,,,TE,Jerell Adams (9975566),Jerell Adams,9975566,2500,NYG@ARI 12/24/2017 04:25PM ET,NYG
+,,,,,,,,,,,,,,TE,Rhett Ellison (9975568),Rhett Ellison,9975568,2500,NYG@ARI 12/24/2017 04:25PM ET,NYG
+,,,,,,,,,,,,,,TE,Troy Niklas (9975599),Troy Niklas,9975599,2500,NYG@ARI 12/24/2017 04:25PM ET,ARI
+,,,,,,,,,,,,,,TE,Jermaine Gresham (9975601),Jermaine Gresham,9975601,2500,NYG@ARI 12/24/2017 04:25PM ET,ARI
+,,,,,,,,,,,,,,TE,Gabe Holmes (9975603),Gabe Holmes,9975603,2500,NYG@ARI 12/24/2017 04:25PM ET,ARI
+,,,,,,,,,,,,,,TE,James Hanna (9975632),James Hanna,9975632,2500,SEA@DAL 12/24/2017 04:25PM ET,DAL
+,,,,,,,,,,,,,,TE,Rico Gathers (9975634),Rico Gathers,9975634,2500,SEA@DAL 12/24/2017 04:25PM ET,DAL
+,,,,,,,,,,,,,,TE,Blake Jarwin (9975636),Blake Jarwin,9975636,2500,SEA@DAL 12/24/2017 04:25PM ET,DAL
+,,,,,,,,,,,,,,TE,Geoff Swaim (9975638),Geoff Swaim,9975638,2500,SEA@DAL 12/24/2017 04:25PM ET,DAL
+,,,,,,,,,,,,,,DST,Cowboys  (9975640),Cowboys ,9975640,2500,SEA@DAL 12/24/2017 04:25PM ET,DAL
+,,,,,,,,,,,,,,TE,Luke Willson (9975669),Luke Willson,9975669,2500,SEA@DAL 12/24/2017 04:25PM ET,SEA
+,,,,,,,,,,,,,,TE,Nick Vannett (9975671),Nick Vannett,9975671,2500,SEA@DAL 12/24/2017 04:25PM ET,SEA
+,,,,,,,,,,,,,,TE,Tyler Ott (9975673),Tyler Ott,9975673,2500,SEA@DAL 12/24/2017 04:25PM ET,SEA
+,,,,,,,,,,,,,,DST,Bengals  (9975057),Bengals ,9975057,2400,DET@CIN 12/24/2017 01:00PM ET,CIN
+,,,,,,,,,,,,,,DST,Jets  (9975317),Jets ,9975317,2400,LAC@NYJ 12/24/2017 01:00PM ET,NYJ
+,,,,,,,,,,,,,,DST,Buccaneers  (9974925),Buccaneers ,9974925,2300,TB@CAR 12/24/2017 01:00PM ET,TB
+,,,,,,,,,,,,,,DST,49ers  (9975507),49ers ,9975507,2300,JAX@SF 12/24/2017 04:05PM ET,SF
+,,,,,,,,,,,,,,DST,Dolphins  (9975150),Dolphins ,9975150,2200,MIA@KC 12/24/2017 01:00PM ET,MIA
+,,,,,,,,,,,,,,DST,Titans  (9975381),Titans ,9975381,2200,LAR@TEN 12/24/2017 01:00PM ET,TEN
+,,,,,,,,,,,,,,DST,Falcons  (9975250),Falcons ,9975250,2100,ATL@NO 12/24/2017 01:00PM ET,ATL
+,,,,,,,,,,,,,,DST,Bills  (9975184),Bills ,9975184,2000,BUF@NE 12/24/2017 01:00PM ET,BUF

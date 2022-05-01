@@ -1,0 +1,9 @@
+Rank,Player Name,Team,Matchup,Best Rank,Worst Rank,Avg Rank,Std Dev,Status
+1,Alex Smith,KC,TEN,1,2,1.3,0.5
+2,Drew Brees,NO,CAR,1,4,2.5,1.0
+3,Jared Goff,LAR,ATL,1,4,3.1,1.0
+4,Cam Newton,CAR,NO,2,5,3.6,1.1
+5,Matt Ryan,ATL,LAR,3,7,5.3,1.0
+6,Blake Bortles,JAC,BUF,3,7,5.6,1.2
+7,Marcus Mariota,TEN,KC,6,8,6.9,0.6
+8,Tyrod Taylor,BUF,JAC,6,8,7.8,0.6

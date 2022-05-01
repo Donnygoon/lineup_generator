@@ -1,0 +1,29 @@
+Rank,Player Name,Team,Matchup,Best Rank,Worst Rank,Avg Rank,Std Dev,Status
+1,Jacksonville Jaguars,JAC,LAC,1,9,2.1,1.7
+2,Seattle Seahawks,SEA,ARI,1,9,3.3,1.6
+3,Los Angeles Rams,LAR,HOU,1,19,3.3,2.4
+4,Detroit Lions,DET,CLE,1,10,3.7,1.7
+5,Pittsburgh Steelers,PIT,IND,1,7,4.4,1.5
+6,Carolina Panthers,CAR,MIA,1,12,6.0,1.8
+7,Chicago Bears,CHI,GB,2,11,6.5,1.7
+8,Minnesota Vikings,MIN,WAS,4,18,8.6,2.3
+9,New England Patriots,NE,DEN,2,16,9.2,2.1
+10,Tennessee Titans,TEN,CIN,2,16,10.8,2.0
+11,New Orleans Saints,NO,BUF,5,20,11.6,2.3
+12,New York Jets,NYJ,TB,8,21,12.0,2.2
+13,Cincinnati Bengals,CIN,TEN,9,26,14.4,2.6
+14,New York Giants,NYG,SF,7,25,14.4,3.4
+15,Buffalo Bills,BUF,NO,8,27,15.2,3.8
+16,Green Bay Packers,GB,CHI,8,23,15.9,2.4
+17,Washington Redskins,WAS,MIN,12,27,16.3,2.3
+18,Los Angeles Chargers,LAC,JAC,7,25,17.1,2.8
+19,Arizona Cardinals,ARI,SEA,10,26,19.2,2.6
+20,Denver Broncos,DEN,NE,12,27,20.1,2.7
+21,San Francisco 49ers,SF,NYG,12,25,19.5,2.7
+22,Miami Dolphins,MIA,CAR,9,25,20.7,3.1
+23,Dallas Cowboys,DAL,ATL,12,25,21.7,2.7
+24,Tampa Bay Buccaneers,TB,NYJ,10,27,21.9,4.0
+25,Atlanta Falcons,ATL,DAL,13,28,24.2,3.5
+26,Houston Texans,HOU,LAR,17,28,24.9,2.5
+27,Cleveland Browns,CLE,DET,15,28,25.7,2.9
+28,Indianapolis Colts,IND,PIT,24,28,27.0,1.2

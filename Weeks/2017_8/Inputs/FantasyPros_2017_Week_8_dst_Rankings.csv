@@ -1,0 +1,27 @@
+Rank,Player Name,Team,Matchup,Best Rank,Worst Rank,Avg Rank,Std Dev,Status
+1,Minnesota Vikings,MIN,CLE,1,11,1.7,1.6
+2,Philadelphia Eagles,PHI,SF,1,7,2.1,1.1
+3,Cincinnati Bengals,CIN,IND,1,10,3.2,1.3
+4,Kansas City Chiefs,KC,DEN,1,13,5.0,2.2
+5,Seattle Seahawks,SEA,HOU,1,13,5.9,2.0
+6,Baltimore Ravens,BAL,MIA,2,15,6.2,2.1
+7,New Orleans Saints,NO,CHI,1,13,6.7,2.0
+8,Pittsburgh Steelers,PIT,DET,2,15,7.7,2.0
+9,Miami Dolphins,MIA,BAL,2,16,8.9,2.0
+10,Carolina Panthers,CAR,TB,5,23,11.2,2.5
+11,Denver Broncos,DEN,KC,4,26,11.7,2.9
+12,Buffalo Bills,BUF,OAK,6,19,12.0,2.4
+13,Atlanta Falcons,ATL,NYJ,4,17,12.1,2.5
+14,Houston Texans,HOU,SEA,1,22,13.9,2.7
+15,Detroit Lions,DET,PIT,3,24,15.2,2.7
+16,Tampa Bay Buccaneers,TB,CAR,7,22,15.6,2.8
+17,New England Patriots,NE,LAC,9,22,16.5,2.5
+18,New York Jets,NYJ,ATL,8,26,18.6,2.6
+19,Chicago Bears,CHI,NO,14,26,19.6,2.0
+20,Oakland Raiders,OAK,BUF,15,25,19.5,1.8
+21,Dallas Cowboys,DAL,WAS,11,25,19.9,4.2
+22,Cleveland Browns,CLE,MIN,14,25,20.3,2.5
+23,Indianapolis Colts,IND,CIN,12,26,21.4,2.9
+24,Washington Redskins,WAS,DAL,14,26,22.2,2.5
+25,Los Angeles Chargers,LAC,NE,14,26,24.0,2.7
+26,San Francisco 49ers,SF,PHI,18,26,25.1,1.6

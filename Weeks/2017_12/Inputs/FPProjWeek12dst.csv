@@ -1,0 +1,33 @@
+Player Name,Team,def_sack,def_int,def_fr,def_ff,def_td,def_assist,def_safety,def_pa,def_tyda,fpts
+Jacksonville Jaguars,JAC,3.6,1.4,0.8,1.5,0.3,0.0,0.1,15.3,274.6,10.8
+Pittsburgh Steelers,PIT,3.3,1.5,0.7,1.0,0.2,0.0,0.0,16.1,294.7,10.2
+Cincinnati Bengals,CIN,3.1,1.5,0.7,1.0,0.2,0.0,0.0,14.2,272.7,9.9
+Baltimore Ravens,BAL,2.9,1.2,0.8,1.5,0.2,0.0,0.0,16.1,291.8,9.1
+Seattle Seahawks,SEA,2.9,1.1,0.7,1.1,0.2,0.0,0.0,17.4,290.5,8.8
+Philadelphia Eagles,PHI,2.8,1.0,0.7,1.3,0.2,0.0,0.1,14.4,268.2,8.6
+Carolina Panthers,CAR,3.0,0.9,0.8,1.3,0.2,0.0,0.0,17.4,279.7,8.5
+New England Patriots,NE,2.2,1.2,0.5,0.8,0.2,0.0,0.0,16.5,334.3,7.9
+Atlanta Falcons,ATL,2.2,1.1,0.6,0.9,0.2,0.0,0.0,19.4,345.9,7.8
+Washington Redskins,WAS,2.1,1.0,0.6,1.0,0.2,0.0,0.0,19.3,329.2,7.4
+Kansas City Chiefs,KC,2.4,0.7,0.7,1.0,0.1,0.0,0.0,19.1,337.5,7.1
+Minnesota Vikings,MIN,2.8,0.8,0.7,1.1,0.2,0.0,0.0,21.3,321.9,6.9
+Houston Texans,HOU,2.2,1.1,0.7,1.0,0.2,0.0,0.0,21.5,308.5,6.8
+Tennessee Titans,TEN,2.8,0.7,0.7,1.1,0.2,0.0,0.0,22.2,312.7,6.8
+Oakland Raiders,OAK,2.3,0.9,0.8,1.5,0.2,0.0,0.0,21.6,344.6,6.8
+Los Angeles Chargers,LAC,2.5,0.8,0.7,1.1,0.2,0.0,0.0,23.1,352.9,6.5
+New Orleans Saints,NO,1.9,0.7,0.8,1.5,0.2,0.0,0.1,26.6,367.4,6.1
+Denver Broncos,DEN,2.0,0.8,0.7,1.0,0.2,0.0,0.0,23.1,313.4,6.1
+New York Jets,NYJ,2.1,0.9,0.6,1.0,0.1,0.0,0.0,22.4,337.2,6.0
+Arizona Cardinals,ARI,2.2,0.8,0.6,1.0,0.1,0.0,0.0,21.9,339.4,5.9
+San Francisco 49ers,SF,2.3,0.9,0.5,0.8,0.1,0.0,0.0,24.8,374.5,5.9
+Los Angeles Rams,LAR,1.9,0.9,0.6,0.9,0.2,0.0,0.0,25.6,386.2,5.9
+Cleveland Browns,CLE,2.0,0.7,0.7,1.1,0.2,0.0,0.0,21.8,318.9,5.9
+Indianapolis Colts,IND,1.8,0.9,0.6,0.9,0.2,0.0,0.0,24.9,372.5,5.8
+Dallas Cowboys,DAL,2.0,0.8,0.6,0.9,0.1,0.0,0.0,24.3,378.8,5.5
+New York Giants,NYG,1.6,0.7,0.7,1.4,0.2,0.0,0.0,24.8,371.5,5.5
+Chicago Bears,CHI,2.2,0.6,0.6,1.1,0.1,0.0,0.0,29.9,375.1,5.5
+Tampa Bay Buccaneers,TB,1.6,0.8,0.6,1.0,0.2,0.0,0.0,27.7,400.0,5.5
+Detroit Lions,DET,1.7,0.8,0.6,0.9,0.2,0.0,0.0,25.0,375.9,5.4
+Green Bay Packers,GB,1.7,0.7,0.5,0.8,0.2,0.0,0.0,29.0,406.4,5.1
+Buffalo Bills,BUF,2.0,0.7,0.5,0.6,0.1,0.0,0.0,27.7,373.9,5.1
+Miami Dolphins,MIA,1.7,0.4,0.5,0.9,0.1,0.0,0.1,32.0,418.2,4.4

@@ -1,0 +1,160 @@
+RK,PLAYER NAME,TEAM,OPP,MATCHUP RATING,START/SIT,PROJ. FPTS,AVG. POINTS (?),% GAMES (?),OPPORTUNITY (?),EFFICIENCY (?)
+1,Davante Adams,GB,at HOU,8.4,A+,22.5,-0.8,54% (6/11),13%,Average
+2,DeAndre Hopkins,ARI,vs. SEA,6.2,A+,21.7,0,53% (8/15),12%,Good
+3,Calvin Ridley,ATL,vs. DET,3.8,A+,20,1.4,58% (7/12),23%,Good
+4,Julio Jones,ATL,vs. DET,4,A+,18.9,-1,38% (5/13),15%,Average
+5,Tyreek Hill,KC,at DEN,6.2,A+,18.3,-1.8,43% (7/16),15%,Great
+6,Stefon Diggs,BUF,at NYJ,6.2,A,18.1,-1.5,31% (5/16),9%,Good
+7,Kenny Golladay,DET,at ATL,7.4,A+,18,0.2,57% (8/14),10%,Good
+8,D.K. Metcalf,SEA,at ARI,5.8,A,17.7,1.2,46% (7/15),13%,Great
+9,Keenan Allen,LAC,vs. JAC,8,A,17.7,-0.8,46% (7/15),19%,Average
+10,Terry McLaurin,WAS,vs. DAL,8.4,A,17.2,-2.2,26% (4/15),9%,Average
+11,Allen Robinson II,CHI,at LAR,7.2,A,17.1,-0.4,47% (8/17),20%,Poor
+12,Chris Godwin,TB,at LV,7,A,17,-2.2,18% (2/11),11%,Poor
+13,A.J. Brown,TEN,vs. PIT,8.4,A,17,3.4,69% (9/13),13%,Good
+14,Will Fuller V,HOU,vs. GB,5.4,A,16.9,-1.2,54% (6/11),15%,Great
+15,Tyler Lockett,SEA,at ARI,6.4,A,16.5,-2,26% (4/15),16%,Great
+16,Robby Anderson,CAR,at NO,9.8,A-,16.5,0.9,58% (10/17),12%,Poor
+17,Robert Woods,LAR,vs. CHI,4.4,A-,16.2,1,60% (9/15),11%,Great
+18,Mike Evans,TB,at LV,8,A-,15.9,0.4,50% (6/12),14%,Great
+19,Amari Cooper,DAL,at WAS,5.8,A-,15.9,-1.8,37% (6/16),14%,Average
+20,Cooper Kupp,LAR,vs. CHI,5.4,A-,15.8,-2.1,43% (7/16),9%,Great
+21,D.J. Moore,CAR,at NO,9.4,A-,15.7,-0.6,53% (8/15),10%,Poor
+22,Chase Claypool,PIT,at TEN,6.2,B+,15.6,9.9,80% (4/5),18%,Great
+23,Tyler Boyd,CIN,vs. CLE,6.2,B+,15.3,-0.5,37% (6/16),11%,Poor
+24,Odell Beckham Jr.,CLE,at CIN,5.8,B+,15.2,-1.2,31% (5/16),21%,Good
+25,D.J. Chark Jr.,JAC,at LAC,5.4,B,14.9,-1.7,21% (3/14),14%,Great
+26,CeeDee Lamb,DAL,at WAS,5.4,B,14.5,3.7,83% (5/6),12%,Good
+27,Tee Higgins,CIN,vs. CLE,6.6,B-,14.4,3.7,66% (4/6),15%,Average
+28,Brandin Cooks,HOU,vs. GB,4.8,B-,14.3,-1.4,35% (5/14),12%,Good
+29,Travis Fulgham,PHI,vs. NYG,5,B-,14.2,5.4,42% (3/7),19%,Average
+30,Darius Slayton,NYG,at PHI,7,C+,14.2,2,43% (7/16),21%,Good
+31,JuJu Smith-Schuster,PIT,at TEN,6.4,C+,13.9,-4.1,27% (3/11),6%,Great
+32,Mike Williams,LAC,vs. JAC,7.4,C+,13.8,0.2,42% (6/14),13%,Good
+33,Christian Kirk,ARI,vs. SEA,9.2,C+,13.5,-0.1,50% (7/14),9%,Great
+34,Deebo Samuel,SF,at NE,5.6,C+,13,2.5,69% (9/13),4%,Great
+35,Julian Edelman,NE,vs. SF,4.8,C+,12.7,-2.5,26% (4/15),9%,Awful
+36,Laviska Shenault Jr.,JAC,at LAC,5.2,C,12.4,0.1,66% (4/6),8%,Good
+37,Tim Patrick,DEN,vs. KC,4,C,12.4,2,66% (8/12),6%,Great
+38,Jarvis Landry,CLE,at CIN,6.6,C,12,0.2,37% (6/16),4%,Good
+39,Michael Gallup,DAL,at WAS,5.2,C,11.9,-0.8,43% (7/16),12%,Poor
+40,Cole Beasley,BUF,at NYJ,7,C,11.3,2.7,81% (13/16),8%,Good
+41,Diontae Johnson,PIT,at TEN,6.2,C,11.1,-0.2,35% (5/14),7%,Good
+42,Jerry Jeudy,DEN,vs. KC,4.4,C,11.1,-0.6,40% (2/5),6%,Average
+43,Tre'Quan Smith,NO,vs. CAR,3,C,10.8,1.3,46% (6/13),8%,Good
+44,Keelan Cole,JAC,at LAC,6.4,C,10.7,2.5,60% (9/15),11%,Great
+45,A.J. Green,CIN,vs. CLE,7.4,C-,10.5,-4.3,16% (1/6),11%,Awful
+46,Henry Ruggs III,LV,vs. TB,4.6,C,9.9,1.6,66% (2/3),7%,Average
+47,Marvin Jones Jr.,DET,at ATL,7.6,C-,9.7,1.1,41% (5/12),12%,Poor
+48,Brandon Aiyuk,SF,at NE,5.2,C-,9.7,2.3,60% (3/5),12%,Good
+49,Marquez Valdes-Scantling,GB,at HOU,6.6,C-,9.3,-1.9,26% (4/15),9%,Poor
+50,Randall Cobb,HOU,vs. GB,4.6,C-,9.2,1.9,56% (9/16),8%,Great
+51,Russell Gage,ATL,vs. DET,4,D+,9.2,0.9,56% (9/16),11%,Poor
+52,Adam Humphries,TEN,vs. PIT,7.8,D,9,1.6,60% (6/10),13%,Good
+53,Breshad Perriman,NYJ,vs. BUF,6.4,D+,8.9,2.9,61% (8/13),6%,Awful
+54,James Washington,PIT,at TEN,6.2,C-,8.8,2,46% (7/15),10%,Good
+55,Demarcus Robinson,KC,at DEN,5.4,D,8.7,-1.3,25% (4/16),6%,Awful
+56,Golden Tate,NYG,at PHI,7,D,8.7,-0.9,35% (5/14),6%,Good
+57,Mecole Hardman,KC,at DEN,4.2,D+,8.5,0.9,50% (8/16),4%,Great
+58,Damiere Byrd,NE,vs. SF,5.8,D-,8.3,0.5,26% (4/15),6%,Awful
+59,N'Keal Harry,NE,vs. SF,4,D-,8.2,-0.3,58% (7/12),13%,Poor
+60,Corey Davis,TEN,vs. PIT,7.8,D,8.1,-1.2,30% (4/13),3%,Great
+61,Greg Ward,PHI,vs. NYG,6.2,D-,8.1,1.6,58% (7/12),5%,Great
+62,DeSean Jackson,PHI,vs. NYG,5.6,D-,8,-4.1,33% (1/3),4%,Awful
+63,Darnell Mooney,CHI,at LAR,6.4,F,8,1.4,50% (3/6),4%,Great
+64,Danny Amendola,DET,at ATL,7.6,F,7.9,-0.3,31% (5/16),3%,Awful
+65,Hunter Renfrow,LV,vs. TB,4.2,F,7.9,3.3,53% (7/13),7%,Good
+66,Gabriel Davis,BUF,at NYJ,6,F,7.8,3.4,83% (5/6),3%,Great
+67,Anthony Miller,CHI,at LAR,7.4,F,7.6,0.3,52% (9/17),11%,Good
+68,Larry Fitzgerald,ARI,vs. SEA,7,F,7.5,-2.5,31% (5/16),3%,Awful
+69,Dontrelle Inman,WAS,vs. DAL,7.8,F,7.4,0.1,37% (3/8),5%,Great
+70,Kendrick Bourne,SF,at NE,5.4,F,7.3,1.8,58% (10/17),7%,Average
+71,Nelson Agholor,LV,vs. TB,4.6,F,7.1,0.9,40% (4/10),3%,Great
+72,Andy Isabella,ARI,vs. SEA,9,F,7.1,0.8,33% (5/15),6%,Great
+73,Scotty Miller,TB,at LV,7.6,F,7,-0.3,45% (5/11),6%,Good
+74,Jeff Smith,NYJ,vs. BUF,6.2,F,6.9,-0.5,25% (1/4),15%,Awful
+75,Curtis Samuel,CAR,at NO,9.4,F,6.9,-1.6,40% (6/15),6%,Awful
+76,Josh Reynolds,LAR,vs. CHI,5.2,F,6.9,1.6,62% (10/16),10%,Average
+77,David Moore,SEA,at ARI,5.6,F,6.3,0.2,26% (4/15),9%,Good
+78,Cordarrelle Patterson,CHI,at LAR,7.8,F,6.3,-1.1,31% (5/16),2%,Awful
+79,Rashard Higgins,CLE,at CIN,6.8,F,6.2,-0.5,20% (3/15),4%,Great
+80,Tyler Johnson,TB,at LV,7.4,F,6.2,1.1,40% (2/5),5%,Good
+81,Sterling Shepard,NYG,at PHI,7.4,F,6,-2.5,22% (2/9),14%,Poor
+82,Braxton Berrios,NYJ,vs. BUF,6.8,F,5.8,-0.1,18% (3/16),12%,Good
+83,Cedrick Wilson,DAL,at WAS,5.4,F,5.7,2.4,30% (3/10),9%,Great
+84,Denzel Mims,NYJ,vs. BUF,6.4,F,5.7,-1.7,0% (0/1),0%,N/A
+85,Chris Conley,JAC,at LAC,5.8,F,5.4,0.3,50% (8/16),9%,Awful
+86,John Hightower,PHI,vs. NYG,6.4,F,5.4,-0.5,50% (3/6),6%,Awful
+87,Jalen Guyton,LAC,vs. JAC,8,F,5.3,1.4,37% (3/8),4%,Great
+88,Olamide Zaccheaus,ATL,vs. DET,3.4,F,5.3,0.4,28% (4/14),4%,Awful
+89,Kenny Stills,HOU,vs. GB,4.2,F,5.1,-0.6,40% (6/15),5%,Good
+90,Kalif Raymond,TEN,vs. PIT,7.2,F,5.1,0.8,38% (5/13),3%,Awful
+91,DaeSean Hamilton,DEN,vs. KC,4.6,F,4.8,-0.7,20% (3/15),3%,Awful
+92,Mike Thomas,CIN,vs. CLE,6.6,F,4.8,0.3,26% (4/15),3%,Great
+93,Byron Pringle,KC,at DEN,5.6,F,4.7,-0.2,25% (4/16),1%,Awful
+94,Isaiah McKenzie,BUF,at NYJ,8,F,4.7,0.4,43% (7/16),3%,Good
+95,Collin Johnson,JAC,at LAC,6,F,4.6,0.4,33% (2/6),16%,Poor
+96,Van Jefferson,LAR,vs. CHI,4.8,F,4.5,-1.8,16% (1/6),3%,Awful
+97,Darrius Shepherd,GB,at HOU,7.8,F,4.3,-,-,6%,Awful
+98,Jamison Crowder,NYJ,vs. BUF,6.2,F,4.2,0.9,53% (8/15),7%,Great
+99,Trent Taylor,SF,at NE,5.4,F,4.2,-1,33% (2/6),10%,Awful
+100,Christian Blake,ATL,vs. DET,3.8,F,4.2,-1.4,21% (3/14),6%,Awful
+101,JJ Arcega-Whiteside,PHI,vs. NYG,6,F,3.9,-0.7,38% (5/13),3%,Awful
+102,Marquez Callaway,NO,vs. CAR,4,F,3.8,-0.1,40% (2/5),2%,Awful
+103,Deonte Harris,NO,vs. CAR,4,F,3.8,-0.2,33% (4/12),2%,Awful
+104,Freddie Swain,SEA,at ARI,6.6,F,3.5,1.4,40% (2/5),2%,Great
+105,Isaiah Wright,WAS,vs. DAL,8.4,F,3.5,1,37% (3/8),3%,Great
+106,KJ Hamler,DEN,vs. KC,-,F,3.3,-1.2,33% (1/3),5%,Awful
+107,Zay Jones,LV,vs. TB,4.8,F,3.3,-1.2,31% (5/16),2%,Great
+108,Marvin Hall,DET,at ATL,7.6,F,3.3,0.9,45% (5/11),6%,Good
+109,Austin Mack,NYG,at PHI,6.8,F,3.1,-,-,0%,N/A
+110,Keith Kirkwood,CAR,at NO,9.4,F,3,-0.6,0% (0/9),5%,Awful
+111,Malik Taylor,GB,at HOU,7.8,F,3,-1.9,20% (1/5),2%,Awful
+112,Jakobi Meyers,NE,vs. SF,4.6,F,2.8,-1,33% (4/12),0%,N/A
+113,Noah Brown,DAL,at WAS,4.6,F,2.8,0.6,30% (3/10),4%,Awful
+114,Justin Watson,TB,at LV,7.4,F,2.7,0.5,28% (4/14),1%,Awful
+115,Damion Ratley,FA,-,-,F,2.3,-0.7,21% (3/14),0%,N/A
+116,K.J. Hill,LAC,vs. JAC,8,F,2.2,-1.2,20% (1/5),5%,Awful
+117,Equanimeous St. Brown,GB,at HOU,7.8,F,2,-1.6,0% (0/2),0%,Awful
+118,Seth Roberts,CAR,at NO,9.4,F,2,-0.1,33% (5/15),2%,Awful
+119,Ray-Ray McCloud,PIT,at TEN,6.8,F,1.9,0.8,20% (1/5),0%,Awful
+120,Jalen Reagor,PHI,vs. NYG,6,F,1.9,0.2,100% (2/2),3%,Awful
+121,Andre Roberts,BUF,at NYJ,6.8,F,1.8,-0.7,18% (3/16),2%,Awful
+122,Javon Wims,CHI,at LAR,7.2,F,1.8,-0.2,37% (6/16),7%,Average
+123,Ted Ginn Jr.,CHI,at LAR,7.2,F,1.8,-2.2,20% (3/15),3%,Awful
+124,Cam Batson,TEN,vs. PIT,7.4,F,1.7,-3.3,0% (0/3),1%,Awful
+125,Auden Tate,CIN,vs. CLE,-,F,1.1,-1.1,27% (3/11),3%,Awful
+126,Pharoh Cooper,CAR,at NO,9.4,F,1,0,40% (6/15),0%,N/A
+127,Isaiah Zuber,NE,vs. SF,4.6,F,0.9,-,-,0%,Awful
+128,Alex Erickson,CIN,vs. CLE,6.4,F,0.8,-0.6,31% (5/16),0%,Awful
+129,Donovan Peoples-Jones,CLE,at CIN,6.8,F,0.7,-1.6,0% (0/2),0%,N/A
+130,KeeSean Johnson,ARI,vs. SEA,7,F,0.7,-1.2,27% (3/11),6%,Awful
+131,Tyron Johnson,LAC,vs. JAC,8,F,0.4,-,-,0%,Great
+132,Vyncint Smith,NYJ,vs. BUF,6.4,F,0.2,-0.7,36% (4/11),0%,N/A
+133,Austin Carr,NO,vs. CAR,-,F,0.2,-1,0% (0/6),0%,N/A
+134,Nick Westbrook-Ikhine,TEN,vs. PIT,7.4,F,0.1,-,-,3%,Awful
+135,Robert Foster,WAS,vs. DAL,-,F,0.1,-1.2,15% (2/13),0%,N/A
+136,DeAndre Carter,HOU,vs. GB,4.6,F,0.1,-0.4,25% (4/16),6%,Awful
+137,Brandon Powell,ATL,vs. DET,3.8,F,0.1,-0.5,12% (1/8),7%,Awful
+138,Trent Sherfield,ARI,vs. SEA,7,F,0.1,-1.1,6% (1/15),0%,N/A
+139,John Ross,CIN,vs. CLE,6.4,F,0.1,-4,12% (1/8),4%,Awful
+140,Gunner Olszewski,NE,vs. SF,4.6,F,0.1,-1.2,0% (0/5),0%,N/A
+141,Quintez Cephus,DET,at ATL,7.6,F,0.1,-0.1,50% (2/4),7%,Awful
+142,Tyrie Cleveland,DEN,vs. KC,4.6,F,0.1,-0.1,33% (1/3),0%,N/A
+143,Jaydon Mickens,TB,at LV,7.4,F,0.1,-0.8,16% (1/6),0%,N/A
+144,Cyril Grayson Jr.,TB,at LV,7.4,F,0.1,-,-,3%,Awful
+145,Richie James Jr.,SF,at NE,5.4,F,0.1,-0.1,12% (2/16),0%,N/A
+146,Taywan Taylor,CLE,at CIN,6.8,F,0.1,-0.3,0% (0/5),0%,N/A
+147,Jeff Badet,WAS,vs. DAL,-,F,0.1,-,-,0%,N/A
+148,Dante Pettis,SF,at NE,5.4,F,0.4,-2.6,8% (1/12),5%,Awful
+149,Juwan Johnson,NO,vs. CAR,-,F,0.1,-,-,0%,N/A
+150,Deon Cain,PIT,at TEN,6.8,F,0.1,-0.7,28% (2/7),0%,N/A
+151,Keke Coutee,HOU,vs. GB,4.6,F,0.1,-1,30% (3/10),0%,N/A
+152,Penny Hart,SEA,at ARI,-,F,0.1,-,-,0%,N/A
+153,Hakeem Butler,PHI,vs. NYG,-,F,0.1,-,-,0%,N/A
+154,Duke Williams,BUF,at NYJ,-,F,0.1,-,-,0%,N/A
+155,Riley Ridley,CHI,at LAR,-,F,0.1,-0.2,33% (2/6),0%,N/A
+156,Marcus Kemp,KC,at DEN,-,F,0.1,-0.3,0% (0/4),0%,N/A
+157,Nsimba Webster,LAR,vs. CHI,-,F,0.1,-0.1,0% (0/5),0%,N/A
+158,Brandon Zylstra,CAR,at NO,-,F,0.1,-0.2,16% (2/12),0%,N/A
+159,Marken Michel,CAR,at NO,-,F,0,-,-,0%,N/A

@@ -1,0 +1,29 @@
+Rank,Player Name,Team,Matchup,Best Rank,Worst Rank,Avg Rank,Std Dev,Status
+1,Jacksonville Jaguars,JAC,CLE,1,4,1.0,0.3
+2,Baltimore Ravens,BAL,GB,2,12,3.4,2.2
+3,Arizona Cardinals,ARI,HOU,1,21,4.2,2.8
+4,Kansas City Chiefs,KC,NYG,1,16,5.9,3.3
+5,Denver Broncos,DEN,CIN,2,19,6.1,2.9
+6,Detroit Lions,DET,CHI,2,15,6.7,2.9
+7,Cincinnati Bengals,CIN,DEN,4,17,8.4,2.5
+8,Pittsburgh Steelers,PIT,TEN,3,17,8.9,2.7
+9,Los Angeles Chargers,LAC,BUF,2,19,9.1,4.6
+10,Seattle Seahawks,SEA,ATL,3,18,10.1,3.1
+11,New Orleans Saints,NO,WAS,3,17,10.4,2.6
+12,Houston Texans,HOU,ARI,3,17,10.5,3.2
+13,Philadelphia Eagles,PHI,DAL,2,21,11.7,3.8
+14,Los Angeles Rams,LAR,MIN,2,22,13.7,3.8
+15,Miami Dolphins,MIA,TB,4,23,15.0,3.1
+16,Minnesota Vikings,MIN,LAR,6,27,15.9,3.0
+17,Chicago Bears,CHI,DET,2,24,16.2,3.8
+18,Green Bay Packers,GB,BAL,8,22,16.4,2.4
+19,Buffalo Bills,BUF,LAC,8,24,19.0,2.3
+20,New England Patriots,NE,OAK,10,25,19.5,2.5
+21,Tampa Bay Buccaneers,TB,MIA,5,27,18.8,3.6
+22,Atlanta Falcons,ATL,SEA,11,26,21.6,2.5
+23,Cleveland Browns,CLE,JAC,17,28,22.5,2.1
+24,Tennessee Titans,TEN,PIT,15,26,22.7,2.1
+25,Dallas Cowboys,DAL,PHI,16,27,24.2,2.1
+26,Washington Redskins,WAS,NO,22,28,26.0,1.2
+27,New York Giants,NYG,KC,20,28,26.4,1.3
+28,Oakland Raiders,OAK,NE,26,28,27.7,0.6

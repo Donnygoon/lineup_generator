@@ -1,0 +1,29 @@
+Player Name,Team,def_sack,def_int,def_fr,def_ff,def_td,def_safety,def_pa,def_tyda,fpts
+New York Jets,NYJ,2.4,1.4,0.6,1.0,0.3,0.0,14.4,253.0,9.2
+Kansas City Chiefs,KC,2.7,1.2,0.7,1.0,0.3,0.0,17.7,319.3,9.1
+Philadelphia Eagles,PHI,3.1,0.8,0.7,1.0,0.2,0.0,19.7,340.0,8.4
+Los Angeles Chargers,LAC,2.6,1.0,0.7,0.9,0.2,0.0,19.0,352.6,8.2
+Chicago Bears,CHI,3.1,0.8,0.7,1.1,0.3,0.0,20.4,353.9,7.8
+Washington Redskins,WAS,2.5,1.2,0.7,1.2,0.2,0.0,25.2,387.8,7.7
+Los Angeles Rams,LAR,3.1,0.9,0.8,1.0,0.2,0.0,22.9,363.9,7.5
+Atlanta Falcons,ATL,2.9,0.9,0.7,1.0,0.2,0.1,21.3,352.5,7.4
+Green Bay Packers,GB,2.8,0.9,0.6,0.8,0.2,0.0,21.3,339.0,7.2
+New England Patriots,NE,2.6,1.0,0.6,0.8,0.2,0.0,20.1,324.4,7.1
+Indianapolis Colts,IND,2.1,1.1,0.7,1.2,0.2,0.0,21.4,356.9,7.0
+New Orleans Saints,NO,2.2,1.0,0.6,0.8,0.3,0.0,25.1,379.4,6.9
+Dallas Cowboys,DAL,2.8,0.6,0.8,1.4,0.2,0.0,24.6,352.9,6.9
+New York Giants,NYG,2.2,1.0,0.7,1.1,0.2,0.0,24.3,352.0,6.9
+San Francisco 49ers,SF,2.7,0.8,0.6,0.9,0.2,0.0,21.9,352.7,6.9
+Carolina Panthers,CAR,2.0,1.0,0.7,1.0,0.2,0.1,27.4,411.8,6.8
+Jacksonville Jaguars,JAC,2.3,1.0,0.6,1.0,0.2,0.1,24.9,349.4,6.7
+Detroit Lions,DET,2.6,0.7,0.8,1.0,0.2,0.1,28.2,399.6,6.7
+Seattle Seahawks,SEA,2.3,0.9,0.7,1.2,0.2,0.1,28.0,391.5,6.6
+Pittsburgh Steelers,PIT,2.6,0.9,0.6,0.8,0.2,0.0,24.6,370.1,6.5
+Cleveland Browns,CLE,2.3,0.8,0.6,1.0,0.2,0.0,27.5,395.2,6.4
+Buffalo Bills,BUF,2.3,0.8,0.7,1.2,0.2,0.0,20.9,292.2,6.2
+Miami Dolphins,MIA,2.2,0.7,0.6,1.0,0.2,0.0,28.8,417.0,6.0
+Tennessee Titans,TEN,2.0,0.7,0.6,1.0,0.2,0.0,28.2,399.3,5.7
+Tampa Bay Buccaneers,TB,2.2,0.6,0.7,1.1,0.1,0.0,23.7,360.4,5.7
+Arizona Cardinals,ARI,2.0,0.7,0.6,0.8,0.1,0.0,32.1,396.9,5.4
+Cincinnati Bengals,CIN,1.7,0.7,0.6,0.7,0.2,0.0,31.1,417.2,5.2
+Oakland Raiders,OAK,1.2,0.6,0.6,0.7,0.1,0.0,32.3,458.2,4.4

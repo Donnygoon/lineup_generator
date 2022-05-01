@@ -1,0 +1,33 @@
+Player Name,Team,def_sack,def_int,def_fr,def_ff,def_td,def_assist,def_safety,def_pa,def_tyda,fpts
+Baltimore Ravens,BAL,2.9,1.2,0.8,1.2,0.2,0.0,0.0,14.7,269.7,9.2
+Arizona Cardinals,ARI,2.8,1.3,0.8,1.2,0.2,0.0,0.0,18.8,295.5,9.1
+Tampa Bay Buccaneers,TB,2.9,1.1,0.7,1.5,0.2,0.0,0.1,17.8,335.1,8.9
+Oakland Raiders,OAK,2.4,1.1,0.7,1.4,0.2,0.0,0.0,18.7,337.8,8.4
+Seattle Seahawks,SEA,2.7,0.9,0.7,1.2,0.2,0.0,0.0,15.0,271.8,8.2
+Kansas City Chiefs,KC,2.3,1.1,0.7,1.3,0.2,0.0,0.0,18.8,311.2,8.2
+Cincinnati Bengals,CIN,2.7,1.1,0.6,1.0,0.1,0.0,0.0,15.2,295.6,8.1
+Dallas Cowboys,DAL,2.5,1.0,0.7,1.1,0.2,0.0,0.0,19.3,326.1,7.9
+Pittsburgh Steelers,PIT,2.6,0.8,0.8,1.3,0.2,0.0,0.1,18.7,312.8,7.8
+Carolina Panthers,CAR,3.0,0.7,0.6,1.0,0.1,0.0,0.0,19.3,321.5,7.5
+Indianapolis Colts,IND,2.0,1.2,0.8,1.5,0.2,0.0,0.1,25.9,397.8,7.2
+New York Giants,NYG,2.2,1.0,0.5,0.8,0.2,0.0,0.0,20.0,351.8,7.1
+Washington Redskins,WAS,2.4,1.0,0.7,1.2,0.2,0.0,0.1,22.2,326.0,7.1
+Los Angeles Chargers,LAC,2.5,1.0,0.7,1.3,0.2,0.0,0.0,21.1,325.1,7.1
+Denver Broncos,DEN,2.1,0.8,0.7,1.2,0.1,0.0,0.0,19.8,310.5,6.9
+Houston Texans,HOU,2.4,1.1,0.6,1.0,0.2,0.0,0.0,20.8,318.0,6.9
+Los Angeles Rams,LAR,2.4,0.8,0.8,1.4,0.2,0.0,0.0,23.3,376.2,6.7
+Tennessee Titans,TEN,2.5,0.9,0.6,1.0,0.2,0.0,0.0,22.4,323.0,6.7
+Buffalo Bills,BUF,2.5,0.9,0.6,0.9,0.2,0.0,0.1,24.8,349.4,6.7
+Miami Dolphins,MIA,2.2,1.1,0.6,1.2,0.2,0.0,0.0,25.5,380.8,6.6
+Jacksonville Jaguars,JAC,2.3,0.8,0.7,1.2,0.2,0.0,0.0,22.7,327.2,6.6
+Philadelphia Eagles,PHI,2.4,0.7,0.8,1.3,0.2,0.0,0.0,23.2,336.9,6.4
+Minnesota Vikings,MIN,2.2,1.0,0.6,0.9,0.2,0.0,0.0,23.6,337.8,6.4
+Cleveland Browns,CLE,2.0,1.0,0.6,0.9,0.2,0.0,0.0,23.5,352.2,6.3
+Chicago Bears,CHI,2.3,1.0,0.6,0.9,0.1,0.0,0.0,25.0,359.3,6.3
+New England Patriots,NE,1.9,1.0,0.6,1.2,0.2,0.0,0.0,24.1,390.7,6.3
+Atlanta Falcons,ATL,2.4,0.7,0.6,0.9,0.2,0.0,0.0,26.1,410.5,6.0
+San Francisco 49ers,SF,2.4,0.7,0.6,1.0,0.2,0.0,0.0,27.1,390.1,6.0
+Detroit Lions,DET,1.9,1.0,0.6,0.9,0.2,0.0,0.0,22.4,346.3,6.0
+Green Bay Packers,GB,2.1,0.7,0.5,0.7,0.1,0.0,0.0,29.5,401.4,5.4
+New York Jets,NYJ,1.7,0.6,0.6,1.0,0.1,0.0,0.0,26.8,353.1,4.9
+New Orleans Saints,NO,1.8,0.5,0.6,1.0,0.1,0.0,0.0,32.5,435.5,4.9

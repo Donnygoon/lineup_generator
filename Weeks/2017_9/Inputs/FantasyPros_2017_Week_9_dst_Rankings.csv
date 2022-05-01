@@ -1,0 +1,27 @@
+Rank,Player Name,Team,Matchup,Best Rank,Worst Rank,Avg Rank,Std Dev,Status
+1,Jacksonville Jaguars,JAC,CIN,1,5,1.4,0.8
+2,Philadelphia Eagles,PHI,DEN,1,12,2.3,1.4
+3,Houston Texans,HOU,IND,1,19,4.5,2.7
+4,Seattle Seahawks,SEA,WAS,2,21,4.9,2.5
+5,Los Angeles Rams,LAR,NYG,1,12,5.4,2.1
+6,Arizona Cardinals,ARI,SF,1,16,6.2,3.0
+7,Buffalo Bills,BUF,NYJ,2,17,6.9,2.3
+8,New Orleans Saints,NO,TB,4,17,9.1,2.4
+9,Cincinnati Bengals,CIN,JAC,1,24,9.5,3.6
+10,Detroit Lions,DET,GB,3,19,9.8,2.8
+11,Baltimore Ravens,BAL,TEN,2,22,12.3,3.6
+12,Denver Broncos,DEN,PHI,5,25,12.1,3.1
+13,Carolina Panthers,CAR,ATL,8,20,12.7,2.1
+14,Tennessee Titans,TEN,BAL,3,23,12.9,3.2
+15,Atlanta Falcons,ATL,CAR,6,21,15.5,2.3
+16,San Francisco 49ers,SF,ARI,6,26,15.9,3.3
+17,Oakland Raiders,OAK,MIA,6,24,16.6,3.2
+18,Kansas City Chiefs,KC,DAL,8,25,17.7,3.5
+19,New York Jets,NYJ,BUF,12,25,19.1,2.5
+20,New York Giants,NYG,LAR,8,25,18.6,2.5
+21,Green Bay Packers,GB,DET,6,24,19.0,3.9
+22,Miami Dolphins,MIA,OAK,13,26,20.5,2.4
+23,Indianapolis Colts,IND,HOU,10,26,22.0,4.5
+24,Dallas Cowboys,DAL,KC,12,26,22.2,2.9
+25,Washington Redskins,WAS,SEA,11,26,22.9,2.7
+26,Tampa Bay Buccaneers,TB,NO,21,26,25.1,1.2

@@ -1,0 +1,33 @@
+Rank,Player Name,Team,Matchup,Best Rank,Worst Rank,Avg Rank,Std Dev,Status
+1,Seattle Seahawks,SEA,IND,1,3,1.2,0.4
+2,Jacksonville Jaguars,JAC,NYJ,1,11,2.3,1.3
+3,Arizona Cardinals,ARI,SF,1,12,3.6,1.6
+4,Green Bay Packers,GB,CHI,3,19,6.6,3.0,"The Packers have totaled three sacks in each of their first three games, but have yet to have an interception. The Bears have allowed the eighth-most points to opposing D/STs, and with a nationally-televised game at home on Thursday, the Packers should be set to play one of their best games. That makes the Packers D/ST a fine streaming option in Week 4. "
+5,Pittsburgh Steelers,PIT,BAL,3,19,6.6,3.1
+6,Denver Broncos,DEN,OAK,1,21,6.8,3.7
+7,Cincinnati Bengals,CIN,CLE,2,22,7.1,3.9
+8,Kansas City Chiefs,KC,WAS,2,19,7.7,2.9
+9,Minnesota Vikings,MIN,DET,5,22,9.9,2.9,"The Vikings have an outstanding defense, but it hasn't translated into much fantasy production just yet. They've totaled just five sacks and three interceptions, most of which came last weekend against the Bucs. They now draw a Detroit team that has allowed the 11th-fewest fantasy points to opposing D/STs, as Matthew Stafford has been generally careful with the ball. Still, at home and in a divisional game, the Vikings D/ST should be raring to go, and provide enough production to be a startable option in Week 4."
+10,New England Patriots,NE,CAR,4,21,10.7,3.2
+11,Philadelphia Eagles,PHI,LAC,2,21,12.3,3.6
+12,Tampa Bay Buccaneers,TB,NYG,5,22,12.5,3.0
+13,New York Giants,NYG,TB,7,27,13.5,3.1
+14,Houston Texans,HOU,TEN,5,26,14.0,3.9
+15,Atlanta Falcons,ATL,BUF,5,27,14.5,4.1
+16,Tennessee Titans,TEN,HOU,2,23,14.8,3.4
+17,Baltimore Ravens,BAL,PIT,3,24,15.1,4.5
+18,Los Angeles Chargers,LAC,PHI,4,26,17.6,3.2
+19,New York Jets,NYJ,JAC,8,29,19.4,3.4
+20,Los Angeles Rams,LAR,DAL,7,32,20.3,4.3
+21,Detroit Lions,DET,MIN,3,26,18.5,4.0,"The Lions D/ST has totaled seven interceptions, one fumble recovery, and three touchdowns through their first three games. They now get a Case Keenum-led Vikings offense which looked quite productive last week. But the Bucs were absolutely decimated by injuries, and it's unclear whether Keenum's success was due to his outstanding play or simply the lack of playmakers left standing for Tampa Bay. Given their success and the uncertainty around Keenum, the Lions D/ST makes a borderline startable option in Week 4. "
+22,Dallas Cowboys,DAL,LAR,4,25,18.7,4.3
+23,Oakland Raiders,OAK,DEN,13,28,22.2,3.6
+24,Cleveland Browns,CLE,CIN,8,32,22.6,4.1
+25,San Francisco 49ers,SF,ARI,12,32,24.8,3.5
+26,New Orleans Saints,NO,MIA,16,30,25.1,3.3
+27,Washington Redskins,WAS,KC,18,32,26.2,3.3
+28,Carolina Panthers,CAR,NE,15,32,27.1,3.6
+29,Chicago Bears,CHI,GB,17,32,28.1,3.4
+30,Buffalo Bills,BUF,ATL,19,32,28.6,3.2
+31,Miami Dolphins,MIA,NO,23,32,30.0,1.9
+32,Indianapolis Colts,IND,SEA,25,32,30.3,1.6

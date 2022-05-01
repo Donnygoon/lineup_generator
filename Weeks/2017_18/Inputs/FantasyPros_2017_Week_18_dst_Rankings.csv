@@ -1,0 +1,9 @@
+Rank,Player Name,Team,Matchup,Best Rank,Worst Rank,Avg Rank,Std Dev,Status
+1,Jacksonville Jaguars,JAC,BUF,1,2,1.1,0.3
+2,Kansas City Chiefs,KC,TEN,1,4,2.3,0.6
+3,New Orleans Saints,NO,CAR,1,4,3.1,0.8
+4,Los Angeles Rams,LAR,ATL,3,7,4.2,0.9
+5,Buffalo Bills,BUF,JAC,2,7,4.9,1.2
+6,Carolina Panthers,CAR,NO,5,8,6.3,1.0
+7,Atlanta Falcons,ATL,LAR,5,8,7.0,0.9
+8,Tennessee Titans,TEN,KC,5,8,7.3,0.8

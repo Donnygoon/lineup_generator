@@ -1,0 +1,9 @@
+Rank,Player Name,Team,Matchup,Best Rank,Worst Rank,Avg Rank,Std Dev,Status
+1,Tom Brady,NE,TEN,1,2,1.2,0.4
+2,Drew Brees,NO,MIN,1,5,3.3,1.5
+3,Matt Ryan,ATL,PHI,1,5,3.4,1.1
+4,Case Keenum,MIN,NO,2,6,3.5,1.2
+5,Ben Roethlisberger,PIT,JAC,2,6,3.9,1.2
+6,Marcus Mariota,TEN,NE,4,8,6.1,0.9
+7,Blake Bortles,JAC,PIT,7,8,7.3,0.4
+8,Nick Foles,PHI,ATL,6,8,7.5,0.7

@@ -1,0 +1,33 @@
+Player Name,Team,def_sack,def_int,def_fr,def_ff,def_td,def_safety,def_pa,def_tyda,fpts
+Green Bay Packers,GB,3.0,1.1,0.6,0.8,0.3,0.0,15.7,294.0,9.1
+Seattle Seahawks,SEA,2.7,1.2,0.6,1.0,0.2,0.0,19.9,344.1,8.8
+Carolina Panthers,CAR,2.9,1.4,0.7,1.0,0.3,0.0,26.0,409.1,8.7
+Chicago Bears,CHI,2.9,1.0,0.7,1.1,0.2,0.0,18.9,323.3,8.6
+Miami Dolphins,MIA,2.5,1.1,0.6,0.8,0.2,0.0,18.1,319.2,8.5
+Tennessee Titans,TEN,2.7,0.9,0.6,0.9,0.2,0.0,17.3,317.1,8.4
+Philadelphia Eagles,PHI,2.6,1.0,0.6,0.8,0.2,0.0,19.5,335.7,8.3
+Los Angeles Rams,LAR,3.0,1.1,0.7,1.1,0.2,0.0,22.5,356.6,8.0
+Kansas City Chiefs,KC,2.8,0.9,0.8,1.1,0.2,0.0,20.1,348.7,7.7
+Cleveland Browns,CLE,2.9,1.0,0.7,1.2,0.2,0.0,24.5,340.5,7.6
+Denver Broncos,DEN,2.7,1.2,0.6,0.8,0.2,0.0,21.0,329.9,7.5
+New Orleans Saints,NO,3.1,0.8,0.7,1.0,0.2,0.0,22.4,353.8,7.4
+Houston Texans,HOU,2.8,0.9,0.7,1.0,0.2,0.1,20.5,339.3,7.3
+Indianapolis Colts,IND,2.6,0.9,0.8,1.1,0.2,0.0,22.5,349.0,7.3
+Atlanta Falcons,ATL,2.4,1.0,0.6,0.7,0.2,0.0,25.1,373.9,7.0
+Buffalo Bills,BUF,2.2,1.0,0.6,1.0,0.2,0.0,20.9,302.9,6.8
+Washington Redskins,WAS,2.7,0.8,0.7,1.2,0.2,0.0,23.0,351.1,6.8
+New England Patriots,NE,2.2,0.9,0.7,0.9,0.2,0.0,21.5,361.6,6.6
+New York Jets,NYJ,2.6,0.8,0.6,0.8,0.2,0.0,24.6,332.2,6.6
+Los Angeles Chargers,LAC,1.8,1.1,0.5,0.7,0.2,0.1,26.4,418.0,6.5
+Jacksonville Jaguars,JAC,1.8,1.1,0.6,0.7,0.2,0.1,26.4,397.4,6.5
+Cincinnati Bengals,CIN,2.3,0.9,0.6,0.6,0.2,0.0,25.9,409.7,6.4
+Pittsburgh Steelers,PIT,2.7,0.8,0.6,0.8,0.1,0.0,26.3,391.2,6.4
+New York Giants,NYG,2.3,0.9,0.6,0.7,0.2,0.0,25.4,364.9,6.3
+Tampa Bay Buccaneers,TB,2.4,0.7,0.7,0.9,0.2,0.0,29.1,426.9,6.3
+Arizona Cardinals,ARI,3.0,0.5,0.6,1.0,0.1,0.0,27.2,383.9,6.2
+Detroit Lions,DET,2.3,0.7,0.6,0.9,0.2,0.1,33.7,447.3,6.2
+Minnesota Vikings,MIN,2.0,0.7,0.7,0.9,0.2,0.1,27.1,383.4,5.9
+Baltimore Ravens,BAL,2.5,0.7,0.5,0.7,0.2,0.0,22.5,338.8,5.9
+San Francisco 49ers,SF,2.6,0.6,0.5,0.6,0.1,0.0,29.1,361.0,5.6
+Oakland Raiders,OAK,1.4,0.9,0.5,0.6,0.2,0.0,36.3,461.3,5.1
+Dallas Cowboys,DAL,1.6,0.6,0.6,1.0,0.1,0.0,30.2,402.8,4.8

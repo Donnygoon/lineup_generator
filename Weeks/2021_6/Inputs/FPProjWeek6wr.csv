@@ -1,0 +1,159 @@
+Player Name,Team,rec_att,rec_yds,rec_tds,rush_att,rush_yds,rush_tds,fumbles,fpts
+Davante Adams,GB,7.9,102.8,0.8,0.0,0.0,0.0,0.1,22.9
+Tyreek Hill,KC,6.5,91.9,0.8,1.1,6.5,0.0,0.1,21.2
+Cooper Kupp,LAR,7.0,87.5,0.8,0.3,1.2,0.0,0.1,20.6
+Stefon Diggs,BUF,6.5,87.7,0.7,0.1,0.5,0.0,0.1,19.3
+D.J. Moore,CAR,6.3,90.0,0.5,0.5,3.6,0.0,0.1,18.8
+Terry McLaurin,WAS,6.1,86.7,0.7,0.1,0.4,0.0,0.1,18.6
+Diontae Johnson,PIT,7.1,79.0,0.6,0.1,0.8,0.0,0.1,18.6
+Justin Jefferson,MIN,5.8,84.6,0.6,0.0,0.2,0.0,0.0,17.5
+Keenan Allen,LAC,6.8,74.8,0.5,0.1,0.5,0.0,0.1,17.3
+DeAndre Hopkins,ARI,6.0,76.7,0.6,0.0,0.2,0.0,0.1,17.3
+Ja'Marr Chase,CIN,5.2,77.8,0.7,0.3,1.3,0.0,0.1,17.0
+Marquise Brown,BAL,5.3,72.2,0.6,0.2,1.1,0.0,0.0,16.5
+Mike Evans,TB,5.1,73.8,0.6,0.0,0.0,0.0,0.0,16.3
+Brandin Cooks,HOU,5.7,77.7,0.4,0.3,1.5,0.0,0.0,16.2
+DeVonta Smith,PHI,5.5,74.1,0.5,0.1,0.6,0.0,0.1,16.0
+D.K. Metcalf,SEA,5.1,76.5,0.6,0.0,0.2,0.0,0.1,16.0
+Robert Woods,LAR,5.7,66.8,0.5,1.2,6.7,0.1,0.1,16.0
+Mike Williams,LAC,5.0,71.9,0.6,0.0,0.2,0.0,0.0,15.9
+Chris Godwin,TB,5.4,70.8,0.5,0.1,0.5,0.0,0.1,15.8
+CeeDee Lamb,DAL,5.5,72.3,0.4,0.7,4.2,0.0,0.1,15.7
+Courtland Sutton,DEN,5.3,74.8,0.5,0.0,0.2,0.0,0.0,15.6
+Amari Cooper,DAL,5.0,67.0,0.6,0.1,0.7,0.0,0.1,15.1
+Chase Claypool,PIT,5.0,69.5,0.4,0.5,2.5,0.0,0.0,15.0
+Michael Pittman Jr.,IND,5.4,69.6,0.4,0.2,1.5,0.0,0.0,14.9
+Antonio Brown,TB,4.7,63.0,0.6,0.3,1.5,0.0,0.0,14.9
+Adam Thielen,MIN,5.0,61.2,0.6,0.1,0.4,0.0,0.0,14.8
+Tyler Lockett,SEA,5.6,71.3,0.3,0.1,0.4,0.0,0.0,14.7
+A.J. Brown,TEN,4.6,66.3,0.5,0.2,1.6,0.0,0.0,14.6
+Jaylen Waddle,MIA,5.6,66.0,0.3,0.4,2.4,0.0,0.1,14.5
+Jakobi Meyers,NE,6.1,72.7,0.2,0.1,0.2,0.0,0.0,14.4
+Emmanuel Sanders,BUF,4.7,61.5,0.5,0.1,0.6,0.0,0.0,14.2
+Tyler Boyd,CIN,5.3,62.3,0.4,0.1,1.0,0.0,0.1,14.0
+Marvin Jones Jr.,JAC,4.7,66.6,0.4,0.0,0.0,0.0,0.0,13.8
+Tee Higgins,CIN,4.7,62.9,0.4,0.1,0.6,0.0,0.1,13.4
+Kadarius Toney,NYG,4.9,61.1,0.3,0.6,3.2,0.0,0.0,13.4
+Tim Patrick,DEN,4.5,59.3,0.4,0.1,0.7,0.0,0.0,13.1
+Laviska Shenault Jr.,JAC,4.6,55.5,0.4,1.0,5.1,0.0,0.0,12.8
+Odell Beckham Jr.,CLE,4.2,62.8,0.3,0.4,2.9,0.0,0.0,12.6
+Allen Robinson II,CHI,4.9,59.2,0.3,0.0,0.0,0.0,0.0,12.4
+Julio Jones,TEN,4.6,63.3,0.2,0.0,0.1,0.0,0.0,12.4
+Cole Beasley,BUF,4.8,54.1,0.3,0.0,0.0,0.0,0.0,12.1
+Hunter Renfrow,LV,4.6,54.7,0.3,0.0,0.0,0.0,0.0,11.6
+Sterling Shepard,NYG,4.8,54.5,0.2,0.3,1.8,0.0,0.0,11.5
+Robby Anderson,CAR,4.1,54.6,0.3,0.3,1.5,0.0,0.0,11.2
+Darnell Mooney,CHI,4.3,51.3,0.2,0.3,1.9,0.0,0.0,11.0
+Amon-Ra St. Brown,DET,4.5,52.7,0.2,0.1,0.3,0.0,0.1,10.7
+Mecole Hardman,KC,3.7,48.4,0.3,0.6,3.8,0.0,0.1,10.5
+Nelson Agholor,NE,3.9,50.5,0.2,0.2,1.1,0.0,0.0,10.3
+Henry Ruggs III,LV,3.2,54.3,0.2,0.5,2.2,0.0,0.1,10.0
+Rondale Moore,ARI,3.3,42.0,0.3,0.9,5.4,0.0,0.0,9.9
+Christian Kirk,ARI,3.5,45.4,0.2,0.2,1.6,0.0,0.0,9.3
+A.J. Green,ARI,3.4,46.8,0.2,0.0,0.0,0.0,0.0,9.3
+Jalen Reagor,PHI,3.6,43.0,0.2,0.2,1.3,0.0,0.0,9.1
+Kalif Raymond,DET,3.1,45.7,0.2,0.1,0.3,0.0,0.0,8.8
+Randall Cobb,GB,3.3,41.1,0.2,0.1,0.4,0.0,0.0,8.7
+Van Jefferson,LAR,3.1,40.9,0.2,0.0,0.1,0.0,0.0,8.5
+Zach Pascal,IND,3.0,39.7,0.2,0.0,0.2,0.0,0.0,8.3
+Allen Lazard,GB,2.8,38.5,0.2,0.1,0.6,0.0,0.0,8.0
+Kendrick Bourne,NE,2.9,38.7,0.2,0.1,0.8,0.0,0.0,7.9
+K.J. Osborn,MIN,3.0,37.0,0.1,0.1,0.8,0.0,0.0,7.7
+Terrace Marshall Jr.,CAR,3.1,37.5,0.1,0.0,0.3,0.0,0.0,7.6
+Quez Watkins,PHI,2.9,39.3,0.1,0.0,0.3,0.0,0.0,7.5
+Adam Humphries,WAS,3.2,35.3,0.1,0.0,0.1,0.0,0.0,7.5
+Bryan Edwards,LV,2.4,37.5,0.1,0.0,0.0,0.0,0.0,6.9
+Albert Wilson,MIA,2.7,31.1,0.1,0.1,0.6,0.0,0.0,6.8
+T.Y. Hilton,IND,2.3,31.9,0.2,0.0,0.1,0.0,0.0,6.4
+Rashard Higgins,CLE,2.3,33.1,0.1,0.0,0.0,0.0,0.0,6.4
+Jarvis Landry,CLE,2.3,25.9,0.3,0.0,0.0,0.0,0.0,6.3
+James Washington,PIT,2.4,32.4,0.1,0.0,0.0,0.0,0.0,6.2
+Cedrick Wilson Jr.,DAL,2.3,28.4,0.2,0.2,0.7,0.0,0.0,6.2
+Rashod Bateman,BAL,2.4,30.1,0.1,0.1,0.5,0.0,0.0,6.1
+Chris Conley,HOU,2.3,31.5,0.1,0.0,0.2,0.0,0.1,6.1
+Danny Amendola,HOU,2.5,27.3,0.1,0.0,0.1,0.0,0.0,6.0
+Devin Duvernay,BAL,2.4,28.5,0.1,0.1,1.2,0.0,0.0,5.9
+Donovan Peoples-Jones,CLE,2.2,32.1,0.1,0.0,0.1,0.0,0.1,5.9
+Tavon Austin,JAC,2.4,27.3,0.1,0.3,1.5,0.0,0.0,5.8
+Jalen Guyton,LAC,1.9,27.7,0.1,0.4,2.4,0.0,0.0,5.6
+DeSean Jackson,LAR,1.8,28.5,0.1,0.0,0.3,0.0,0.0,5.5
+Freddie Swain,SEA,2.1,26.2,0.1,0.3,1.6,0.0,0.0,5.4
+KhaDarel Hodge,DET,2.0,28.0,0.1,0.0,0.0,0.0,0.0,5.4
+Dyami Brown,WAS,1.9,25.4,0.1,0.1,0.6,0.0,0.0,5.2
+Kendall Hinton,DEN,1.8,22.1,0.2,0.2,1.1,0.0,0.0,5.1
+Parris Campbell,IND,2.1,24.6,0.1,0.2,1.5,0.0,0.0,5.0
+Demarcus Robinson,KC,1.8,21.9,0.2,0.0,0.0,0.0,0.0,4.9
+John Ross,NYG,1.7,24.2,0.1,0.1,0.2,0.0,0.0,4.9
+Jamal Agnew,JAC,1.9,20.3,0.1,0.5,3.0,0.0,0.0,4.8
+John Brown,DEN,1.7,24.2,0.1,0.1,0.2,0.0,0.0,4.8
+Josh Gordon,KC,1.5,23.6,0.1,0.0,0.0,0.0,0.0,4.7
+DeAndre Carter,WAS,1.7,21.3,0.1,0.3,2.0,0.0,0.0,4.5
+Tyler Johnson,TB,1.6,22.0,0.1,0.0,0.0,0.0,0.0,4.5
+Chester Rogers,TEN,1.9,20.5,0.1,0.1,0.7,0.0,0.0,4.5
+Marquise Goodwin,CHI,1.5,21.9,0.1,0.3,1.2,0.0,0.0,4.4
+Mack Hollins,MIA,1.7,21.5,0.1,0.0,0.0,0.0,0.0,4.4
+Trinity Benson,DET,1.7,21.3,0.1,0.0,0.2,0.0,0.0,4.3
+Chris Moore,HOU,1.6,21.9,0.1,0.1,0.1,0.0,0.0,4.3
+Nico Collins,HOU,1.5,19.6,0.1,0.0,0.3,0.0,0.0,4.0
+N'Keal Harry,NE,1.7,18.4,0.1,0.1,0.7,0.0,0.0,4.0
+James Proche II,BAL,1.5,19.3,0.1,0.0,0.2,0.0,0.0,4.0
+Josh Reynolds,TEN,1.6,19.3,0.1,0.0,0.2,0.0,0.0,4.0
+Ray-Ray McCloud,PIT,2.0,14.5,0.0,0.3,2.7,0.0,0.1,3.8
+Marcus Johnson,TEN,1.3,18.9,0.1,0.0,0.0,0.0,0.0,3.6
+Joshua Palmer,LAC,1.4,15.4,0.1,0.1,0.5,0.0,0.0,3.6
+Collin Johnson,NYG,1.3,18.3,0.1,0.0,0.0,0.0,0.0,3.5
+Gabriel Davis,BUF,1.1,17.3,0.1,0.0,0.0,0.0,0.0,3.4
+Isaiah Ford,MIA,1.4,16.0,0.1,0.0,0.1,0.0,0.0,3.3
+Byron Pringle,KC,1.2,15.5,0.1,0.0,0.0,0.0,0.0,3.2
+Dede Westbrook,MIN,1.3,13.5,0.1,0.1,0.4,0.0,0.0,3.0
+Anthony Schwartz,CLE,1.1,13.7,0.1,0.3,2.1,0.0,0.0,2.9
+Greg Ward,PHI,1.2,12.1,0.1,0.0,0.0,0.0,0.0,2.8
+Anthony Miller,PIT,1.2,13.6,0.0,0.0,0.1,0.0,0.0,2.8
+Noah Brown,DAL,1.1,13.2,0.0,0.0,0.1,0.0,0.0,2.7
+Damiere Byrd,CHI,1.0,12.8,0.1,0.0,0.1,0.0,0.0,2.6
+Auden Tate,CIN,1.1,13.2,0.0,0.0,0.0,0.0,0.0,2.6
+Brandon Zylstra,CAR,0.9,12.6,0.1,0.0,0.2,0.0,0.0,2.5
+David Moore,DEN,0.8,10.8,0.1,0.1,0.6,0.0,0.0,2.3
+C.J. Board,NYG,0.9,10.8,0.0,0.1,0.3,0.0,0.0,2.3
+Geronimo Allison,DET,0.9,10.7,0.0,0.0,0.2,0.0,0.0,2.2
+Zay Jones,LV,0.8,9.8,0.1,0.0,0.0,0.0,0.0,2.2
+Dax Milne,WAS,0.8,9.7,0.1,0.0,0.1,0.0,0.0,2.1
+Isaiah McKenzie,BUF,0.8,7.4,0.0,0.2,1.6,0.0,0.0,2.0
+Willie Snead IV,LV,0.8,9.6,0.0,0.0,0.0,0.0,0.0,2.0
+Jakeem Grant Sr.,CHI,0.8,9.4,0.0,0.0,0.1,0.0,0.0,1.9
+Penny Hart,SEA,0.8,9.8,0.0,0.0,0.1,0.0,0.0,1.9
+Nick Westbrook-Ikhine,TEN,0.6,8.9,0.0,0.0,0.1,0.0,0.0,1.7
+Diontae Spencer,DEN,0.9,6.9,0.0,0.3,1.4,0.0,0.1,1.7
+Jody Fortson,KC,0.7,9.6,0.0,0.0,0.1,0.0,0.0,1.7
+Amari Rodgers,GB,0.6,8.4,0.0,0.0,0.2,0.0,0.0,1.6
+Miles Boykin,BAL,0.6,6.4,0.0,0.0,0.0,0.0,0.0,1.4
+Ashton Dulin,IND,0.5,7.1,0.0,0.0,0.8,0.0,0.0,1.4
+Trenton Irwin,CIN,0.5,5.0,0.1,0.0,0.0,0.0,0.0,1.3
+Equanimeous St. Brown,GB,0.5,6.5,0.0,0.0,0.1,0.0,0.0,1.2
+Jake Kumerow,BUF,0.4,6.6,0.0,0.0,0.0,0.0,0.0,1.1
+Phillip Dorsett II,SEA,0.4,5.2,0.0,0.0,0.2,0.0,0.0,1.1
+Laquon Treadwell,JAC,0.4,5.0,0.0,0.0,0.0,0.0,0.0,1.0
+Alex Erickson,CAR,0.4,5.0,0.0,0.1,0.5,0.0,0.0,1.0
+Kirk Merritt,MIA,0.4,4.8,0.0,0.0,0.1,0.0,0.0,0.9
+Tom Kennedy,DET,0.4,5.0,0.0,0.0,0.1,0.0,0.0,0.9
+Tyrie Cleveland,DEN,0.4,4.5,0.0,0.0,0.0,0.0,0.0,0.9
+Malik Turner,DAL,0.3,4.3,0.0,0.0,0.1,0.0,0.0,0.8
+K.J. Hill Jr.,LAC,0.3,4.1,0.0,0.0,0.1,0.0,0.0,0.8
+Cameron Batson,TEN,0.3,3.7,0.0,0.1,0.7,0.0,0.0,0.8
+J.J. Arcega-Whiteside,PHI,0.3,4.2,0.0,0.0,0.0,0.0,0.0,0.7
+Mike Thomas,CIN,0.3,3.7,0.0,0.0,0.0,0.0,0.0,0.7
+Antonio Gandy-Golden,WAS,0.3,3.4,0.0,0.0,0.3,0.0,0.0,0.7
+Ben Skowronek,LAR,0.2,3.3,0.0,0.0,0.2,0.0,0.0,0.7
+Andre Roberts,HOU,0.2,3.0,0.0,0.0,0.4,0.0,0.0,0.6
+Tutu Atwell,LAR,0.2,2.9,0.0,0.0,0.3,0.0,0.0,0.6
+Marcus Kemp,KC,0.2,2.9,0.0,0.0,0.1,0.0,0.0,0.6
+Mike Strachan,IND,0.2,2.8,0.0,0.0,0.1,0.0,0.0,0.5
+Ihmir Smith-Marsette,MIN,0.2,2.3,0.0,0.0,0.3,0.0,0.0,0.5
+Matthew Slater,NE,0.1,3.0,0.0,0.0,0.2,0.0,0.0,0.5
+Gunner Olszewski,NE,0.1,2.2,0.0,0.0,0.1,0.0,0.0,0.4
+Jaydon Mickens,TB,0.1,2.3,0.0,0.0,0.1,0.0,0.0,0.4
+Stanley Morgan Jr.,CIN,0.2,1.9,0.0,0.0,0.1,0.0,0.0,0.4
+Andy Isabella,ARI,0.1,2.0,0.0,0.0,0.0,0.0,0.0,0.3
+Antoine Wesley,ARI,0.1,2.0,0.0,0.0,0.0,0.0,0.0,0.3
+Tylan Wallace,BAL,0.1,1.0,0.0,0.0,0.0,0.0,0.0,0.2
+Davion Davis,HOU,0.1,1.0,0.0,0.0,0.0,0.0,0.0,0.2
